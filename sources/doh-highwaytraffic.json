@@ -1,0 +1,4076 @@
+{
+ "source": "https://highwaytraffic.go.th/DOHWeb/Home.aspx",
+ "fetched": "2026-09-27T20:57:46+0700",
+ "note": "GetSiteInfo/GetCameraInfo need ASP.NET_SessionId from Home.aspx; streams are Wowza HLS",
+ "cameras": [
+  {
+   "siteId": 2753,
+   "code": "PER-3-003",
+   "name": "1 - อ.หนองแค จ.สระบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม.92-93  ต.ห้วยขมิ้น อ.หนองแค จ.สระบุรี",
+   "lat": 14.3914,
+   "lng": 100.888,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางออกจากกรุงเทพ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_003_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_003_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_003_IN.stream/playlist.m3u8": 404,
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_003_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2767,
+   "code": "PER-3-004",
+   "name": "ถ.เพชรเกษม อ้อมใหญ่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม.26-27  ต.อ้อมใหญ่ อ.สามพราน จ.นครปฐม",
+   "lat": 13.708,
+   "lng": 100.2841,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าหนองแขม",
+    "ทิศทางมุ่งหน้าสามพราน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_004_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_004_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_004_IN.stream/playlist.m3u8": 404,
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_004_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2768,
+   "code": "PER-3-005",
+   "name": "ถ.กาญจนาภิเษก บางแค",
+   "detail": "ทางหลวงหมายเลข 9 (ถ.กาญจนาภิเษก)\r\nระหว่าง กม.24-25 เขตบางแค\r\n(ช่วง ถ.เพชรเกษม - ถ.บรมราชชนนี)",
+   "lat": 13.7434,
+   "lng": 100.4058,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้าพระประแดง",
+    "มุ่งหน้าบางบัวทอง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_005_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_005_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_005_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_005_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2771,
+   "code": "PER-3-008",
+   "name": "ถ.วิภาดีรังสิต ดอนเมือง",
+   "detail": "ทางหลวงหมายเลข 31 (ถ.วิภาวดีรังสิต) ระหว่าง\r\nกม.24-25 บริเวณหน้าท่าอากาศยานดอนเมือง",
+   "lat": 13.9277,
+   "lng": 100.6058,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้าแยกหลักสี่",
+    "มุ่งหน้ารังสิต"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_008_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_008_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_008_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_008_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2772,
+   "code": "PER-3-009",
+   "name": "ถ.บางนา-บางปะกง กม.6",
+   "detail": "ทางหลวงหมายเลข 34 (ถ.บางนา-บางปะกง)\r\nระหว่าง กม.6-7 (ช่วง ถ.ศรีนครินทร์ -\r\nถ.กาญจนาภิเษก)",
+   "lat": 13.6612,
+   "lng": 100.6617,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าบางนา",
+    "ทิศทางมุ่งหน้าบางปะกง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_009_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_009_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_009_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_009_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2776,
+   "code": "PER-3-013",
+   "name": "305 - อ.องครักษ์ จ.นครนายก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 305 ระหว่าง กม.35-36 ต.บึงศาล อ.องค์รักษ์ จ.นครนายก",
+   "lat": 14.0879,
+   "lng": 100.9253,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้านครนายก"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_013.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_013.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2779,
+   "code": "PER-3-016",
+   "name": "ถ.กิ่งแก้ว",
+   "detail": "ทางหลวงหมายเลข 3256 (ถ.กิ่งแก้ว)\r\nระหว่าง กม.20-21 บริเวณซอยกิ่งแก้ว 37/1",
+   "lat": 13.6974,
+   "lng": 100.7321,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า อ.เมือง จ.สมุทรปราการ",
+    "ทิศทางมุ่งหน้าลาดกระบัง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_016_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_016_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_016_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_016_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2780,
+   "code": "PER-3-017",
+   "name": "ถ.ลำลูกกา กม.9",
+   "detail": "ทางหลวงหมายเลข 3312 (ถ.ลำลูกกา) ระหว่าง กม.9-10\r\nบริเวณโรงเรียนวัดคลองชัน",
+   "lat": 13.9329,
+   "lng": 100.6882,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า ถ.พหลโยธิน",
+    "ทิศทางมุ่งหน้า ถ.กาญจนาภิเษก"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_017.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_017.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2781,
+   "code": "PER-3-018",
+   "name": "ถ.ศรีนครินทร์ กม.16",
+   "detail": "ทางหลวงหมายเลข 3344 (ถ.ศรีนครินทร์)\r\nระหว่าง กม.16-17 (ช่วง ถ.เทพารักษ์ -\r\nทางด่วนบางพลี-สุขสวัสดิ์)",
+   "lat": 13.6235,
+   "lng": 100.6248,
+   "pinClass": "pin7",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้า อ.เมืองสมุทรปราการ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_018.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase3/PER_3_018.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2784,
+   "code": "PER-4-002",
+   "name": "2 - อ.ปากช่อง จ.นครราชสีมา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 2 ระหว่าง กม.42-43 ต.กลางดง อ.ปากช่อง จ.นครราชสีมา",
+   "lat": 14.6397,
+   "lng": 101.2704,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.สระบุรี",
+    "ทิศทางมุ่งหน้าตัวเมืองนครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_002_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_002_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_002_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_002_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2785,
+   "code": "PER-4-003",
+   "name": "2 - อ.สีคิ้ว จ.นครราชสีมา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 2 ระหว่าง กม.99-100 ต.ลาดบัวขาว อ.สีคิ้ว จ.นครราชสีมา",
+   "lat": 14.8564,
+   "lng": 101.6727,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.สระบุรี",
+    "ทิศทางมุ่งหน้าตัวเมืองนครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_003.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_003_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_003.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_003_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2792,
+   "code": "PER-4-010",
+   "name": "21 - อ.พัฒนานิคม จ.ลพบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 21 ระหว่าง กม.22-23 ต.ดีลัง อ.พัฒนานิคม จ.ลพบุรี",
+   "lat": 14.8533,
+   "lng": 100.9095,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.สระบุรี",
+    "ทิศทางมุ่งหน้า จ.เพชรบูรณ์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_010.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_010.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2793,
+   "code": "PER-4-011",
+   "name": "32 - อ.บางปะหัน จ.อยุธยา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 32 ที่ กม.43 ต.หันสัง อ.บางปะหัน จ.พระนครศรีอยุธยา",
+   "lat": 14.523,
+   "lng": 100.508,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้า จ.อ่างทอง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_011_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_011_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_011_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_011_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2797,
+   "code": "PER-4-015",
+   "name": "122 - ทางเลี่ยงเมืองนครสวรรค์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 122 (ทางเลี่ยงเมืองนครสวรรค์ด้านทิศตะวันตก) ระหว่าง กม.7-8 ต.นครสวรรค์ตก อ.เมือง จ.นครสวรรค์",
+   "lat": 15.6601,
+   "lng": 100.0699,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.ชัยนาท",
+    "ทิศทางมุ่งหน้า จ.กำแพงเพชร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_015.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_015.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2798,
+   "code": "PER-4-016",
+   "name": "ถ.แจ้งวัฒนะ",
+   "detail": "ทางหลวงหมายเลข 304 (ถ.แจ้งวัฒนะ) ระหว่าง\r\nกม.3-4 ใกล้ห้างเซ็นทรัลพลาซ่า แจ้งวัฒนะ",
+   "lat": 13.9032,
+   "lng": 100.5314,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าแยกปากเกร็ด",
+    "ทิศทางมุ่งหน้าแยกหลักสี่"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_016_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_016_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_016_IN.stream/playlist.m3u8": 404,
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_016_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2802,
+   "code": "PER-4-020",
+   "name": "ถ.บรมราชชนนี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 338 (ถ.บรมราชชนนี) ระหว่าง กม.26-27 ต.หอมเกร็ด อ.สามพราน จ.นครปฐม",
+   "lat": 13.777,
+   "lng": 100.2232,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้า อ.นครชัยศรี จ.นครปฐม"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_020.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_020.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2804,
+   "code": "PER-4-022",
+   "name": "345 - อ.เมือง จ.ปทุมธานี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 345 ระหว่าง กม.6-7 ต.บางคูวัด อ.เมือง จ.ปทุมธานี",
+   "lat": 13.9531,
+   "lng": 100.4734,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าสะพานนนทบุรี (สะพานนวลฉวี)",
+    "ทิศทางมุ่งหน้าบางบัวทอง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_022.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_022.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2805,
+   "code": "PER-4-023",
+   "name": "347 - อ.บางปะอิน จ.อยุธยา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 347 ที่ กม.20 ต.บางกระสั้น อ.บางปะอิน จ.พระนครศรีอยุธยา",
+   "lat": 14.1844,
+   "lng": 100.5567,
+   "pinClass": "pin8",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้าตัวเมืองอยุธยา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_023.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase4/PER_4_023.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2978,
+   "code": "PER-5-001",
+   "name": "1 - อ.วังน้อย จ.พระนครศรีอยุธยา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม.60-61 ต.ลำไทร อ.วังน้อย จ.พระนครศรีอยุธยา",
+   "lat": 14.2125,
+   "lng": 100.68,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้าสระบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_001_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_001_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_001_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_001_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2980,
+   "code": "PER-5-003",
+   "name": "3 -  อ.เมืองระยอง จ.ระยอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3 ระหว่าง กม.207-208 ต.มาบตาพุด อ.เมืองระยอง จ.ระยอง",
+   "lat": 12.7195,
+   "lng": 101.1583,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า อ.สัตหีบ",
+    "ทิศทางมุ่งหน้าตัวเมืองระยอง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_003.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2981,
+   "code": "PER-5-004",
+   "name": "3 -  อ.ท่าใหม่ จ.จันทบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3 ที่ กม. 307 ต.ทุ่งเบญจา อ.ท่าใหม่ จ.จันทบุรี",
+   "lat": 12.716,
+   "lng": 101.9789,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าระยอง",
+    "ทิศทางมุ่งหน้าตัวเมืองจันทุบรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_004.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2982,
+   "code": "PER-5-005",
+   "name": "3 - อ.ขลุง จ.จันทบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3 ระหว่าง กม.370-371 ต.บ่อ อ.ขลุง จ.จันทบุรี",
+   "lat": 12.4186,
+   "lng": 102.3255,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าตัวเมืองจันทบุรี",
+    "ทิศทางมุ่งหน้า จ.ตราด"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_005.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_005.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2983,
+   "code": "PER-5-006",
+   "name": "4 - อ.ชะอำ จ.เพชรบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม.199-200 ต.เขาใหญ่ อ.ชะอำ จ.เพชรบุรี",
+   "lat": 12.8293,
+   "lng": 99.9352,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้าหัวหิน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_006_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_006_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_006_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_006_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2984,
+   "code": "PER-5-007",
+   "name": "4 - อ.ชะอำ จ.เพชรบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม.219-220 ต.ชะอำ อ.ชะอำ จ.เพชรบุรี",
+   "lat": 12.6745,
+   "lng": 99.9524,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ากรุงเทพ",
+    "ทิศทางมุ่งหน้าหัวหิน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_007_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_007_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_007_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_007_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2985,
+   "code": "PER-5-008",
+   "name": "4 - อ.บางสะพาน จ.ประจวบคีรีขันธ์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม.392-393 ต.ทองมงคล อ.บางสะพาน จ.ประจวบคีรีขันธ์",
+   "lat": 11.2044,
+   "lng": 99.4042,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.เพชรบุรี",
+    "ทิศทางมุ่งหน้า จ.ชุมพร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_008.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 2988,
+   "code": "PER-5-011",
+   "name": "33 - อ.ประจันตคาม จ.ปราจีนบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 33 ระหว่าง กม.174-175 ต.ประจันตคาม อ.ประจันตคาม จ.ปราจีนบุรี",
+   "lat": 14.0669,
+   "lng": 101.5304,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.นครนายก",
+    "ทิศทางมุ่งหน้า จ.สระแก้ว"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_011.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2993,
+   "code": "PER-5-016",
+   "name": "41 - อ.สวี จ.ชุมพร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 41 ระหว่าง กม.31-32 ต.สวี อ.สวี จ.ชุมพร",
+   "lat": 10.2515,
+   "lng": 99.0874,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.ประจวบคีรีขันธ์",
+    "ทิศทางมุ่งหน้า จ.สุราษฎร์ธานี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_016.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_016.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2994,
+   "code": "PER-5-017",
+   "name": "41 - อ.ท่าฉาง จ.สุราษฎร์ธานี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 41 ระหว่าง กม.139-140 ต.เสวียด อ.ท่าฉาง จ.สุราษฎร์ธานี",
+   "lat": 9.3219,
+   "lng": 99.1493,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้ จ.ชุมพร",
+    "ทิศทางมุ่งหน้า จ.นครศรีธรรมราช"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_017.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_017.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 2996,
+   "code": "PER-5-019",
+   "name": "41 - อ.จุฬาภรณ์ จ.นครศรีธรรมราช",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 41 ระหว่าง กม.324 -325 ต.สามตำบล อ.จุฬาภรณ์ จ.นครศรีธรรมราช",
+   "lat": 8.0712,
+   "lng": 99.89,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.สุราษฎร์ธานี",
+    "ทิศทางมุ่งหน้า จ.พัทลุง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_019.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_019.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3000,
+   "code": "PER-5-023",
+   "name": "402 - อ.ถลาง จ.ภูเก็ต",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 402 ระหว่าง กม.12-13 ต.ไม้ขาว อ.ถลาง จ.ภูเก็ต",
+   "lat": 8.1716,
+   "lng": 98.2993,
+   "pinClass": "pin11",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้า จ.พังงา",
+    "ทิศทางมุ่งหน้าตัวเมืองภูเก็ต"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_023_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_023_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_023_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase5/PER_5_023_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3050,
+   "code": "PER-6-002",
+   "name": null,
+   "detail": null,
+   "lat": 15.4122,
+   "lng": 100.1473,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.ชัยนาท",
+    "มุ่งหน้า จ.นครสวรรค์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_002_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_002_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_002_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_002_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3051,
+   "code": "PER-6-003",
+   "name": "1 -  อ.คลองขลุง จ.กำแพงเพชร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม.424-425 ต.ท่าพุทรา อ.คลองขลุง จ.กำแพงเพชร",
+   "lat": 16.272055,
+   "lng": 99.683517,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.นครสวรรค์",
+    "มุ่งหน้า จ.กำแพงเพชร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_003.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3052,
+   "code": "PER-6-004",
+   "name": "1 -  อ.เมืองตาก จังหวัดตาก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม.511-512 ต.ประดาง อ.เมืองตาก จ.ตาก",
+   "lat": 16.7981,
+   "lng": 99.1534,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.กำแพงเพชร",
+    "มุ่งหน้า จ.ตาก"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_004.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3054,
+   "code": "PER-6-006",
+   "name": "11 -  อ.เมืองพิษณุโลก จ.พิษณุโลก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 11 ระหว่าง กม.224-225 ต.สมอแข อ.เมือง จ.พิษณุโลก",
+   "lat": 16.824,
+   "lng": 100.3316,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ขาเข้า กทม",
+    "ขาออก พิษณุโลก"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_006.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_006.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3055,
+   "code": "PER-6-007",
+   "name": "11 -  อ.เมืองอุตรดิตถ์ จ.อุตรดิตถ์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 11 ระหว่าง กม.330-331 ต.น้ำริด อ.เมืองอุตรดิตถ์ จ.อุตรดิตถ์",
+   "lat": 17.690851,
+   "lng": 100.142021,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.อุตรดิตถ์",
+    "มุ่งหน้า จ.แพร่"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_007.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_007.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3056,
+   "code": "PER-6-008",
+   "name": "11 -  อ.เมืองลำปาง จ.ลำปาง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 11 ระหว่าง กม.451-452 ต.พระบาท อ.เมืองลำปาง จ.ลำปาง",
+   "lat": 18.2558,
+   "lng": 99.5491,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.แพร่",
+    "มุ่งหน้า จ.ลำปาง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_008.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3057,
+   "code": "PER-6-009",
+   "name": "11 -  อ.ห้างฉัตร จ.ลำปาง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 11 ระหว่าง กม.472- 473 ต.ปงยางคก อ.ห้างฉัตร จ.ลำปาง",
+   "lat": 18.3078,
+   "lng": 99.3946,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.ลำปาง",
+    "มุ่งหน้า จ.ลำพูน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_009.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_009.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3059,
+   "code": "PER-6-011",
+   "name": "12 - อ.กงไกรลาศ จ.สุโขทัย",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม.197-198 ต.ไกรนอก อ.กงไกรลาศ จ.สุโขทัย",
+   "lat": 16.966686,
+   "lng": 100.002853,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.พิษณุโลก",
+    "มุ่งหน้า จ.สุโขทัย"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_011.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3061,
+   "code": "PER-6-013",
+   "name": "32 - อ.บางปะอิน จ.พระนครศรีอยุธยา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 32 ระหว่าง กม.5-6 ต.คลองจิก อ.บางปะอิน จ.พระนครศรีอยุธยา",
+   "lat": 14.221084,
+   "lng": 100.610092,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า กทม.",
+    "มุ่งหน้า จ.อ่างทอง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_013_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_013_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_013_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_013_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3062,
+   "code": "PER-6-014",
+   "name": "32 - อ.พรหมบุรี จ.สิงห์บุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 32 ระหว่าง กม.67-68 ต.บ้านหม้อ อ.พรหมบุรี จ.สิงห์บุรี",
+   "lat": 14.747,
+   "lng": 100.4541,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.อ่างทอง",
+    "มุ่งหน้า จ.สิหง์บุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_014_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_014_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_014_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_014_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3063,
+   "code": "PER-6-015",
+   "name": "101 - อ.เด่นชัย จ.แพร่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 101 ระหว่าง กม. 227-228 ต.แม่จั๊วะ อ.เด่นชัย จ.แพร่",
+   "lat": 17.974669,
+   "lng": 100.080933,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.แพร่",
+    "มุ่งหน้า จ.อุตรดิดถ์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_015.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_015.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3065,
+   "code": "PER-6-017",
+   "name": "108 - อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 101 ระหว่าง กม. 7-8 ต.ป่าแดด อ.เมืองเชียงใหม่ จ.เชียงใหม่",
+   "lat": 18.7478,
+   "lng": 98.9626,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ.หางดง",
+    "มุ่งหน้า จ.เชียงใหม่"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_017_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_017_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_017_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_017_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3067,
+   "code": "PER-6-019",
+   "name": "117 - อ.เก้าเลี้ยวจ.นครสวรรค์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 117 ระหว่าง กม.18-19 ต.หนองเต่า อ.เก้าเลี้ยว จ.นครสวรรค์",
+   "lat": 15.861114,
+   "lng": 100.116898,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.นครสวรรค์",
+    "มุ่งหน้า จ.พิจิตร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_019.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_019.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3073,
+   "code": "PER-6-025",
+   "name": "12 - อ.หนองเรือ จ.ขอนแก่น",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม.521-522 ต.จระเข้ อ.หนองเรือ จ.ขอนแก่น",
+   "lat": 16.4851,
+   "lng": 102.5535,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดชัยภูมิ",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดขอนแก่น"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_025.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_025.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3074,
+   "code": "PER-6-026",
+   "name": "12 - อ.เมืองมุกดาหาร จ.มุกดาหาร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม.766-767 ต.มุกดาหาร อ.เมืองมุกดาหาร จ.มุกดาหาร",
+   "lat": 16.546392,
+   "lng": 104.664795,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดสกลนคร",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดมุกดาหาร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_026.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_026.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3077,
+   "code": "PER-6-029",
+   "name": "23 - อ.บรบือ จ.มหาสารคาม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 23 ระหว่าง กม.51-52 ต.หนองโก อ.บรบือ จ.มหาสารคาม",
+   "lat": 16.0883,
+   "lng": 103.1683,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดขอนแก่น",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดมหาสารคาม"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_029.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_029.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3078,
+   "code": "PER-6-030",
+   "name": "23 - อ.เมืองร้อยเอ็ด จ.ร้อยเอ็ด",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 23 ระหว่าง กม.94-95 ต.ปอภาร อ.เมืองร้อยเอ็ด จ.ร้อยเอ็ด",
+   "lat": 16.10815,
+   "lng": 103.511101,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดมหาสารคาม",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดร้อยเอ็ด"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_030.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_030.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3818,
+   "code": "PER-6-118",
+   "name": "114 - อ.เมืองลำพูน จ.ลำพูน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 114 ระหว่าง กม.2-3 ต.เวียงยอง อ.เมืองลำพูน จ.ลำพูน",
+   "lat": 18.570636,
+   "lng": 99.019869,
+   "pinClass": "pin14",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า แยกดอยติ",
+    "มุ่งหน้า จ.ลำพูน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_018.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase6/PER_6_018.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3096,
+   "code": "PER-7-002",
+   "name": "21 -  อ.เมืองเพชรบูรณ์ จ.เพชรบูรณ์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 21 ระหว่าง กม.204-205 ต.วังชมภู อ.เมืองเพชรบูรณ์ จ.เพชรบูรณ์",
+   "lat": 16.285646,
+   "lng": 101.062714,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดเพชรบูรณ์",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดเลย"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_002.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_002.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3097,
+   "code": "PER-7-003",
+   "name": "21 - อ.หล่มเก่า จ.เพชรบูรณ์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 21 ระหว่าง กม.285-286 ต.หล่มเก่า อ.หล่มเก่า จ.เพชรบูรณ์",
+   "lat": 16.938158,
+   "lng": 101.219269,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดเพชรบูรณ์",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดเลย"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_003.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3099,
+   "code": "PER-7-005",
+   "name": "23 - อ.เสลภูมิ จ.ร้อยเอ็ด",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 23 ระหว่าง กม.141-142 ต.ขวัญเมือง อ.เสลภูมิ จ.ร้อยเอ็ด",
+   "lat": 16.032024,
+   "lng": 103.934296,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดร้อยเอ็ด",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดยโสธร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_005.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_005.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3101,
+   "code": "PER-7-007",
+   "name": "24 - อ.วารินชำราบ จ.อุบลราชธานี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 24 ระหว่าง กม.407-408 ต.เมืองศรีไค อ.วารินชำราบ จ.อุบลราชธานี",
+   "lat": 15.106151,
+   "lng": 104.901649,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดอุบลราชธานี",
+    "ทิศทางมุ่งหน้าเข้า อ.เดชอุดม จังหวัดอุบลราชธานี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_007.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_007.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3107,
+   "code": "PER-7-013",
+   "name": "212 -  อ.เมืองอำนาจเจริญ จ.อำนาจเจริญ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 212 ระหว่าง กม.501-502 ต.โนนหนามแท่ง อ.เมืองอำนาจเจริญ จ.อำนาจเจริญ",
+   "lat": 15.938901,
+   "lng": 104.628319,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดมุกดาหาร",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดอำนาจเจริญ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_013.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_013.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3108,
+   "code": "PER-7-014",
+   "name": "212 - อ.เมืองมุกดาหาร จ.มุกดาหาร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 212 ระหว่าง กม.432-433 ต.คำอาฮวน อ.เมืองมุกดาหาร จ.มุกดาหาร",
+   "lat": 16.458042,
+   "lng": 104.645264,
+   "pinClass": "pin31",
+   "siteType": null,
+   "directions": [],
+   "hls": [],
+   "other_media": [],
+   "hls_probe": {}
+  },
+  {
+   "siteId": 3111,
+   "code": "PER-7-017",
+   "name": "212 - อ.เมืองอุบลราชธานี จ.อุบลราชธานี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 212 ระหว่าง กม.572-573 ต.ขี้เหล็ก อ.เมืองอุบลราชธานี จ.อุบลราชธานี",
+   "lat": 15.347169,
+   "lng": 104.826477,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดอุบลราชธานี",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดอำนาจเจริญ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_017.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_017.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3115,
+   "code": "PER-7-021",
+   "name": "226 - อ.เมืองสุรินทร์ จ.สุรินทร์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 226 ระหว่าง กม.162-163 ต.คอโค อ.เมืองสุรินทร์ จ.สุรินทร์",
+   "lat": 14.8155,
+   "lng": 103.4587,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดบุรีรัมย์",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดสุรินทร์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_021.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_021.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3116,
+   "code": "PER-7-022",
+   "name": "226 - อ.เมืองนครราชสีมา จ.นครราชสีมา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 226 ระหว่าง กม.6-7 ต.มะเริง อ.เมืองนครราชสีมา จ.นครราชสีมา",
+   "lat": 14.98138,
+   "lng": 102.167587,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดนครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดบุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_022.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_022.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3120,
+   "code": "PER-7-026",
+   "name": "1 -  อ.บ้านตาก จ.ตาก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม.553-554 ต.แม่สลิด อ.บ้านตาก จ.ตาก",
+   "lat": 17.112,
+   "lng": 99.0863,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดตาก",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดลำปาง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_026.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_026.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3123,
+   "code": "PER-7-029",
+   "name": "12 -  อ.แม่สอด จ.ตาก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม.7-8 ต.แม่สอด อ.แม่สอด จ.ตาก",
+   "lat": 16.7227,
+   "lng": 98.575,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดตาก",
+    "ทิศทางมุ่งหน้าเข้า สะพานมิตรภาพ ไทย - พม่า"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_029.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_029.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3124,
+   "code": "PER-7-030",
+   "name": "12 - อ.เมืองตาก จ.ตาก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม.118-119 ต.วังประจบ อ.เมืองตาก จ.ตาก",
+   "lat": 16.9153,
+   "lng": 99.3382,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดตาก",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดสุโขทัย"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_030.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_030.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3126,
+   "code": "PER-7-032",
+   "name": "107 -  อ.แม่แตง จ.เชียงใหม่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 107 ระหว่าง กม.41-42 ต.สันมหาพน อ.แม่แตง จ.เชียงใหม่",
+   "lat": 19.128918,
+   "lng": 98.949219,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดเชียงใหม่",
+    "ทิศทางมุ่งหน้าเข้า อ.เชียงดาว จังหวัดเชียงใหม่"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_032.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_032.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3127,
+   "code": "PER-7-033",
+   "name": "1020 -  อ.เมืองเชียงราย จ.เชียงราย",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1020 ระหว่าง กม.3-4 ต.ท่าสาย อ.เมืองเชียงราย จ.เชียงราย",
+   "lat": 19.854401,
+   "lng": 99.846924,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดเชียงราย",
+    "ทิศทางมุ่งหน้าเข้า จังหวัด อ.เทิง จังหวัดเชียงราย"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_033.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_033.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3128,
+   "code": "PER-7-034",
+   "name": "1091 -  อ.เมืองน่าน จ.น่าน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1091 ระหว่าง กม.128-129 ต.ถืมตอง อ.เมืองน่าน จ.น่าน บริเวณ อบต.ถืบตอง",
+   "lat": 18.798622,
+   "lng": 100.714577,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จังหวัดพะเยา",
+    "ทิศทางมุ่งหน้าเข้า จังหวัดน่าน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_034.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_034.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3131,
+   "code": "PER-7-037",
+   "name": "331 -  อ.บ้านบึง จ.ชลบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 331 ระหว่าง กม.75-76 ต.หนองอิรุณ อ.บ้านบึง จ.ชลบุรี",
+   "lat": 13.278027,
+   "lng": 101.25423,
+   "pinClass": "pin31",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.พนัสนิคม จ.ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.สัตหีบ จ.ชลบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_037.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase7/PER_7_037.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3141,
+   "code": "PER-8-001",
+   "name": "12 - อ.คอนสาร จ.ชัยภูมิ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม. 449-450 ต.ทุ่งนาเลา อ.คอนสาร จ.ชัยภูมิ",
+   "lat": 16.599577,
+   "lng": 101.903763,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ.น้ำหนาว จ.เพชรบูรณ์",
+    "มุ่งหน้า อ.ชุมแพ จ.ขอนแก่น"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_001.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_001.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3144,
+   "code": "PER-8-004",
+   "name": "22 - อ.สว่างแดนดิน จ.สกลนคร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 22 ระหว่าง กม. 93-94 ต.แวง อ.สว่างแดนดิน จ.สกลนคร",
+   "lat": 17.4259,
+   "lng": 103.6035,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.อุดรธานี",
+    "มุ่งหน้า จ.สกลนคร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_004.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3152,
+   "code": "PER-8-011",
+   "name": "348 - อ.ตาพระยา จ.สระแก้ว",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 348 ระหว่าง กม. 74-75 ต.ทัพราช อ.ตาพระยา จ.สระแก้ว",
+   "lat": 14.1134,
+   "lng": 102.6771,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.สระแก้ว",
+    "มุ่งหน้า จ.บุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_011.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3154,
+   "code": "PER-8-014",
+   "name": "1 - อ.สบปราบ จ.ลำปาง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม. 649-650 ต.สบปราบ อ.สบปราบ จ.ลำปาง",
+   "lat": 17.861987,
+   "lng": 99.319199,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.ตาก",
+    "มุ่งหน้า จ.ลำปาง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_014.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_014.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3157,
+   "code": "PER-8-017",
+   "name": "103 - อ.ร้องกวาง จ.แพร่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 103 ระหว่าง กม. 8-9 ต.แม่ยางร้อง อ.ร้องกวาง จ.แพร่",
+   "lat": 18.348248,
+   "lng": 100.23076,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.แพร่",
+    "มุ่งหน้า จ.พะเยา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_017.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_017.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3159,
+   "code": "PER-8-019",
+   "name": "108 - อ.แม่สะเรียง จ.แม่ฮ่องสอน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 108 ระหว่าง กม. 197-198 ต.บ้านกาด อ.แม่สะเรียง จ.แม่ฮ่องสอน",
+   "lat": 18.210847,
+   "lng": 97.9382,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ.แม่สะเรียง",
+    "มุ่งหน้า จ.แม่ฮ่องสอน"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_019.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_019.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3164,
+   "code": "PER-8-024",
+   "name": "4 - อ.ทับปุด จ.พังงา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม. 913-914 ต.ทับปุด อ.ทับปุด จ.พังงา",
+   "lat": 8.508917,
+   "lng": 98.657398,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.พังงา",
+    "มุ่งหน้า จ.กระบี่"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_024.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_024.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3167,
+   "code": "PER-8-027",
+   "name": "4 - อ.นาโยง จ.ตรัง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม. 1120-1121 ต.นาโยงเหนือ อ.นาโยง จ.ตรัง",
+   "lat": 7.558622,
+   "lng": 99.719197,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า จ.ตรัง",
+    "มุ่งหน้า จ.พัทลุง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_027.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_027.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3175,
+   "code": "PER-8-035",
+   "name": "408 - อ.สิงหนคร จ.สงขลา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 408 ระหว่าง กม. 150-151 ต.ชิงโค อ.สิงหนคร จ.สงขลา",
+   "lat": 7.256421,
+   "lng": 100.528265,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ.สทิงพระ",
+    "มุ่งหน้า เกาะยอ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_035.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_035.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3176,
+   "code": "PER-8-036",
+   "name": "414 - อ.หาดใหญ่ จ.สงขลา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 414 ระหว่าง กม. 12-13 ต.คลองแห อ.หาดใหญ่ จ.สงขลา",
+   "lat": 7.071654,
+   "lng": 100.492735,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า ข.สงขลา",
+    "มุ่งหน้า อ.หาดใหญ๋"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_036.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_036.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3177,
+   "code": "PER-8-037",
+   "name": "416 - อ.ท่าแพ จ.สตูล",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 416 ระหว่าง กม. 21-22 ต.แป-ระ อ.ท่าแพ จ.สตูล",
+   "lat": 6.842001,
+   "lng": 99.91799,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ.ท่าแพ จ.สตูล",
+    "มุ่งหน้า อ.ละงู จ.สตูล"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_037.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_037.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3178,
+   "code": "PER-8-038",
+   "name": "4024 - อ.เมืองภูเก็ต จ.ภูเก็ต",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4024 ระหว่าง กม. 4-5 ต.รัษฎา อ.เมืองภูเก็ต จ.ภูเก็ต",
+   "lat": 7.921877,
+   "lng": 98.370946,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ. ถลาง",
+    "มุ่งหน้า อ. เมืองภูเก็ต"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_038.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_038.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3950,
+   "code": "PER-8-122",
+   "name": "อ.ชุมแสง จ.นครสวรรค์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 255 ระหว่าง กม. 49-50 ต.หนองกระเจา อ.ชุมแสง จ.นครสวรรค์",
+   "lat": 15.8712,
+   "lng": 100.4528,
+   "pinClass": "pin32",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "มุ่งหน้า อ.ชุมแสง จ.นครสวรรค์",
+    "มุ่งหน้า อ.หนองบัว จ.นครรสวรรค์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_022.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase8/PER_8_022.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3202,
+   "code": "PER-9-013",
+   "name": "215 - อ.เมืองสรวง จ.ร้อยเอ็ด",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 215 ระหว่าง กม. 31-32 ต.คูเมือง อ.เมืองสรวง จ.ร้อยเอ็ด",
+   "lat": 15.783892,
+   "lng": 103.727966,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ร้อยเอ็ด",
+    "ทิศทางมุ่งหน้าเข้า อ.สุวรรณภูมิ จ.ร้อยเอ็ด"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER-9-013.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER-9-013.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3204,
+   "code": "PER-9-015",
+   "name": "218 - อ.เมืองบุรีรัมย์ จ.บุรีรัมย์",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 218 ระหว่าง กม. 10-11 ต.สะแกโพรง อ.เมือง จ.บุรีรัมย์",
+   "lat": 14.929965,
+   "lng": 103.028132,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.บุรีรัมย์",
+    "ทิศทางมุ่งหน้าเข้า อ.นางรอง จ.บุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER-9-015.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER-9-015.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3211,
+   "code": "PER-9-022",
+   "name": "3 - อ.เมืองสมุทรปราการ จ.สมุทรปราการ",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 3 ระหว่าง กม. 32-33 ต.ท้ายบ้านใหม่ อ.เมือง จ.สมุทรปราการ",
+   "lat": 13.5482839,
+   "lng": 100.6170774,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.สมุทรปราการ",
+    "ทิศทางมุ่งหน้าเข้า อ.บางปู จ.สมุทรปราการ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_022_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_022_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_022_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_022_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3216,
+   "code": "PER-9-027",
+   "name": "304-เขตมีนบุรี จ.กรุงเทพมหานคร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 304 ระหว่าง กม.41-42\r\nแขวงแสนแสบ  เขตมีนบุรี กรุงเทพมหานคร",
+   "lat": 13.811674,
+   "lng": 100.787157,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า มีนบุรี",
+    "ทิศทางมุ่งหน้าเข้า จ.ฉะเชิงเทรา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_027_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_027_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_027_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_027_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3223,
+   "code": "PER-9-034",
+   "name": "375 - อ.สามพราน จ.นครปฐม",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 375 ระหว่าง กม. 19-20 ต.คลองจินดา อ.สามพราน จ.นครปฐม",
+   "lat": 13.658957,
+   "lng": 100.089816,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.สมุทรสาคร",
+    "ทิศทางมุ่งหน้าเข้า จ.นครปฐม"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_034.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_034.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3224,
+   "code": "PER-9-035",
+   "name": "3208 - อ.เมืองราชบุรี จ.ราชบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3208 ระหว่าง กม.5-6 ต.ห้วยไผ่ อ.เมืองราชบุรี จ.ราชบุรี",
+   "lat": 13.514666,
+   "lng": 99.74425,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.ราชบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.สวนผึ้ง จ.ราชบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_035.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER_9_035.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3960,
+   "code": "PER-9-042",
+   "name": "202 - อ.เมืองอำนาจเจริญ จ.อำนาจเจริญ",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 202 ระหว่าง กม. 316-317 ต.บุ่ง อ.เมือง จ.อำนาจเจริญ",
+   "lat": 15.8613,
+   "lng": 104.6083,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ยโสธร",
+    "ทิศทางมุ่งหน้าเข้า อำนาจเจริญ"
+   ],
+   "hls": [],
+   "other_media": [],
+   "hls_probe": {}
+  },
+  {
+   "siteId": 3926,
+   "code": "PER-9-118",
+   "name": "3481 - อ.บ้านสร้าง จ.ปราจีนบุรี",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 3481 ระหว่าง กม. 38-39 ต.บางเตย อ.บ้านสร้าง จ.ปราจีนบุรี",
+   "lat": 13.9517,
+   "lng": 101.2152,
+   "pinClass": "pin33",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.ฉะเชิงเทรา",
+    "ทิศทางมุ่งหน้าเข้า จ.ปราจีนบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER-9-018.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase9/PER-9-018.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3236,
+   "code": "PER-10-010",
+   "name": "33- อ.เมือง จ.สระแก้ว",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 33 ระหว่าง กม. 227-228 ต.บ้านแก้ง อ.เมือง จ.สระแก้ว",
+   "lat": 13.903087,
+   "lng": 101.976211,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.ปราจีนบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.วัฒนานคร (จ.สระแก้ว)"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_010.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_010.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3237,
+   "code": "PER-10-011",
+   "name": null,
+   "detail": null,
+   "lat": 14.7513,
+   "lng": 100.7434,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.สระบุรี",
+    "ทิศทางมุ่งหน้าเข้า จ.ลพบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_011.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3238,
+   "code": "PER-10-012",
+   "name": "205 - อ.ชัยบาดาล จ.ลพบุรี",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 205 ระหว่าง กม. 76-77 ต.ลำนารายณ์ อ.ชัยบาดาล จ.ลพบุรี",
+   "lat": 15.226901,
+   "lng": 101.152119,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.ลพบุรี",
+    "ทิศทางมุ่งหน้าเข้า จ.ชัยภูมิ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_012.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_012.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3239,
+   "code": "PER-10-013",
+   "name": "1 - อ.บรรพตพิสัย จ.นครสวรรค์",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 1 ระหว่าง กม. 384-385 ต.บางแก้ว อ.บรรพตพิสัย จ.นครสวรรค์",
+   "lat": 15.9557,
+   "lng": 99.8475,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.นครสวรรค์",
+    "ทิศทางมุ่งหน้าเข้า จ.กำแพงเพชร"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_013.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_013.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3240,
+   "code": "PER-10-014",
+   "name": "11 - อ.ท่าตะโก จ.นครสวรรค์",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 11 ระหว่าง กม. 51-52 ต.หนองหลวง อ.ท่าตะโก จ.นครสวรรค์",
+   "lat": 15.4495,
+   "lng": 100.5257,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ตากฟ้า (จ.นครสวรรค์)",
+    "ทิศทางมุ่งหน้าเข้า อ.โพธิ์สาลี (จ.นครสวรรค์)"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_014.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_014.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3242,
+   "code": "PER-10-016",
+   "name": "32 - อ.อินทร์บุรี จ.สิงห์บุรี",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 32 ระหว่าง กม. 95-96 ต.น้ำตาล อ.อินทร์บุรี จ.สิงห์บุรี",
+   "lat": 14.95995,
+   "lng": 100.37431,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.พระนครศรีอยุธยา",
+    "ทิศทางมุ่งหน้าเข้า จ.สิงห์บุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_016_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_016_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_016_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_016_OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3245,
+   "code": "PER-10-019",
+   "name": "9 - อ.บางบัวทอง จ.นนทบุรี",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 9 (ถ. กาญจนาภิเษก) ระหว่าง กม. 44-750 ต.พิมลราช อ.บางบัวทอง จ.นนทบุรี",
+   "lat": 13.9144,
+   "lng": 100.41,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.นนทบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.ลาดหลุมแก้ว (จ.ปทุมธานี)"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_019_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_019_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_019_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_019_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3252,
+   "code": "PER-10-026",
+   "name": "314 - อ.บ้านโพธิ์ จ.ฉะเชิงเทรา",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 314 ระหว่าง กม. 7-8 ต.แสนภูดาษ อ.บ้านโพธิ์ จ.ฉะเชิงเทรา",
+   "lat": 13.575803,
+   "lng": 101.004541,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.ฉะเชิงเทรา",
+    "ทิศทางมุ่งหน้าเข้า จ.ปราจีนบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_026.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_026.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3254,
+   "code": "PER-10-028",
+   "name": "37 - อ.หัวหิน จ.ประจวบคีรีขันธ์",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 37 ระหว่าง กม. 33-34 ต.ทับใต้  อ.หัวหิน จ.ประจวบคีรีขันธ์",
+   "lat": 12.5341,
+   "lng": 99.8774,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.วังโบสถ์ (จ.เพชรบุรี)",
+    "ทิศทางมุ่งหน้าเข้า อ.ปรานบุรี (จ.ประจวบฯ)"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_028.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_028.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3257,
+   "code": "PER-10-031",
+   "name": "37 - อ.ชะอำ จ.เพชรบุรี",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 37 ระหว่าง กม. 7-8 ต.เขาใหญ่ อ.ชะอำ จ.เพชรบุรี",
+   "lat": 12.7432,
+   "lng": 99.9297,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ชะอำ (จ.เพชรบุรี)",
+    "ทิศทางมุ่งหน้าเข้า อ.วังโบสถ์ (จ.เพชรบุรี)"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_031.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_031.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3258,
+   "code": "PER-10-032",
+   "name": "4 - อ.โพธาราม จ.ราชบุรี",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 4 ระหว่าง กม. 73-74 ต.ดอนกระเบื้อง อ.โพธาราม จ.ราชบุรี",
+   "lat": 13.7565,
+   "lng": 99.9253,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.นครปฐม",
+    "ทิศทางมุ่งหน้าเข้า จ.ราชบุรี"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_032.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_032.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3260,
+   "code": "PER-10-034",
+   "name": "35 - อ.เมือง จ.สมุทรสงคราม",
+   "detail": "ทางหลวงแผ่นดินเหมายเลข 35 ระหว่าง กม. 59-60 ต.บางแก้ว อ.เมือง จ.สมุทรสงคราม",
+   "lat": 13.416031,
+   "lng": 100.029061,
+   "pinClass": "pin34",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.สมุทรสาคร",
+    "ทิศทางมุ่งหน้าเข้า จ.สมุทรสงคราม"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_034_IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_034_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_034_IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase10/PER_10_034_OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3265,
+   "code": "PER-11-004",
+   "name": "23 - อ.บรบือ จ.มหาสารคาม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 23 ระหว่าง กม\r\n33 - 34  อ.บรบือ จ.มหาสารคาม",
+   "lat": 16.0551402,
+   "lng": 103.019189,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.บ้านไผ่ จ.ขอนแก่น",
+    "ทิศทางมุ่งหน้าเข้า อ.บรบือ จ.มหาสารคาม"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_004.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3267,
+   "code": "PER-11-006",
+   "name": "213 - อ.เมืองมหาสารคาม  จ.มหาสารคาม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 213 ระหว่าง กม\r\n18 - 19  อ.เมืองมหาสารคาม  จ.มหาสารคาม",
+   "lat": 16.340556,
+   "lng": 103.314581,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.มหาสารคาม"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_006.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_006.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3269,
+   "code": "PER-11-008",
+   "name": "24 - อ.เมืองนครราชสีมา จ.นครราชสีมา",
+   "detail": "หมายเลขทางหลวงแผ่นดิน 24 ระหว่าง กม\r\n144 - 145 อ.เมืองนครราชสีมา จ.นครราชสีมา",
+   "lat": 14.6074,
+   "lng": 102.990236,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.นครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้า จ.บุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_008.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3270,
+   "code": "PER-11-009",
+   "name": "226 - อ.บุรีรัมย์ จ.บุรีรัมย์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 226 ระหว่าง กม\r\n98 - 99   อ.บุรีรัมย์ จ.บุรีรัมย์",
+   "lat": 15.0079,
+   "lng": 102.9065,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.นครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_009.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_009.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3277,
+   "code": "PER-11-016",
+   "name": "3195 - อ.สามโก้ จ.อ่างทอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3195 ระหว่าง\r\nกม 19 - 20 อ.สามโก้ จ.อ่างทอง",
+   "lat": 14.5827185,
+   "lng": 100.2962653,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.อ่างทอง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_016.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_016.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3278,
+   "code": "PER-11-017",
+   "name": "334 -  อ.เมืองอ่างทอง จ.อ่างทอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 334 ระหว่า กม\r\n1 - 2   อ.เมืองอ่างทอง จ.อ่างทอง",
+   "lat": 14.578969,
+   "lng": 100.472321,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.อยุธยา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_017.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_017.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3289,
+   "code": "PER-11-028",
+   "name": "3 - อ.เมืองชลบุรี จ.ชลบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3 ระหว่าง\r\nกม 102-103 อ.เมืองชลบุรี จ.ชลบุรี",
+   "lat": 13.2963883,
+   "lng": 100.945525,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้า เทศบาลแหลมฉบัง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_028_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_028_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_028_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_028_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3291,
+   "code": "PER-11-030",
+   "name": "331 - อ.บางละมุง จ.ชลบุรี",
+   "detail": "หมายเลขแผ่นดินทางหลวง 331 ระหว่า\r\nกม 18-19 อ.บางละมุง จ.ชลบุรี",
+   "lat": 12.841583,
+   "lng": 101.011513,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.พนมสารคาม จ.ชลบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_030.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_030.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3294,
+   "code": "PER-11-033",
+   "name": "3312 - อ.องครักษ์ จ.นครนายก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3312 ระหว่าง \r\nกม 35-36  อ.องครักษ์ จ.นครนายก",
+   "lat": 13.965813,
+   "lng": 100.92626,
+   "pinClass": "pin35",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.นครนายก"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_033.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase11/PER_11_033.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3296,
+   "code": "PER-12-002",
+   "name": "1147 - สันป่าฝ้าย - ห้วยไซ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1147 ระหว่าง กม 4 - 5 อ.เมืองลำพูน จ.ลำพูน",
+   "lat": 18.5862,
+   "lng": 99.0799,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ลำพูน"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_002.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_002.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3301,
+   "code": "PER-12-007",
+   "name": "304 - วังน้ําเขียว - ดอนขวาง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 304 ระหว่าง กม 227 - 228 อ.วังน้ำเขียว จ.นครราชสีมา",
+   "lat": 14.4038,
+   "lng": 101.8625,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ปราจีนบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_007.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_007.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3302,
+   "code": "PER-12-008",
+   "name": "219 - สตึก - หัวถนน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 219 ระหว่าง กม 126 - 127 อ.บ้านด่าน จ.บุรีรัมย์",
+   "lat": 15.0812,
+   "lng": 103.167,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ. สตึก บุรีรัมย์",
+    "ทิศทางมุ่งหน้าเข้า บุรีรีมย์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_008.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3303,
+   "code": "PER-12-009",
+   "name": "3395 - วัฒนานคร - โคคคลาน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3395 ระหว่าง กม 63 - 64 อ.วัฒนานคร จ.สระแก้ว",
+   "lat": 13.7685,
+   "lng": 102.3265,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.วัฒนานคร",
+    "ทิศทางมุ่งหน้าเข้า ต.โคคลาน อ.ตาพระยา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_009.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_009.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3304,
+   "code": "PER-12-010",
+   "name": "2 - ตาลเดี่ยว - ซับบอน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 2 ระหว่าง กม 17 - 18 อ.แก่งคอย จ.สระบุรี",
+   "lat": 14.6045,
+   "lng": 101.0596,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองสระบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.ปากช่อง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_010_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_010_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_010_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_010_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3305,
+   "code": "PER-12-011",
+   "name": "32 - โพนางดำออก - ท่าฉนวน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 32 ระหว่าง กม 136 - 137 อ.มโนรมย์ จ.ชัยนาท",
+   "lat": 15.2812,
+   "lng": 100.1963,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จ.สิงห์บุรี",
+    "ทิศทางมุ่งหน้าเข้า จ.นครสวรรค์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_011_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_011_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_011_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_011_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3306,
+   "code": "PER-12-012",
+   "name": "32 - อ่างทอง - ไชโย",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 32 ระหว่าง กม 55 - 56  อ.ไชโย จ.อ่างทอง",
+   "lat": 14.6315,
+   "lng": 100.4732,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ต.บ้านอิฐ",
+    "ทิศทางมุ่งหน้าเข้า ต.ตลาดกรวด"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_012_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_012_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_012_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_012_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3307,
+   "code": "PER-12-013",
+   "name": "340 - บางบัวทอง - ลาดบัวหลวง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 340 ระหว่าง กม 25 - 26  อ.ไทรน้อย  จ.นนทบุรี",
+   "lat": 14.1313,
+   "lng": 100.2898,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.บางบัวทอง",
+    "ทิศทางมุ่งหน้าเข้า อ.ลาดบัวหลวง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_013.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_013.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3309,
+   "code": "PER-12-015",
+   "name": "303 - ราษฎร์บูรณะ - พระสมุทรเจดีย์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 303 ระหว่าง กม 19 - 20  อ.พระสมุทรเจดีย์ จ.สมุทรปราการ",
+   "lat": 13.6004,
+   "lng": 100.5592,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า พระประแดง",
+    "ทิศทางมุ่งหน้าเข้า อบต. บางปลา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_015_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_015_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_015_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_015_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3312,
+   "code": "PER-12-018",
+   "name": "1 - ประตูน้ําพระอินทร์ - หนองแค",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม 73 - 74 อ.วังน้อย จ.พระนครศรีอยุธยา",
+   "lat": 14.2651,
+   "lng": 100.7852,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.วังน้อย",
+    "ทิศทางมุ่งหน้าเข้า อ.หนองแค"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_018_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_018_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_018_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_018_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3318,
+   "code": "PER-12-024",
+   "name": "317 - ปากแซง - หน้าค่าย ตชด",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 317 ระหว่าง\r\nกม 5 - 6  อ.มะขาม จ.จันทบุรี",
+   "lat": 12.6565,
+   "lng": 102.1832,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า จันทบุรี",
+    "ทิศทางมุ่งหน้าเข้า จันทบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_024.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_024.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3319,
+   "code": "PER-12-025",
+   "name": "3249 - เขาไร่ยา - แพร่งขาหยั่ง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3249 ระหว่าง กม 12 - 13  อ.เขาคิชฌกูฏ จ.จันทบุรี",
+   "lat": 12.7664,
+   "lng": 102.0904,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ต.แสลง อ.เมือง จ.จันทบุรี",
+    "ทิศทางมุ่งหน้าเข้า ต.ชากไทย อ. เขาคิชกุฏ จ.จันทบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_025.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_025.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3320,
+   "code": "PER-12-026",
+   "name": "34 - บางวัว - บางปะกง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 34 ระหว่าง \r\nกม 51 - 52  อ.บางปะกง  จ.ฉะเชิงเทรา",
+   "lat": 13.4807,
+   "lng": 101.0015,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ต.บางปะกง อ.บางปะกง",
+    "ทิศทางมุ่งหน้าเข้า ต.ท่าขาม อ.บางปะกง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_026_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_026_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_026_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_026_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3323,
+   "code": "PER-12-029",
+   "name": "3574 - บ้านค่าย - ระยอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3574 ระหว่าง กม 49 - 50  อ.บ้านค่าย  จ.ระยอง",
+   "lat": 12.7578,
+   "lng": 101.289,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.บ้านค่าย จ.ระยอง",
+    "ทิศทางมุ่งหน้าเข้า อ.ท่าปะดู่ จ.ระยอง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_029_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_029_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_029_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_029_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3819,
+   "code": "PER-12-103",
+   "name": "226 - ศรีสะเกษ - ห้วยขะยุง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 226 ระหว่าง กม 284 - 285 อ.เมืองศรีสะเกษ จ.ศรีสะเกษ",
+   "lat": 15.102665,
+   "lng": 104.42117,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ศรีสะเกษ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_003.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3952,
+   "code": "PER-12-106",
+   "name": "พะโค - หนองสนวน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 224 ระหว่าง กม 58 - 59 อ.ครบุรี จ.นครราชสีมา",
+   "lat": 14.5418,
+   "lng": 102.2259,
+   "pinClass": "pin36",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.โชคชัย นครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้า อ.ปะคำ บุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_006.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase12/PER_12_006.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3366,
+   "code": "PER-13-002",
+   "name": "101 - แยกนาแหลม - หนองห้า",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 101 ระหว่าง กม 256 - 257",
+   "lat": 18.18898,
+   "lng": 100.18712,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองแพร่ จ.แพร่",
+    "ทิศทางมุ่งหน้าเข้า อ.หนองม่วงไข่ จ.เชียงราย"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_002.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_002.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3368,
+   "code": "PER-13-004",
+   "name": "1016 - แม่จัน - กิ่วพร้าว",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1016 ระหว่าง กม 9 - 10",
+   "lat": 20.2052,
+   "lng": 99.9263,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.แม่จัน จ.เชียงราย",
+    "ทิศทางมุ่งหน้าเข้า อ.เชียงแสน จ.เชียงราย"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_004.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3369,
+   "code": "PER-13-005",
+   "name": "1021 - แม่ต๋ำ - บ้านใหม่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1021 ระหว่าง กม 6 - 7",
+   "lat": 19.15939,
+   "lng": 99.96732,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองพะเยา จ.พะยา",
+    "ทิศทางมุ่งหน้าเข้า อ.ดอกคำใต้ จ.พะเยา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_005.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_005.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3372,
+   "code": "PER-13-008",
+   "name": "225 - ศรีมงคล - น้ำอ้อม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 225 กม 132",
+   "lat": 15.83235,
+   "lng": 101.14677,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.วิเชียรบุรี จ.เพชรบูรณ์",
+    "ทิศทางมุ่งหน้าเข้า อ.บึงสามพัน จ.เพชรบูรณ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_008.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3373,
+   "code": "PER-13-009",
+   "name": "12 - สี่แยกสมเด็จ - คำพอก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม 723 - 724",
+   "lat": 16.50774,
+   "lng": 104.172818,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.สมเด็จ จ.กาฬสินธุ์",
+    "ทิศทางมุ่งหน้าเข้า กาฬสินธุ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_009.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_009.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3374,
+   "code": "PER-13-010",
+   "name": "12 - พรหมนิมิตร - ห้วยสีดา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม 570 - 571",
+   "lat": 16.442431,
+   "lng": 102.984317,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองขอนแก่น จ.ขอนแก่น",
+    "ทิศทางมุ่งหน้าเข้า อ.เชียงยืน จ.มหาสารคาม"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_010.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_010.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3375,
+   "code": "PER-13-011",
+   "name": "201 - โนนหัน - ผานกเค้า",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 201 ระหว่าง กม 237 - 238",
+   "lat": 16.615377,
+   "lng": 101.989748,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ชุมแพ จ.ขอนแก่น",
+    "ทิศทางมุ่งหน้าเข้า อ.ภูกระดึง จ.เลย"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_011.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3377,
+   "code": "PER-13-013",
+   "name": "2 - อุดรธานี - น้ำสวย",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 2 ระหว่าง กม 469 - 470",
+   "lat": 17.532167,
+   "lng": 102.800077,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อุดรธานี",
+    "ทิศทางมุ่งหน้าเข้า หนองคาย"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_013_1.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_013_2.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_013_1.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_013_2.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3379,
+   "code": "PER-13-015",
+   "name": "227 - กาฬสินธุ์ - แยกดงแหลม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 227 ระหว่าง กม 28 - 29",
+   "lat": 16.689852,
+   "lng": 103.516849,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า กาฬสินธุ์",
+    "ทิศทางมุ่งหน้าเข้า อ.ดงแหลม จ.กาฬสินธุ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_015.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_015.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3384,
+   "code": "PER-13-020",
+   "name": "2 - มวกเหล็ก - บ่อทอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 2 ระหว่าง กม 75 - 76",
+   "lat": 14.76151,
+   "lng": 101.51802,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า สระบุรี",
+    "ทิศทางมุ่งหน้าเข้า นครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_020_1.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_020_2.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_020_1.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_020_2.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3388,
+   "code": "PER-13-024",
+   "name": "357 - ถนนวงแหวนรอบเมืองสุพรรณบุรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 357 ระหว่าง กม 35 - 36",
+   "lat": 14.48379,
+   "lng": 100.172649,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ่างทอง",
+    "ทิศทางมุ่งหน้าเข้า สุพรรณบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_024.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_024.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3389,
+   "code": "PER-13-025",
+   "name": "323 - ท่าเรือ - ท่าน้ำตื้น",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 323 ระหว่าง กม 51 - 52",
+   "lat": 13.98231,
+   "lng": 99.578875,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า นครปฐม",
+    "ทิศทางมุ่งหน้าเข้า กาญจนบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_025.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_025.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3393,
+   "code": "PER-13-029",
+   "name": "1 - ต่างระดับคลองหลวง - ประตูน้ำพระอินทร์",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม 42 - 43",
+   "lat": 14.085407,
+   "lng": 100.617906,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า กรุงเทพฯ",
+    "ทิศทางมุ่งหน้าเข้า อยุธยา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_029_1.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_029_2.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_029_1.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_029_2.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3396,
+   "code": "PER-13-032",
+   "name": "331 - แปลงยาว - เขาหินซ้อน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 331 ระหว่าง กม 113 - 114",
+   "lat": 13.605208,
+   "lng": 101.303892,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.กบินทร์บุรี จ.ปราจีนบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_032.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_032.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3959,
+   "code": "PER-13-057",
+   "name": "12 - ปากทางเขื่อนลำปาว - หนองผ้าอ้อม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม 0-1 อ.เมืองกาฬสินธุ์ จ.กาฬสินธุ์",
+   "lat": 16.4192,
+   "lng": 103.4764,
+   "pinClass": "pin39",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ยโสธร",
+    "ทิศทางมุ่งหน้าเข้า อำนาจเจริญ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_014.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase13/PER_13_014.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3440,
+   "code": "PER-14-001",
+   "name": "338 - พุทธมณฑลสาย 4 - นครชัยศรี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 338 ระหว่าง กม 26 - 27",
+   "lat": 13.777329,
+   "lng": 100.2234,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า เขตทวีวัฒนา กรุงเทพมหานคร",
+    "ทิศทางมุ่งหน้าเข้า อ.นครชัยศรี จ.นครปฐม"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_001_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_001_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_001_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_001_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3442,
+   "code": "PER-14-003",
+   "name": "420 - วงแหวนรอบเมืองสุราษฎร์ธานี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 420 ระหว่าง กม 17 - 18",
+   "lat": 9.134344,
+   "lng": 99.252318,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.พูนพิน จ.สุราษฎร์ธานี",
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองสุราษฎร์ธานี  จ.สุราษฎร์ธานี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_003.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3443,
+   "code": "PER-14-004",
+   "name": "44 - ท่าเรือ - หินโงก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 44 ระหว่าง กม 122 - 123",
+   "lat": 9.096768,
+   "lng": 99.447471,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองสุราษฎร์ธานี จ.สุราษฎร์ธานี",
+    "ทิศทางมุ่งหน้าเข้า อ.กาญจนดิษฐ์ จ.สุราษฎร์ธานี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_004_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_004_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_004_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_004_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3444,
+   "code": "PER-14-005",
+   "name": "4009 - บางใหญ่-ซอยสิบ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4009 ระหว่าง กม 11 - 12",
+   "lat": 9.04987,
+   "lng": 99.36445,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองสุราษฎร์ธานี  จ.สุราษฎร์ธานี",
+    "ทิศทางมุ่งหน้าเข้า อ.เวียงสระ จ.สุราษฎร์ธานี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_005.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_005.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3445,
+   "code": "PER-14-006",
+   "name": "4142 - บ้านใน - บ้านโฉ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4142 ระหว่าง กม 12 - 13",
+   "lat": 9.23859,
+   "lng": 99.69694,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ดอนสัก จ.สุราษฎร์ธานี",
+    "ทิศทางมุ่งหน้าเข้า อ.ขนอม จ.นครศรีธรรมราช"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_006.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_006.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3446,
+   "code": "PER-14-007",
+   "name": "4 - เขาคราม - ตลาดเก่า",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม 956 - 957",
+   "lat": 8.20723,
+   "lng": 98.81496,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ทับปุด จ.พังงา",
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองกระบี่ จ.กระบี่"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_007.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_007.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3447,
+   "code": "PER-14-008",
+   "name": "4 - คลองบางดินสอ - นาเหนือ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม 871 - 872",
+   "lat": 8.408059,
+   "lng": 98.456959,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ถลาง จ.ภูเก็ต",
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองพังงา จ.พังงา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_008.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3448,
+   "code": "PER-14-009",
+   "name": "4006 - ราชกรูด-วังตะกอ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4006 ระหว่าง กม 65 - 66",
+   "lat": 9.97798,
+   "lng": 99.04399,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองระนอง จ.ระนอง",
+    "ทิศทางมุ่งหน้าเข้า อ.หลังสวน จ.ชุมพร"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_009.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_009.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3449,
+   "code": "PER-14-010",
+   "name": "4 - พรุพ้อ - เนินพิชัย",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม 1233 - 1234",
+   "lat": 7.118101,
+   "lng": 100.32131,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ป่าบอน พัทลุง",
+    "ทิศทางมุ่งหน้าเข้า อ.หาดใหญ่  จ.สงขลา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_010.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_010.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3450,
+   "code": "PER-14-011",
+   "name": "43 - นาหม่อม - จะนะ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 43 ระหว่าง กม 26 - 27",
+   "lat": 6.969213,
+   "lng": 100.685674,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.หาดใหญ่  จ.สงขลา",
+    "ทิศทางมุ่งหน้าเข้า อ.จะนะ  จ.สงขลา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_011.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3451,
+   "code": "PER-14-012",
+   "name": "408 - ทุ่งหวัง - นาทวี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 408 ระหว่าง กม 187 - 188",
+   "lat": 7.003633,
+   "lng": 100.672424,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เทพา สงขลา",
+    "ทิศทางมุ่งหน้าเข้า อ.จะนะ  จ.สงขลา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_012.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_012.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3455,
+   "code": "PER-14-016",
+   "name": "406 - ค่ายรวมมิตร - คลองขุด",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 406 ระหว่าง กม 81 - 82",
+   "lat": 6.695519,
+   "lng": 100.067976,
+   "pinClass": "pin43",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.หาดใหญ่  จ.สงขลา",
+    "ทิศทางมุ่งหน้าเข้า อ.สตูล จ.สตูล"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_016.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase14/PER_14_016.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3762,
+   "code": "PER-15-001",
+   "name": "22 - สูงเนิน - ท่าแร่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 22 ระหว่าง กม 159 - 160",
+   "lat": 17.2299,
+   "lng": 104.1075,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.พรรณานิคม จ.สกลนคร",
+    "ทิศทางมุ่งหน้าเข้า อ.โพนนาแก้ว จ.สกลนคร"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_001.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_001.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3763,
+   "code": "PER-15-002",
+   "name": "212 - ห้วยก้านเหลือง - ดงบัง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 212 ระหว่าง กม 133 - 134",
+   "lat": 18.3698,
+   "lng": 103.638,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ปากคาด จ.บึงกาฬ",
+    "ทิศทางมุ่งหน้าเข้า อ.บุ่งคล้า จ.บึงกาฬ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_002.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_002.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3765,
+   "code": "PER-15-003",
+   "name": "11 - สากเหล็ก - กกไม้แดง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 11 ระหว่าง กม  197 - 198",
+   "lat": 16.703,
+   "lng": 100.4316,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.สากเหล็ก จ.พิจิตร",
+    "ทิศทางมุ่งหน้าเข้า อ.วังทอง จ.พิษณุโลก"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_003.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3766,
+   "code": "PER-15-004",
+   "name": "113 - ฆะมัง - พิจิตร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 113 ระหว่าง กม 100 - 101",
+   "lat": 16.3781,
+   "lng": 100.3714,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ตะพานหิน จ.พิจิตร",
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองพิจิตร จ.พิจิตร"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_004.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3769,
+   "code": "PER-15-007",
+   "name": "12 - บ้านหลุบ - นาไคร้",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 12 ระหว่าง กม 654 - 655",
+   "lat": 16.411,
+   "lng": 103.7197,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองกาฬสินธุ์ จ.กาฬสินธุ์",
+    "ทิศทางมุ่งหน้าเข้า อ.ห้วยผึ้ง จ.กาฬสินธุ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_007.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_007.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3773,
+   "code": "PER-15-011",
+   "name": "290 - ถนนวงแหวนรอบเมืองนครราชสีมาด้านทิศใต้",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 290 ระหว่าง กม 105 - 106",
+   "lat": 14.8752,
+   "lng": 101.9545,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เฉลิมพระเกีตรติ จ.นครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้า อ.สูงเนิน จ.นครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_011.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_011.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3774,
+   "code": "PER-15-012",
+   "name": "24 - ซับประดู่ - สี่แยกปักธงชัย",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 24 ระหว่าง กม  9 - 10",
+   "lat": 14.8348,
+   "lng": 101.7772,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.สีคิ้ว จ.นครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้า อ.ปักธงชัย จ.นครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_012.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_012.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3775,
+   "code": "PER-15-013",
+   "name": "202 - ตลาดไทร - ลำพังชู",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 202 ระหว่าง กม 98 - 99",
+   "lat": 15.5638,
+   "lng": 102.8201,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ประทาย จ.นครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้า อ.พุทไธสง จ.บุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_013.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_013.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3776,
+   "code": "PER-15-014",
+   "name": "21 - แยกมะนาวหวาน - ม่วงค่อม",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 21 ระหว่าง กม 27 - 28",
+   "lat": 14.9036,
+   "lng": 100.9047,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.พระพุทธบาท จ.สระบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.ชัยบาดาล จ.ลพบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_014.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_014.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3777,
+   "code": "PER-15-015",
+   "name": "1 - บ้านหว้า -  วังไผ่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม 333 - 334",
+   "lat": 15.6368,
+   "lng": 100.1314,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.โกรกพระ จ.นครสวรรค์",
+    "ทิศทางมุ่งหน้าเข้า อ.บรรพตพิสัย จ.นครสวรรค์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_015_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_015_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_015_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_015_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3778,
+   "code": "PER-15-016",
+   "name": "1 - เกษตรชัย - ตาคลี",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1 ระหว่าง กม 251 - 252",
+   "lat": 15.2802,
+   "lng": 100.3761,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ตากฟ้า จ.นครสวรรค์",
+    "ทิศทางมุ่งหน้าเข้า อ.เมืองชัยนาท จ.ชัยนาท"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_016.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_016.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3779,
+   "code": "PER-15-017",
+   "name": "37 - ต่างระดับเชียงราก - บางกระสั้น",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 347 ระหว่าง กม 29 - 30",
+   "lat": 14.2698,
+   "lng": 100.5313,
+   "pinClass": "pin55",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.สามโคก จ.ปทุมธานี",
+    "ทิศทางมุ่งหน้าเข้า อ.พระนครศรีอยุธยา จ.อยุธยา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_017_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_017_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_017_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase15/PER_15_017_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3799,
+   "code": "PER-16-001",
+   "name": "108 - เชียงใหม่ - ปากทางท่าลี่",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 108 ระหว่าง กม 42 - 43",
+   "lat": 18.4871039,
+   "lng": 98.8061549,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.สันป่าตอง จ.เชียงใหม่",
+    "ทิศทางมุ่งหน้าเข้า อ.จอมทอง จ.เชียงใหม่"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_001.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_001.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3804,
+   "code": "PER-16-006",
+   "name": "1039 - ดงสันเงิน - ขามแดง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 1039 ระหว่าง กม 7 - 8",
+   "lat": 18.3140974,
+   "lng": 99.4429787,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ลำปาง",
+    "ทิศทางมุ่งหน้าเข้า อ.ห้างฉัตร จ.ลำปาง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_006.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_006.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3808,
+   "code": "PER-16-010",
+   "name": "112 - ทางเลี่ยงเมืองกำแพงเพชร",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 112 ระหว่าง \r\nกม 4 - 5",
+   "lat": 16.4636503,
+   "lng": 99.5423596,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ต.นครชุม อ.เมือง จ.กำแพงเพชร",
+    "ทิศทางมุ่งหน้าเข้า ต.หนองปลิง อ.เมือง จ.กำแพงเพชร"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_010.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_010.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3809,
+   "code": "PER-16-011",
+   "name": "122 - ทางเลี่ยงเมืองนครสวรรค์ด้านตะวันตก IN-OUT",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 122 ระหว่าง \r\nกม 5 - 6",
+   "lat": 15.6511469,
+   "lng": 100.0804965,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า ต.ตะเคียนเลื่อน อ.เมือง จ.นครสวรรค์",
+    "ทิศทางมุ่งหน้าเข้า ต.บางม่วง อ.เมือง จ.นครสวรรค์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_011_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_011_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_011_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_011_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3810,
+   "code": "PER-16-012",
+   "name": "314 - บางตำหรุ - คลองด่าน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 314 ระหว่าง กม 59 - 60",
+   "lat": 13.4969787,
+   "lng": 100.8492719,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.สมุทรปราการ",
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ฉะเชิงเทรา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_012.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_012.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3813,
+   "code": "PER-16-015",
+   "name": "304 - พนมสารคาม - เขาหินซ้อน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 304 ระหว่าง \r\nกม. 119 - 120",
+   "lat": 13.7455964,
+   "lng": 101.4690882,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.พนมสารคาม จ.ฉะเชิงเทรา",
+    "ทิศทางมุ่งหน้าเข้า อ.กบินทร์บุรี จ.ปราจีนบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_015.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_015.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3814,
+   "code": "PER-16-016",
+   "name": "36 - มะขามคู่ - มาบข่า IN-OUT",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 36 ระหว่าง \r\nกม. 32 - 33",
+   "lat": 12.8038996,
+   "lng": 101.145822,
+   "pinClass": "pin57",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.บางละมุง จ.ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ระยอง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_016_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_016_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_016_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/P16/PER_16_016_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3907,
+   "code": "PER-17-001",
+   "name": "11-บ้านป่า - นาอิน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข11ระหว่าง กม.238-239",
+   "lat": 16.9389214,
+   "lng": 100.3488673,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.พิษณุโลก",
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.อุตรดิตถ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_001.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_001.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3908,
+   "code": "PER-17-002",
+   "name": "21-บุ่งน้ำเต้า - สักหลง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข21ระหว่าง กม.254-255",
+   "lat": 16.6950726,
+   "lng": 101.169687,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.เพชรบรูณ์",
+    "ทิศทางมุ่งหน้าเข้าอ.หล่มสัก จ.เพชรบรูณ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_002.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_002.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3909,
+   "code": "PER-17-003",
+   "name": "12-ร่องแซง - หนองแก",
+   "detail": "ทางหลวงแผ่นดินหมายเลข12ระหว่าง กม.491-492",
+   "lat": 16.5199805,
+   "lng": 102.2839943,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.ชุมแพ จ.ขอนแก่น",
+    "ทิศทางมุ่งหน้าเข้าอ.หนองเรือ จ.ขอนแก่น"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_003.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3911,
+   "code": "PER-17-005",
+   "name": "205-ช่องสำราญ - คำปิง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข205ระหว่าง กม.144-145",
+   "lat": 15.4058536,
+   "lng": 101.6359209,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.ลำสนธิ จ.ลพบุรี",
+    "ทิศทางมุ่งหน้าเข้าอ.เทพสถิต จ.ชัยภูมิ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_005.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_005.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3915,
+   "code": "PER-17-009",
+   "name": "202-ยโสธร - สะพานคลองลำเซ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข202ระหว่าง กม.273-274",
+   "lat": 15.790944,
+   "lng": 104.234778,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ยโสธร",
+    "ทิศทางมุ่งหน้าเข้า อ.ป่าติ้ว จ.ยโสธร"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_009.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_009.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3918,
+   "code": "PER-17-012",
+   "name": "220-ศรีสะเกษ - วังหิน",
+   "detail": "ทางหลวงแผ่นดินหมายเลข220ระหว่าง กม.16-17",
+   "lat": 14.995367,
+   "lng": 104.224285,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.ศรีสะเกษ",
+    "ทิศทางมุ่งหน้าเข้าอ.ขุขันธ์ จ.ศรีสะเกษ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_012.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_012.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3919,
+   "code": "PER-17-013",
+   "name": "294-ทางเลี่ยงเมืองศรีสะเกษ IN",
+   "detail": "ทางหลวงแผ่นดินหมายเลข294ระหว่าง กม.4-5",
+   "lat": 15.0956748,
+   "lng": 104.3005437,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าต.หนองไผ่ อ.เมือง จ.ศรีสะเกษ",
+    "ทิศทางมุ่งหน้าเข้าต.เมืองเหนือ อ.เมือง จ.ศรีสะเกษ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_013_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_013_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_013_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_013_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3920,
+   "code": "PER-17-014",
+   "name": "212-อำนาจเจริญ - ลืออำนาจ IN",
+   "detail": "ทางหลวงแผ่นดินหมายเลข212ระหว่าง กม.515-516",
+   "lat": 15.8141342,
+   "lng": 104.632393,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.อำนาจเจริญ",
+    "ทิศทางมุ่งหน้าเข้าอ.ลืออำนาจ จ.อำนาจเจริญ"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_014_IN.stream/playlist.m3u8",
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_014_OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_014_IN.stream/playlist.m3u8": 0,
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_014_OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3921,
+   "code": "PER-17-015",
+   "name": "290-ถนนวงแหวนรอบเมืองนครราชสีมา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข290ระหว่าง กม.15-16",
+   "lat": 15.0033998,
+   "lng": 101.9713144,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าต.โคกสูง อ.เมือง จ.นครราชสีมา",
+    "ทิศทางมุ่งหน้าเข้าต.โป่งแดง อ.ขามทะเลสอ จ.นครราชสีมา"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_015.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_015.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3923,
+   "code": "PER-17-017",
+   "name": "348-ปะคำ - นางรอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข348ระหว่าง กม.138-139",
+   "lat": 14.6154,
+   "lng": 102.7791,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.โนนดินแดง จ.บุรีรัมย์",
+    "ทิศทางมุ่งหน้าเข้าอ.นางรอง จ.บุรีรัมย์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_017.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_017.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3924,
+   "code": "PER-17-018",
+   "name": "3466-บ้านเก่า - พานทอง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข3466ระหว่าง กม.7-8",
+   "lat": 13.4592602,
+   "lng": 101.0695574,
+   "pinClass": "pin58",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้าอ.พานทอง จ.ชลบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_018.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase-17/PER_17_018.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3929,
+   "code": "PER-18-001",
+   "name": "4-หนองหมู - ห้วยยาง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม.293-294",
+   "lat": 11.9459875,
+   "lng": 99.8244911,
+   "pinClass": "pin59",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.กุยบุรี จ.ประจวบคีรีขันธ์",
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.ประจวบคีรีขันธ์"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_001.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_001.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3933,
+   "code": "PER-18-003",
+   "name": "419-ถนนแหวนรอบเมืองตรัง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 419 ระหว่าง กม.6-7",
+   "lat": 7.5520529,
+   "lng": 99.5818149,
+   "pinClass": "pin59",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าต.บางรัก อ.เมือง จ.ตรัง",
+    "ทิศทางมุ่งหน้าเข้าต.ควนปริง อ.เมือง จ.ตรัง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_003.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_003.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3935,
+   "code": "PER-18-004",
+   "name": "4-กระบุรี - หงาว",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม.592-593",
+   "lat": 10.013609,
+   "lng": 98.6561953,
+   "pinClass": "pin59",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าอ.กระบุรี จ.ระนอง",
+    "ทิศทางมุ่งหน้าเข้าอ.เมือง จ.ระนอง"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_004.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_004.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3943,
+   "code": "PER-18-008",
+   "name": "0102-หนองรี - หนองปรือ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข  ระหว่าง กม.27-28",
+   "lat": 13.25529,
+   "lng": 101.2031274,
+   "pinClass": "pin59",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้าต.เขาซก อ.หนองใหญ่ จ.ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้าต.หนองรี อ.เมือง จ.ชลบุรี"
+   ],
+   "hls": [
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_008.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming2.highwaytraffic.go.th/Phase18/PER_18_008.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3954,
+   "code": "PER-19-001",
+   "name": "3344-อุดมสุข - สมุทรปราการ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 3344 ระหว่าง กม 16 - 17",
+   "lat": 13.621,
+   "lng": 100.6235,
+   "pinClass": "pin60",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า เขคสวนหลวง กรุงเทพฯ",
+    "ทิศทางมุ่งหน้าเข้า เขคบางนา กรุงเทพฯ"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-001-IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-001-OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-001-IN.stream/playlist.m3u8": 404,
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-001-OUT.stream/playlist.m3u8": 404
+   }
+  },
+  {
+   "siteId": 3955,
+   "code": "PER-19-002",
+   "name": "304-ฉะเชิงเทรา - เสม็ดเหนือ",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 304 ระหว่าง กม 85 - 86",
+   "lat": 13.6672,
+   "lng": 101.1883,
+   "pinClass": "pin60",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ฉะเชิงเทรา",
+    "ทิศทางมุ่งหน้าเข้า อ.พนมสารคาม จ.ฉะเชิงเทรา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-002-IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-002-OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-002-IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-002-OUT.stream/playlist.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3956,
+   "code": "PER-19-003",
+   "name": "36-มะขามคู่ - มาบข่า",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 36 ระหว่าง กม 26 - 27",
+   "lat": 12.8469,
+   "lng": 101.1091,
+   "pinClass": "pin60",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.บางละมุง จ.ชลบุรี",
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ระยอง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-003-IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-003-OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-003-IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-003-OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3957,
+   "code": "PER-19-004",
+   "name": "404-ตรัง - บ้านนา",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 404 ระหว่าง กม 23 - 24",
+   "lat": 7.3505,
+   "lng": 99.6726,
+   "pinClass": "pin60",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.เมือง จ.ตรัง",
+    "ทิศทางมุ่งหน้าเข้า อ.ปะเหลียน จ.ตรัง"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-004-IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-004-OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-004-IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-004-OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3958,
+   "code": "PER-19-005",
+   "name": "4-บางสัก - ท้ายเหมือง",
+   "detail": "ทางหลวงแผ่นดินหมายเลข 4 ระหว่าง กม 791 - 792",
+   "lat": 8.6849444,
+   "lng": 98.2526314,
+   "pinClass": "pin60",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "ทิศทางมุ่งหน้าเข้า อ.ตะกั่วป่า จ.พังงา",
+    "ทิศทางมุ่งหน้าเข้า อ.ท้ายเหมือง จ.พังงา"
+   ],
+   "hls": [
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-005-IN.stream/playlist.m3u8",
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-005-OUT.stream/playlist.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-005-IN.stream/playlist.m3u8": 200,
+    "https://streaming1.highwaytraffic.go.th/Phase19/PER19-005-OUT.stream/playlist.m3u8": 200
+   }
+  },
+  {
+   "siteId": 3846,
+   "code": "Tmp-080",
+   "name": "ทางหลวงพิเศษสาย อ.บางใหญ่-กาญจนบุรี",
+   "detail": null,
+   "lat": 13.8496,
+   "lng": 99.9771,
+   "pinClass": "pin12",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "",
+    ""
+   ],
+   "hls": [
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA1_CAM01/s.m3u8",
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA2_CAM01/s.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA1_CAM01/s.m3u8": 0,
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA2_CAM01/s.m3u8": 0
+   }
+  },
+  {
+   "siteId": 3847,
+   "code": "Tmp-081",
+   "name": "ทางหลวงพิเศษสาย อ.บางใหญ่-กาญจนบุรี",
+   "detail": null,
+   "lat": 14.0316,
+   "lng": 99.6176,
+   "pinClass": "pin12",
+   "siteType": "กล้องสำรวจปริมาณจราจรจากกรมทางหลวง",
+   "directions": [
+    "",
+    ""
+   ],
+   "hls": [
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA3_CAM01/s.m3u8",
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA4_CAM01/s.m3u8"
+   ],
+   "other_media": [],
+   "hls_probe": {
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA3_CAM01/s.m3u8": 0,
+    "http://183.89.205.98:9980/8rvqgJbOl5rQzqnbnBDHpcNJIVTfnb/hls/stream/M81_STA4_CAM01/s.m3u8": 0
+   }
+  }
+ ],
+ "probe_note": "HTTP code of playlist.m3u8 from Bangkok 2026-09-27 (0=connection refused/timeout)"
+}

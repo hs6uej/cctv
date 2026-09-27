@@ -1,0 +1,6096 @@
+{
+ "source": "http://web.archive.org/web/20250719015348/http://www.bmatraffic.com/index.aspx",
+ "note": "camera list scraped from Wayback snapshot of bmatraffic.com index.aspx (2025-07-19); live site currently down",
+ "cameras": [
+  {
+   "id": "1456",
+   "name": "DS-01-01 แยกเกียกกาย",
+   "name_th": "แยกเกียกกาย",
+   "name_en": "-",
+   "lat": 13.79723,
+   "lng": 100.52159,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1456"
+  },
+  {
+   "id": "1353",
+   "name": "TF1-BA-02 ปากทาง ถ.วัชรพล ตัด ถ.รามอินทรา",
+   "name_th": "ปากทาง ถ.วัชรพล ตัด ถ.รามอินทรา",
+   "name_en": "-",
+   "lat": 13.85045,
+   "lng": 100.64116,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1353"
+  },
+  {
+   "id": "1286",
+   "name": "TF1-BA-03 ถ.สุขาภิบาล 5 ตัด ซ.32 วัชรพล",
+   "name_th": "ถ.สุขาภิบาล 5 ตัด ซ.32 วัชรพล",
+   "name_en": "-",
+   "lat": 13.8846,
+   "lng": 100.65362,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1286"
+  },
+  {
+   "id": "1674",
+   "name": "TF1-BB-03 ถ.กัลปพฤกษ์ ตัด ถ.บางบอน 1 (แยกบางพฤกษ์)",
+   "name_th": "ถ.กัลปพฤกษ์ ตัด ถ.บางบอน 1 (แยกบางพฤกษ์)",
+   "name_en": "-",
+   "lat": 13.68661,
+   "lng": 100.42607,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1674"
+  },
+  {
+   "id": "1326",
+   "name": "TF1-BN-01 แยกแบริ่ง",
+   "name_th": "แยกแบริ่ง",
+   "name_en": "-",
+   "lat": 13.65879,
+   "lng": 100.60087,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1326"
+  },
+  {
+   "id": "1333",
+   "name": "TF1-BP-01 ถ.ศรีนครินทร์ ตัด ถ.กรุงเทพกรีทา (แยกกรุงเทพกรีฑา)",
+   "name_th": "ถ.ศรีนครินทร์ ตัด ถ.กรุงเทพกรีทา (แยกกรุงเทพกรีฑา)",
+   "name_en": "-",
+   "lat": 13.75243,
+   "lng": 100.6452,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1333"
+  },
+  {
+   "id": "1750",
+   "name": "TF1-HK-05 ถ.ประชาอุทิศ ตัด ถ.เทียนร่วมมิตร (แยกเหม่งจ๋าย)",
+   "name_th": "ถ.ประชาอุทิศ ตัด ถ.เทียนร่วมมิตร (แยกเหม่งจ๋าย)",
+   "name_en": "-",
+   "lat": 13.76989,
+   "lng": 100.58642,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1750"
+  },
+  {
+   "id": "1243",
+   "name": "TF1-JJ-01 ปากทางลาดพร้าว ตัด ถ.วิภาวดีรังสิต",
+   "name_th": "ปากทางลาดพร้าว ตัด ถ.วิภาวดีรังสิต",
+   "name_en": "-",
+   "lat": 13.81323,
+   "lng": 100.55968,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1243"
+  },
+  {
+   "id": "1244",
+   "name": "TF1-JJ-02 ถ.งามวงศ์วาน ตัด ถ.วิภาวดี",
+   "name_th": "ถ.งามวงศ์วาน ตัด ถ.วิภาวดี",
+   "name_en": "-",
+   "lat": 13.84803,
+   "lng": 100.56093,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1244"
+  },
+  {
+   "id": "1246",
+   "name": "TF1-JJ-04 ถนนประชานิเวศน์ 1 ตัด ถนนวิภาวดีรังสิต",
+   "name_th": "ประชานิเวศน์ 1 ตัด ถ.วิภาวดีรังสิต",
+   "name_en": "-",
+   "lat": 13.8384,
+   "lng": 100.5572,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1246"
+  },
+  {
+   "id": "1323",
+   "name": "TF1-LK-07 ถ.รามคำแหง ตัด ถ.มีนพัฒนา (แยกลาดบัวขาว)",
+   "name_th": "ถ.รามคำแหง ตัด ถ.มีนพัฒนา (แยกลาดบัวขาว)",
+   "name_en": "-",
+   "lat": 13.79977,
+   "lng": 100.71551,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1323"
+  },
+  {
+   "id": "1242",
+   "name": "TF1-LP-02 ถ.เกษตรนวมินทร์ ตัด ถ.สุคนธสวัสดิ์",
+   "name_th": "ถ.เกษตรนวมินทร์ ตัด ถ.สุคนธสวัสดิ์",
+   "name_en": "-",
+   "lat": 13.82976,
+   "lng": 100.62326,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1242"
+  },
+  {
+   "id": "1248",
+   "name": "TF1-LS-01 ถ.แจ้งวัฒนะ (บริเวณหน้าศูนย์ราชการ ฯ)",
+   "name_th": "ถ.แจ้งวัฒนะ (บริเวณหน้าศูนย์ราชการ ฯ)",
+   "name_en": "-",
+   "lat": 13.89199,
+   "lng": 100.5642,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1248"
+  },
+  {
+   "id": "1247",
+   "name": "TF1-LS-02 ถ.แจ้งวัฒนะ ตัด ถ.เลียบคลองประปา",
+   "name_th": "ถ.แจ้งวัฒนะ ตัด ถ.เลียบคลองประปา",
+   "name_en": "-",
+   "lat": 13.89484,
+   "lng": 100.55497,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1247"
+  },
+  {
+   "id": "1330",
+   "name": "TF1-MB-04 ถ.เสรีไทย ตัด ถ.มีนพัฒนา (แยกบางชัน)",
+   "name_th": "ถ.เสรีไทย ตัด ถ.มีนพัฒนา (แยกบางชัน)",
+   "name_en": "-",
+   "lat": 13.80525,
+   "lng": 100.71225,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1330"
+  },
+  {
+   "id": "1295",
+   "name": "TF1-PC-02 ถนนเพชรเกษม ตัด ถนนราชพฤกษ์",
+   "name_th": "ถนนเพชรเกษม ตัด ถนนราชพฤกษ์",
+   "name_en": "-",
+   "lat": 13.72055,
+   "lng": 100.4583,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1295"
+  },
+  {
+   "id": "1301",
+   "name": "TF1-PW-01 ถ.สุขุมวิท 77 ตัด ถ.กาญจนาภิเษก (วงแหวนรอบนอก)",
+   "name_th": "ถ.สุขุมวิท 77 ตัด ถ.กาญจนาภิเษก (วงแหวนรอบนอก)",
+   "name_en": "-",
+   "lat": 13.72159,
+   "lng": 100.69956,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1301"
+  },
+  {
+   "id": "1313",
+   "name": "TF1-RW-01 ถ.ราชปรารภ ตัด ถ.ศรีอยุธยา",
+   "name_th": "ถ.ราชปรารภ ตัด ถ.ศรีอยุธยา",
+   "name_en": "-",
+   "lat": 13.75613,
+   "lng": 100.54233,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1313"
+  },
+  {
+   "id": "1304",
+   "name": "TF1-RW-03 แนวถนนจตุรทิศ (2)",
+   "name_th": "แนวถนนจตุรทิศ (2)",
+   "name_en": "-",
+   "lat": 13.75241,
+   "lng": 100.56944,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1304"
+  },
+  {
+   "id": "1314",
+   "name": "TF1-SL-01 หน้าบริเวณ ปณ.พัฒนาการ",
+   "name_th": "หน้าบริเวณ ปณ.พัฒนาการ",
+   "name_en": "-",
+   "lat": 13.73662,
+   "lng": 100.61657,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1314"
+  },
+  {
+   "id": "1327",
+   "name": "TF1-TW-04 ถ.เพชรเกษม ตัด ถ.ทวีวัฒนา",
+   "name_th": "ถ.เพชรเกษม ตัด ถ.ทวีวัฒนา",
+   "name_en": "-",
+   "lat": 13.70806,
+   "lng": 100.37348,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1327"
+  },
+  {
+   "id": "1298",
+   "name": "TF1-WL-01 ถ.ประดิษฐมนูญธรรม ตัด ถ.ประชาอุทิศ (1)",
+   "name_th": "ถ.ประดิษฐมนูญธรรม ตัด ถ.ประชาอุทิศ (1)",
+   "name_en": "-",
+   "lat": 13.76714,
+   "lng": 100.60183,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1298"
+  },
+  {
+   "id": "1299",
+   "name": "TF1-WL-02 ถ.ลาดพร้าว ตัด ถ.ประดิษฐ์มนูธรรม",
+   "name_th": "ถ.ลาดพร้าว ตัด ถ.ประดิษฐ์มนูธรรม",
+   "name_en": "-",
+   "lat": 13.78641,
+   "lng": 100.60906,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1299"
+  },
+  {
+   "id": "248",
+   "name": "TF2-DS-V44 สะพานลอยหน้า มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร ปากซอยนครสวรรค์ 12 ถนนนครสวรรค์",
+   "name_th": "รถมาจากแยกสะพานเทวกรรม มุ่งหน้าไปแยกนางเลิ้ง",
+   "name_en": "From Thewakam Intersection towards Nang Loeng Intersection",
+   "lat": 13.76099,
+   "lng": 100.51437,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=248"
+  },
+  {
+   "id": "1451",
+   "name": "TF2-HK-S67-04 แยกห้วยขวาง",
+   "name_th": "รถมุ่งหน้าไปแยกพระราม 9",
+   "name_en": "-",
+   "lat": 13.77861,
+   "lng": 100.57376,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1451"
+  },
+  {
+   "id": "1452",
+   "name": "TF2-JJ-S65 แยกรัชดา-ลาดพร้าว",
+   "name_th": "รถมาจากแยกรัชโยธิน",
+   "name_en": "-",
+   "lat": 13.80558,
+   "lng": 100.57475,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1452"
+  },
+  {
+   "id": "126",
+   "name": "TF2-JJ-S66-02 สะพานลอยซอยรัชดาภิเษก 30 ใกล้แยกรัชดา-ลาดพร้าว ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Ratchayothin Intersection towards Ratchada-Lat Phrao Intersection",
+   "lat": 13.81003,
+   "lng": 100.57528,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=126"
+  },
+  {
+   "id": "224",
+   "name": "TF2-JJ-V81 สะพานลอยใกล้ศาลอาญา ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Ratchayothin Intersection towards Ratchada-Lat Phrao Intersection",
+   "lat": 13.81524,
+   "lng": 100.57553,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=224"
+  },
+  {
+   "id": "244",
+   "name": "TF2-PT-V41สะพานลอยหน้าอาคารอัมรินทร์พลาซ่า ถนนเพลินจิต",
+   "name_th": "รถมาจากแยกราชประสงค์ มุ่งหน้าไปแยกเพลินจิต",
+   "name_en": "-",
+   "lat": 13.74445,
+   "lng": 100.54124,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=244"
+  },
+  {
+   "id": "1407",
+   "name": "TF2-PT-V41สะพานลอยหน้าอาคารอัมรินทร์พลาซ่า ถนนเพลินจิต",
+   "name_th": "รถมาจากแยกเพลินจิต มุ่งหน้าไปแยกราชประสงค์",
+   "name_en": "-",
+   "lat": 13.74431,
+   "lng": 100.54134,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1407"
+  },
+  {
+   "id": "1357",
+   "name": "TF2-PY-S12-02 แยกประดิพัทธ์",
+   "name_th": "แยกประดิพัทธ์",
+   "name_en": "-",
+   "lat": 13.79196,
+   "lng": 100.53788,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1357"
+  },
+  {
+   "id": "1053",
+   "name": "TF2-PY-S12-04 แยกประดิพัทธ์",
+   "name_th": "ถนนประดิพัทธ์ ฝั่งป้อมตำรวจ",
+   "name_en": "-",
+   "lat": 13.79192,
+   "lng": 100.53784,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1053"
+  },
+  {
+   "id": "1130",
+   "name": "TF2-PY-S13-02 แยกประดิพัทธ์ ถนนพระราม 6 ขาเข้า",
+   "name_th": "รถมาจากแยกอารีย์สัมพันธ์",
+   "name_en": "-",
+   "lat": 13.79192,
+   "lng": 100.53799,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1130"
+  },
+  {
+   "id": "1152",
+   "name": "TF2-PY-S13-04 แยกประดิพัทธ์ ถนนพระราม 6 ขาเข้า",
+   "name_th": "รถมาจากแยกสะพานควาย",
+   "name_en": "-",
+   "lat": 13.79185,
+   "lng": 100.53794,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1152"
+  },
+  {
+   "id": "1777",
+   "name": "TF-BA-02 อุโมงค์ลาดปลาเค้า",
+   "name_th": "อุโมงค์ลาดปลาเค้า",
+   "name_en": "-",
+   "lat": 13.85916,
+   "lng": 100.58713,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1777"
+  },
+  {
+   "id": "1645",
+   "name": "TF-BP-01 แยกบางพลัด",
+   "name_th": "แยกบางพลัด",
+   "name_en": "Bang Phlat Intersection",
+   "lat": 13.78491,
+   "lng": 100.49454,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1645"
+  },
+  {
+   "id": "1341",
+   "name": "TF-BP-02 แยกสิรินธร",
+   "name_th": "แยกสิรินธร",
+   "name_en": "-",
+   "lat": 13.78773,
+   "lng": 100.47047,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1341"
+  },
+  {
+   "id": "1657",
+   "name": "TF-BP-03 แยกบรมราชชนนี",
+   "name_th": "แยกบรมราชชนนี",
+   "name_en": "-",
+   "lat": 13.77415,
+   "lng": 100.48174,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1657"
+  },
+  {
+   "id": "971",
+   "name": "TF-BP-06 อรุณอัมรินทร์",
+   "name_th": "อรุณอัมรินทร์",
+   "name_en": "connect BMAcctv",
+   "lat": 13.76854,
+   "lng": 100.48599,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=971"
+  },
+  {
+   "id": "1646",
+   "name": "TF-BR-01 สาทร",
+   "name_th": "สาทร",
+   "name_en": "Sathorn",
+   "lat": 13.71854,
+   "lng": 100.5197,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1646"
+  },
+  {
+   "id": "1778",
+   "name": "TF-BR-03 สวนพลู 1(ศรีไทย)",
+   "name_th": "สวนพลู 1 (ศรีไทย)",
+   "name_en": "-",
+   "lat": 13.72361,
+   "lng": 100.53659,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1778"
+  },
+  {
+   "id": "1636",
+   "name": "TF-BS-01 แยกประชานุกูล",
+   "name_th": "แยกประชานุกูล",
+   "name_en": "-",
+   "lat": 13.83055,
+   "lng": 100.53907,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1636"
+  },
+  {
+   "id": "924",
+   "name": "TF-BS-02 แยกประชาชื่น",
+   "name_th": "แยกประชาชื่น",
+   "name_en": "connect BMAcctv",
+   "lat": 13.80559,
+   "lng": 100.53317,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=924"
+  },
+  {
+   "id": "1641",
+   "name": "TF-DD-01 แยกดินแดง",
+   "name_th": "แยกดินแดง",
+   "name_en": "-",
+   "lat": 13.76393,
+   "lng": 100.54785,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1641"
+  },
+  {
+   "id": "1655",
+   "name": "TF-DD-02 แยกสุทธิสาร",
+   "name_th": "แยกสุทธิสาร",
+   "name_en": "-",
+   "lat": 13.78917,
+   "lng": 100.56197,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1655"
+  },
+  {
+   "id": "1786",
+   "name": "TF-DD-03 ประชาสงเคราะห์",
+   "name_th": "ประชาสงเคราะห์",
+   "name_en": "-",
+   "lat": 13.76055,
+   "lng": 100.55497,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1786"
+  },
+  {
+   "id": "907",
+   "name": "TF-DS-01 แยกพระรูป ร.5",
+   "name_th": "แยกพระรูป ร.5",
+   "name_en": "connect BMAcctv",
+   "lat": 13.76793,
+   "lng": 100.51134,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=907"
+  },
+  {
+   "id": "1662",
+   "name": "TF-DS-05 แยกยมราช",
+   "name_th": "แยกยมราช",
+   "name_en": "-",
+   "lat": 13.75726,
+   "lng": 100.52048,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1662"
+  },
+  {
+   "id": "1656",
+   "name": "TF-DS-06 แยกพานิช",
+   "name_th": "แยกพานิช",
+   "name_en": "-",
+   "lat": 13.76321,
+   "lng": 100.51345,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1656"
+  },
+  {
+   "id": "1789",
+   "name": "TF-HK-01 แยกพระราม 9",
+   "name_th": "แยกพระราม 9",
+   "name_en": "-",
+   "lat": 13.75591,
+   "lng": 100.56477,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1789"
+  },
+  {
+   "id": "1166",
+   "name": "TF-HW-01-02-17 ทางขึ้นสะพานพระราม8",
+   "name_th": "TF-HW-01-02-17 ทางขึ้นสะพานพระราม8\tขาเข้า",
+   "name_en": "-",
+   "lat": 13.77166,
+   "lng": 100.49276,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1166"
+  },
+  {
+   "id": "1167",
+   "name": "TF-HW-01-02-18 ทางขึ้นสะพานพระราม 8",
+   "name_th": "TF-HW-01-02-18 ทางขึ้นสะพานพระราม 8",
+   "name_en": "-",
+   "lat": 13.77166,
+   "lng": 100.49277,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1167"
+  },
+  {
+   "id": "1616",
+   "name": "TF-HW-01-02-19 ทางขึ้นสะพานพระราม 8",
+   "name_th": "TF-HW-01-02-19 ทางขึ้นสะพานพระราม 8",
+   "name_en": "-",
+   "lat": 13.77017,
+   "lng": 100.49506,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1616"
+  },
+  {
+   "id": "289",
+   "name": "TF-HW-01-02-25 ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาออก)",
+   "name_th": "ช่วงแยกบรมราชชนนี",
+   "name_en": "Towards Sisaothewet Intersection",
+   "lat": 13.77309,
+   "lng": 100.48194,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=289"
+  },
+  {
+   "id": "1172",
+   "name": "TF-HW-01-02-32 ทางโค้งศิรินธร ขาเข้า",
+   "name_th": "ทางโค้งศิรินธร ขาเข้า",
+   "name_en": "-",
+   "lat": 13.78724,
+   "lng": 100.46839,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1172"
+  },
+  {
+   "id": "1763",
+   "name": "TF-HW-01-02-76 ทางขึ้นทางด่วนถนนพุทธมณฑลสาย3 ฝั่งขาเข้า",
+   "name_th": "ทางขึ้น ทางด่วนฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.78671,
+   "lng": 100.3757,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1763"
+  },
+  {
+   "id": "1764",
+   "name": "TF-HW-01-02-77 ทางขึ้นทางด่วนถนนพุทธมณฑลสาย3 ฝั่งขาเข้า",
+   "name_th": "ทางขึ้นทางด่วนฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.78661,
+   "lng": 100.37555,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1764"
+  },
+  {
+   "id": "1644",
+   "name": "TF-JJ-02 แยกจันทรเกษม",
+   "name_th": "แยกจันทรเกษม",
+   "name_en": "Chankasem Intersection",
+   "lat": 13.8055,
+   "lng": 100.5748,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1644"
+  },
+  {
+   "id": "1671",
+   "name": "TF-JJ-04 แยกบางเขน",
+   "name_th": "แยกบางเขน",
+   "name_en": "",
+   "lat": 13.84648,
+   "lng": 100.56215,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1671"
+  },
+  {
+   "id": "1792",
+   "name": "TF-KL-01 ถนนตก",
+   "name_th": "ถนนตก",
+   "name_en": "-",
+   "lat": 13.69711,
+   "lng": 100.49687,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1792"
+  },
+  {
+   "id": "968",
+   "name": "TF-KL-02 สะพานพระราม 3",
+   "name_th": "สะพานพระราม 3",
+   "name_en": "connect BMAcctv",
+   "lat": 13.70119,
+   "lng": 100.49253,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=968"
+  },
+  {
+   "id": "1669",
+   "name": "TF-KN-01 แยกไฟฉาย",
+   "name_th": "แยกไฟฉาย",
+   "name_en": "-",
+   "lat": 13.75486,
+   "lng": 100.46949,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1669"
+  },
+  {
+   "id": "1783",
+   "name": "TF-KP-01 บางกะปิ",
+   "name_th": "บางกะปิ",
+   "name_en": "-",
+   "lat": 13.76643,
+   "lng": 100.64787,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1783"
+  },
+  {
+   "id": "939",
+   "name": "TF-KP-04 แยกมหาดไทย",
+   "name_th": "แยกมหาดไทย",
+   "name_en": "connect BMAcctv",
+   "lat": 13.76061,
+   "lng": 100.62467,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=939"
+  },
+  {
+   "id": "915",
+   "name": "TF-KS-01 วงเวียนใหญ่",
+   "name_th": "วงเวียนใหญ่",
+   "name_en": "connect BMAcctv",
+   "lat": 13.72639,
+   "lng": 100.49213,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=915"
+  },
+  {
+   "id": "1653",
+   "name": "TF-LS-01 แยกหลักสี่",
+   "name_th": "แยกหลักสี่",
+   "name_en": "-",
+   "lat": 13.88419,
+   "lng": 100.58159,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1653"
+  },
+  {
+   "id": "1234",
+   "name": "TF-PN-01 ผ่านพิภพลีลา",
+   "name_th": "ผ่านพิภพลีลา",
+   "name_en": "-",
+   "lat": 13.75721,
+   "lng": 100.49522,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1234"
+  },
+  {
+   "id": "1649",
+   "name": "TF-PN-02 หลักเมือง",
+   "name_th": "หลักเมือง",
+   "name_en": "-",
+   "lat": 13.75319,
+   "lng": 100.49373,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1649"
+  },
+  {
+   "id": "1650",
+   "name": "TF-PN-03 ป้อมมหากาฬ",
+   "name_th": "ป้อมมหากาฬ",
+   "name_en": "-",
+   "lat": 13.75604,
+   "lng": 100.50526,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1650"
+  },
+  {
+   "id": "1779",
+   "name": "TF-PN-04 ข้าวสาร",
+   "name_th": "ข้าวสาร",
+   "name_en": "-",
+   "lat": 13.75971,
+   "lng": 100.49564,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1779"
+  },
+  {
+   "id": "1339",
+   "name": "TF-PT-03 แยกพงษ์พระราม",
+   "name_th": "แยกพงษ์พระราม",
+   "name_en": "-",
+   "lat": 13.7479,
+   "lng": 100.52075,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1339"
+  },
+  {
+   "id": "1658",
+   "name": "TF-PT-04 แยกหัวลำโพง",
+   "name_th": "แยกหัวลำโพง",
+   "name_en": "-",
+   "lat": 13.73788,
+   "lng": 100.51629,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1658"
+  },
+  {
+   "id": "953",
+   "name": "TF-PT-06 แยกศาลาแดง",
+   "name_th": "แยกศาลาแดง",
+   "name_en": "-",
+   "lat": 13.72929,
+   "lng": 100.53673,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=953"
+  },
+  {
+   "id": "1643",
+   "name": "TF-PY-01 ร.พ.พญาไท 2",
+   "name_th": "ร.พ.พญาไท 2",
+   "name_en": "Phayathai 2 Hospital",
+   "lat": 13.76983,
+   "lng": 100.54093,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1643"
+  },
+  {
+   "id": "1654",
+   "name": "TF-PY-03 แยกประดิพัทธ",
+   "name_th": "แยกประดิพัทธ",
+   "name_en": "-",
+   "lat": 13.79192,
+   "lng": 100.53784,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1654"
+  },
+  {
+   "id": "1785",
+   "name": "TF-PY-04 แยกสะพานควาย",
+   "name_th": "แยกสะพานควาย",
+   "name_en": "-",
+   "lat": 13.7894,
+   "lng": 100.54815,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1785"
+  },
+  {
+   "id": "1648",
+   "name": "TF-RW-02 แยกศรีอยุธยา",
+   "name_th": "แยกศรีอยุธยา",
+   "name_en": "Sri Ayutthaya Intersection",
+   "lat": 13.76145,
+   "lng": 100.52594,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1648"
+  },
+  {
+   "id": "1787",
+   "name": "TF-RW-03 อโศก-เพชร",
+   "name_th": "อโศก-เพชร",
+   "name_en": "-",
+   "lat": 13.74904,
+   "lng": 100.56352,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1787"
+  },
+  {
+   "id": "1784",
+   "name": "TF-RW-04 ใต้ด่วนเพชร",
+   "name_th": "ใต้ด่วนเพชร",
+   "name_en": "-",
+   "lat": 13.74967,
+   "lng": 100.54858,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1784"
+  },
+  {
+   "id": "942",
+   "name": "TF-RW-05 แยกประตูน้ำ",
+   "name_th": "แยกประตูน้ำ",
+   "name_en": "-",
+   "lat": 13.75007,
+   "lng": 100.54111,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=942"
+  },
+  {
+   "id": "1647",
+   "name": "TF-SL-01 แยกพัฒนาการ",
+   "name_th": "แยกพัฒนาการ",
+   "name_en": "Separate development",
+   "lat": 13.73516,
+   "lng": 100.64133,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1647"
+  },
+  {
+   "id": "1336",
+   "name": "TF-SL-02 แยกสวนหลวง",
+   "name_th": "แยกสวนหลวง",
+   "name_en": "-",
+   "lat": 13.7126,
+   "lng": 100.64409,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1336"
+  },
+  {
+   "id": "1652",
+   "name": "TF-WL-01 แยกโชคชัย 4",
+   "name_th": "-",
+   "name_en": "",
+   "lat": 13.79501,
+   "lng": 100.59322,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1652"
+  },
+  {
+   "id": "1718",
+   "name": "ก่อนขึ้นสะพานไทย-ญี่ปุ่น ถนนพระรามที่ 4 ขาเข้า",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.7281,
+   "lng": 100.53969,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1718"
+  },
+  {
+   "id": "1719",
+   "name": "ก่อนขึ้นสะพานไทย-ญี่ปุ่น ถนนพระรามที่ 4 ขาเข้า",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72817,
+   "lng": 100.53954,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1719"
+  },
+  {
+   "id": "199",
+   "name": "ใกล้ซอยจันทน์ 15/1 ถนนจันทน์",
+   "name_th": "รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกตรอกจันทน์",
+   "name_en": "From Chan-Naradhiwas Intersection towards Ruam Chit Intersection",
+   "lat": 13.70541,
+   "lng": 100.53366,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=199"
+  },
+  {
+   "id": "200",
+   "name": "ใกล้ซอยจันทน์ 35 ถนนจันทน์",
+   "name_th": "รถมุ่งหน้าไปแยกใต้ทางด่วนจันทน์",
+   "name_en": "From Chan-Sathu Pradit Intersection Intersection towards Intersection under Chan Expy",
+   "lat": 13.70697,
+   "lng": 100.52341,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=200"
+  },
+  {
+   "id": "201",
+   "name": "ใกล้ซอยจันทน์ 35 ถนนจันทน์",
+   "name_th": "รถมุ่งหน้าไปแยกจันทน์-สาธุประดิษฐ์",
+   "name_en": "From Intersection under Chan Expy towards Chan-Sathu Pradit Intersection",
+   "lat": 13.70692,
+   "lng": 100.52344,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=201"
+  },
+  {
+   "id": "208",
+   "name": "ใกล้ซอยจันทน์ 55 ถนนจันทน์",
+   "name_th": "รถมาจากแยกใต้ทางด่วนจันทน์มุ่งหน้าไปแยกตรอกจันทน์",
+   "name_en": "From Charoen Krung",
+   "lat": 13.70884,
+   "lng": 100.51455,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=208"
+  },
+  {
+   "id": "209",
+   "name": "ใกล้ซอยจันทน์ 55 ถนนจันทน์",
+   "name_th": "รถมาจากแยกตรอกจันทน์ มุ่งหน้าไปแยกใต้ทางด่วนจันทน์",
+   "name_en": "From Khlong Toei",
+   "lat": 13.7089,
+   "lng": 100.51457,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=209"
+  },
+  {
+   "id": "202",
+   "name": "ใกล้ซอยเจริญกรุง 61 ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกตรอกจันทน์ มุ่งหน้าไปแยกสาทร-เจริญกรุง",
+   "name_en": "From Tok Chan Intersection towards Sathon-Charoen Krung Intersection",
+   "lat": 13.71455,
+   "lng": 100.5134,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=202"
+  },
+  {
+   "id": "203",
+   "name": "ใกล้ซอยเจริญกรุง 61 ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกสาทร-เจริญกรุง มุ่งหน้าไปแยกตรอกจันทน์",
+   "name_en": "From Sathon-Charoen Krung Intersection towards Ruam Chit Intersection",
+   "lat": 13.71452,
+   "lng": 100.51337,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=203"
+  },
+  {
+   "id": "11",
+   "name": "ใกล้ซอยราชวิถี 6 ถนนราชวิถี",
+   "name_th": "รถมาจากอนุสาวรีย์ชัยสมรภูมิ มุ่งหน้าไปแยกใต้ด่วนดินแดง",
+   "name_en": "From Victory Monument",
+   "lat": 13.76363,
+   "lng": 100.54106,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=11"
+  },
+  {
+   "id": "12",
+   "name": "ใกล้ซอยราชวิถี 6 ถนนราชวิถี",
+   "name_th": "รถมาจากใต้ด่วนดินแดง มุ่งหน้าไปอนุสาวรีย์ชัยสมรภูมิ",
+   "name_en": "From Din Daeng Intersection",
+   "lat": 13.76352,
+   "lng": 100.54129,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=12"
+  },
+  {
+   "id": "999",
+   "name": "ใกล้บีควิกพระราม 3 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกด่วนสาธุประดิษฐ์ มุ่งหน้าไปแยกรัชดา-นราธิวาส",
+   "name_en": "-",
+   "lat": 13.69891,
+   "lng": 100.54092,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=999"
+  },
+  {
+   "id": "1039",
+   "name": "ใกล้สะพานนริศดำรัส คลองมหานาค ถนนจักรพรรดิพงษ์",
+   "name_th": "รถมุ่งหน้าไปแยกหลานหลวง",
+   "name_en": "From Silom-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection",
+   "lat": 13.75485,
+   "lng": 100.50949,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1039"
+  },
+  {
+   "id": "184",
+   "name": "ใกล้สะพานลอยสถานี BRT พระราม 3 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกพระรามที่ 3-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส",
+   "name_en": "From Rama3-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection",
+   "lat": 13.69619,
+   "lng": 100.5453,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=184"
+  },
+  {
+   "id": "216",
+   "name": "ใกล้อาคาร American Standard ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชดา-สุทธิสาร",
+   "name_en": "From Ratchada-Lat Phrao Intersection towards Ratchada-Sutthisan Intersection",
+   "lat": 13.79352,
+   "lng": 100.57445,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=216"
+  },
+  {
+   "id": "217",
+   "name": "ใกล้อาคาร American Standard ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-สุทธิสาร มุ่งหน้าไปแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Ratchada-Sutthisan Intersection towards Ratchada-Lat Phrao Intersection",
+   "lat": 13.79354,
+   "lng": 100.5743,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=217"
+  },
+  {
+   "id": "186",
+   "name": "โครงสร้างป้ายบอกทางขึ้นสะพานพระราม 3 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกด่วนสาธุประดิษฐ์",
+   "name_en": "From Ratchada-Naradhiwas Intersection towards Sathu Pradit Intersection",
+   "lat": 13.69827,
+   "lng": 100.54035,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=186"
+  },
+  {
+   "id": "1661",
+   "name": "จุดตัดถนนกาญจนาภิเษก ฝั่งขาเข้า",
+   "name_th": "จุดตัดถนนกาญจนาภิเษก ฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.78146,
+   "lng": 100.42653,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1661"
+  },
+  {
+   "id": "493",
+   "name": "จุดตัดถนนกาญจนาภิเษก ฝั่งขาออก",
+   "name_th": "จุดตัดถนนกาญจนาภิเษก ฝั่งขาออก มุ่งหน้าถนนพุทธมณฑลสาย3",
+   "name_en": "Towards Rama 9 Intersection",
+   "lat": 13.78297,
+   "lng": 100.40939,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=493"
+  },
+  {
+   "id": "1191",
+   "name": "จุดตัดถนนพุทธมณฑลสาย1 ฝั่งขาออก",
+   "name_th": "จุดตัดถนนพุทธมณฑลสาย1 ฝั่งขาออก",
+   "name_en": "-",
+   "lat": 13.78125,
+   "lng": 100.42654,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1191"
+  },
+  {
+   "id": "529",
+   "name": "จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาเข้า",
+   "name_th": "ถนนพุทธมณฑลสาย 2  ขาเข้า",
+   "name_en": "From Sala Daeng Intersection",
+   "lat": 13.78462,
+   "lng": 100.39461,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=529"
+  },
+  {
+   "id": "528",
+   "name": "จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาออก",
+   "name_th": "ถนนพุทธมณฑลสาย2 ฝั่งขาออก",
+   "name_en": "From Surawong Intersection",
+   "lat": 13.78446,
+   "lng": 100.39461,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=528"
+  },
+  {
+   "id": "1188",
+   "name": "จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาออก",
+   "name_th": "จุดตัดถนนพุทธมณฑลสาย2 ฝั่งขาออก",
+   "name_en": "Ratchathewi Intersection",
+   "lat": 13.78288,
+   "lng": 100.40926,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1188"
+  },
+  {
+   "id": "1183",
+   "name": "จุดตัดถนนราชพฤกษ์ ฝั่งขาเข้า",
+   "name_th": "จุดตัดถนนราชพฤกษ์ ฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.78012,
+   "lng": 100.44309,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1183"
+  },
+  {
+   "id": "1184",
+   "name": "จุดตัดถนนราชพฤกษ์ ฝั่งขาเข้า",
+   "name_th": "จุดตัดถนนราชพฤกษ์ ฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.7802,
+   "lng": 100.44292,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1184"
+  },
+  {
+   "id": "1185",
+   "name": "จุดตัดถนนราชพฤกษ์ ฝั่งขาออก",
+   "name_th": "จุดตัดถนนราชพฤกษ์ ฝั่งขาออก",
+   "name_en": "-",
+   "lat": 13.7801,
+   "lng": 100.44294,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1185"
+  },
+  {
+   "id": "1192",
+   "name": "จุดตัถนนพุทธมณฑลสาย1 ฝั่งขาเข้า",
+   "name_th": "จุดตัถนนพุทธมณฑลสาย1 ฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.78135,
+   "lng": 100.42654,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1192"
+  },
+  {
+   "id": "105",
+   "name": "เชิงสะพานพระราม 3 ใกล้แยกถนนตก ถนนพระรามที่ 3",
+   "name_th": "รถมาจากสะพานพระราม 3",
+   "name_en": "From Rama 3 Bridge",
+   "lat": 13.69532,
+   "lng": 100.49892,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=105"
+  },
+  {
+   "id": "1511",
+   "name": "ซอยวัดเทวราชกุญชร",
+   "name_th": "ซอยวัดเทวราชกุญชร",
+   "name_en": "-",
+   "lat": 13.77315,
+   "lng": 100.50271,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1511"
+  },
+  {
+   "id": "1512",
+   "name": "ซอยวัดเทวราชกุญชร",
+   "name_th": "ซอยวัดเทวราชกุญชร",
+   "name_en": "-",
+   "lat": 13.7731,
+   "lng": 100.5027,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1512"
+  },
+  {
+   "id": "1731",
+   "name": "ซอยสุขุมวิท 101/1",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.68432,
+   "lng": 100.6106,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1731"
+  },
+  {
+   "id": "1732",
+   "name": "ซอยสุขุมวิท 101/1",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.68426,
+   "lng": 100.61059,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1732"
+  },
+  {
+   "id": "1735",
+   "name": "ซอยสุขุมวิท 103",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.67877,
+   "lng": 100.60912,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1735"
+  },
+  {
+   "id": "1733",
+   "name": "ซอยสุขุมวิท 62",
+   "name_th": "",
+   "name_en": "",
+   "lat": 13.69579,
+   "lng": 100.60576,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1733"
+  },
+  {
+   "id": "1734",
+   "name": "ซอยสุขุมวิท 62",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.69569,
+   "lng": 100.6058,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1734"
+  },
+  {
+   "id": "1431",
+   "name": "ตรงข้าม มหาวิทยาลัยราชภัฎสวนสุนันทา",
+   "name_th": "ตรงข้าม มหาวิทยาลัยราชภัฎสวนสุนันทา",
+   "name_en": "-",
+   "lat": 13.77775,
+   "lng": 100.50986,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1431"
+  },
+  {
+   "id": "1433",
+   "name": "ตรงข้าม มหาวิทยาลัยราชภัฎสวนสุนันทา",
+   "name_th": "ตรงข้าม มหาวิทยาลัยราชภัฎสวนสุนันทา",
+   "name_en": "-",
+   "lat": 13.7777,
+   "lng": 100.50988,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1433"
+  },
+  {
+   "id": "1358",
+   "name": "ตรงข้ามบริษัท กันกุล เอ็นจิเนียริ่ง จำกัด",
+   "name_th": "ตรงข้ามบริษัท กันกุล เอ็นจิเนียริ่ง จำกัด",
+   "name_en": "-",
+   "lat": 13.78293,
+   "lng": 100.5161,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1358"
+  },
+  {
+   "id": "1063",
+   "name": "ตรงข้ามพระตำหนักจิตรลดารโหฐาน",
+   "name_th": "รถมาจากแยกวัดเบญจมบพตร",
+   "name_en": "From Wat Benchamabophit",
+   "lat": 13.76964,
+   "lng": 100.51698,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1063"
+  },
+  {
+   "id": "233",
+   "name": "ตรงข้ามพระตำหนักจิตรลดารโหฐาน ถนนพระรามที่ 5",
+   "name_th": "รถมาจากแยกราชวิถี มุ่งหน้าไปแยกวัดเบญจมบพิตร",
+   "name_en": "From Ratchawithi Intersection towards Wat Benchamabophit Intersection",
+   "lat": 13.76967,
+   "lng": 100.51695,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=233"
+  },
+  {
+   "id": "1618",
+   "name": "ต่างระดับราชพฤกษ์ ตัด ถ.กัลปพฤกษ์",
+   "name_th": "ต่างระดับราชพฤกษ์ ตัด ถ.กัลปพฤกษ์",
+   "name_en": "-",
+   "lat": 13.71248,
+   "lng": 100.45905,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1618"
+  },
+  {
+   "id": "1677",
+   "name": "ใต้ทางด่วนต่างระดับขั้นที่ 1 แยกบางนา",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.67304,
+   "lng": 100.6065,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1677"
+  },
+  {
+   "id": "1678",
+   "name": "ใต้ทางด่วนต่างระดับขั้นที่ 1 แยกบางนา",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.6729,
+   "lng": 100.60681,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1678"
+  },
+  {
+   "id": "1679",
+   "name": "ใต้ทางด่วนต่างระดับขั้นที่ 1 แยกบางนา",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.67295,
+   "lng": 100.60625,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1679"
+  },
+  {
+   "id": "1620",
+   "name": "ถ.จอมทอง ตัด ถ.สมเด็จพระเจ้าตากสิน",
+   "name_th": "ถ.จอมทอง ตัด ถ.สมเด็จพระเจ้าตากสิน",
+   "name_en": "-",
+   "lat": 13.68274,
+   "lng": 100.48142,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1620"
+  },
+  {
+   "id": "1752",
+   "name": "ถ.ประเสริฐมนูกิจ ตัด ถ.สุขาภิบาล 1 (แยกสวนน้ำ)",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.81569,
+   "lng": 100.64262,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1752"
+  },
+  {
+   "id": "1673",
+   "name": "ถ.พระราม 2 ตัด (หน้าบริเวณโรงพยาบาลบางมด)",
+   "name_th": "ถ.พระราม 2 ตัด (หน้าบริเวณโรงพยาบาลบางมด)",
+   "name_en": "-",
+   "lat": 13.67266,
+   "lng": 100.45635,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1673"
+  },
+  {
+   "id": "1617",
+   "name": "ถ.พระราม 3 ตัด ถ.รัชดาภิเษก",
+   "name_th": "ถ.พระราม 3 ตัด ถ.รัชดาภิเษก",
+   "name_en": "-",
+   "lat": 13.68587,
+   "lng": 100.52065,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1617"
+  },
+  {
+   "id": "1619",
+   "name": "ถ.พระราม 3 ตัด ถ.วงแหวนอุสาหกรรม",
+   "name_th": "ถ.พระราม 3 ตัด ถ.วงแหวนอุสาหกรรม",
+   "name_en": "-",
+   "lat": 13.68559,
+   "lng": 100.54769,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1619"
+  },
+  {
+   "id": "1695",
+   "name": "ถ.พระราม 3 ตัด ถ.สาธุประดิษฐ์",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.67913,
+   "lng": 100.52929,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1695"
+  },
+  {
+   "id": "1296",
+   "name": "ถ.รามอินทรา ตรงข้ามปากซอยรามอินทรา 39",
+   "name_th": "ถ.รามอินทรา ตรงข้ามปากซอยรามอินทรา 39",
+   "name_en": "-",
+   "lat": 13.85751,
+   "lng": 100.62732,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1296"
+  },
+  {
+   "id": "1751",
+   "name": "ถ.ลำลูกกา ตัด ถ.พหลโยธิน",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.95072,
+   "lng": 100.62216,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1751"
+  },
+  {
+   "id": "1696",
+   "name": "ถ.วิภาวดีรังสิต (บริเวณหน้า สนง.จตุจักร)",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.82936,
+   "lng": 100.5583,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1696"
+  },
+  {
+   "id": "1780",
+   "name": "ถนนข้าวสาร 1",
+   "name_th": "ถนนข้าวสาร 1",
+   "name_en": "-",
+   "lat": 13.7597,
+   "lng": 100.49562,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1780"
+  },
+  {
+   "id": "1781",
+   "name": "ถนนข้าวสาร 2",
+   "name_th": "ถนนข้าวสาร 2",
+   "name_en": "-",
+   "lat": 13.75861,
+   "lng": 100.49788,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1781"
+  },
+  {
+   "id": "1638",
+   "name": "ถนนเพชรเกษม ตัดถนนบางแค",
+   "name_th": "ถนนเพชรเกษม ตัดถนนบางแค",
+   "name_en": "",
+   "lat": 13.71186,
+   "lng": 100.42082,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1638"
+  },
+  {
+   "id": "1639",
+   "name": "ถนนเพชรเกษม ตัดถนนบางแค",
+   "name_th": "ถนนเพชรเกษม ตัดถนนบางแค",
+   "name_en": "",
+   "lat": 13.71167,
+   "lng": 100.42094,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1639"
+  },
+  {
+   "id": "159",
+   "name": "ถนนเพชรเกษม มุ่งหน้าแยกบางยี่เรือ",
+   "name_th": "ถนนเพชรเกษม มุ่งหน้าแยกบางยี่เรือ",
+   "name_en": "-",
+   "lat": 13.72641,
+   "lng": 100.49203,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=159"
+  },
+  {
+   "id": "1807",
+   "name": "ถนนเพชรเกษม มุ่งหน้าวงเวียนใหญ่",
+   "name_th": "ถนนเพชรเกษม มุ่งหน้าวงเวียนใหญ่",
+   "name_en": "-",
+   "lat": 13.72655,
+   "lng": 100.49202,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1807"
+  },
+  {
+   "id": "1086",
+   "name": "ถนนวงศ์สว่าง",
+   "name_th": "รถมาจากแยกวงศ์สว่าง",
+   "name_en": "-",
+   "lat": 13.8246,
+   "lng": 100.52425,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1086"
+  },
+  {
+   "id": "1259",
+   "name": "ถนนสวนพลู สาทร3",
+   "name_th": "ถนนสวนพลู สาทร3",
+   "name_en": "-",
+   "lat": 13.71905,
+   "lng": 100.53865,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1259"
+  },
+  {
+   "id": "1794",
+   "name": "แถวถนนพระรามที่ 4/5",
+   "name_th": "แถวถนนพระรามที่ 4/5",
+   "name_en": "-",
+   "lat": 13.73389,
+   "lng": 100.52633,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1794"
+  },
+  {
+   "id": "526",
+   "name": "ทางขึ้น คู่ขนานลอยฟ้าบรมราชชนนี ถนนพุทธมณฑลสาย3 ฝั่งขาเข้า",
+   "name_th": "ทางขึ้น คู่ขนานลอยฟ้าบรมราชชนนี  ถนนพุทธมณฑลสาย3 มุ่งหน้าพระปิ่นเกล้า",
+   "name_en": "",
+   "lat": 13.78602,
+   "lng": 100.38096,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=526"
+  },
+  {
+   "id": "1161",
+   "name": "ทางขึ้น ด่วนยกระดับฝั่งปิ่นเกล้า ขาออก",
+   "name_th": "ทางขึ้น ด่วนยกระดับฝั่งปิ่นเกล้า ขาออก",
+   "name_en": "-",
+   "lat": 13.76593,
+   "lng": 100.48764,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1161"
+  },
+  {
+   "id": "1428",
+   "name": "ทางขึ้นถนนกาญจนาภิเษก",
+   "name_th": "ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาออก",
+   "name_en": "-",
+   "lat": 13.78143,
+   "lng": 100.42338,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1428"
+  },
+  {
+   "id": "1348",
+   "name": "ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า",
+   "name_th": "ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า",
+   "name_en": "-",
+   "lat": 13.78174,
+   "lng": 100.42345,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1348"
+  },
+  {
+   "id": "1349",
+   "name": "ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า",
+   "name_th": "ทางขึ้นถนนกาญจนาภิเษก ฝั่งขาเข้า",
+   "name_en": "",
+   "lat": 13.78159,
+   "lng": 100.4239,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1349"
+  },
+  {
+   "id": "394",
+   "name": "ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาเข้า)",
+   "name_th": "ช่วงทางแยกอรุณอมรินทร์",
+   "name_en": "Bamrung Mueang Road from Sao Chingcha Intersection towards SiriPhong Road",
+   "lat": 13.76929,
+   "lng": 100.48537,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=394"
+  },
+  {
+   "id": "572",
+   "name": "ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาเข้า)",
+   "name_th": "ช่วงทางขึ้นตลิ่งชัน",
+   "name_en": "",
+   "lat": 13.78583,
+   "lng": 100.46178,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=572"
+  },
+  {
+   "id": "403",
+   "name": "ทางคู่ขนานลอยฟ้า บรมราชชนนี(ขาออก)",
+   "name_th": "ช่วงทางขึ้นถนนสมเด็จพระปิ่นเกล้า",
+   "name_en": "Towards Maen Sri Intersection",
+   "lat": 13.76679,
+   "lng": 100.48707,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=403"
+  },
+  {
+   "id": "1799",
+   "name": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ขาเข้า",
+   "name_th": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ขาเข้า",
+   "name_en": "-",
+   "lat": 13.76993,
+   "lng": 100.48476,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1799"
+  },
+  {
+   "id": "1158",
+   "name": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลง ถนนพระรามที่ 8 ขาออก",
+   "name_th": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลง ถนนพระรามที่ 8 ขาออก",
+   "name_en": "-",
+   "lat": 13.7702,
+   "lng": 100.4874,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1158"
+  },
+  {
+   "id": "1163",
+   "name": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลงศิริราช",
+   "name_th": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลงศิริราช",
+   "name_en": "-",
+   "lat": 13.76769,
+   "lng": 100.48497,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1163"
+  },
+  {
+   "id": "1164",
+   "name": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลงศิริราช",
+   "name_th": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลงศิริราช\t ขาออก",
+   "name_en": "-",
+   "lat": 13.76605,
+   "lng": 100.48784,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1164"
+  },
+  {
+   "id": "1165",
+   "name": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลงศิริราช",
+   "name_th": "ทางด่วนยกระดับฝั่งปิ่นเกล้า ช่วงทางลงศิริราช",
+   "name_en": "-",
+   "lat": 13.76769,
+   "lng": 100.48497,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1165"
+  },
+  {
+   "id": "1574",
+   "name": "ทางแยกเจริญผล",
+   "name_th": "ทางแยกเจริญผล",
+   "name_en": "-",
+   "lat": 13.74739,
+   "lng": 100.52382,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1574"
+  },
+  {
+   "id": "439",
+   "name": "ทางแยกด่วนเพชรบุรี",
+   "name_th": "ทางแยกด่วนเพชรบุรี",
+   "name_en": "Samliam Din Daeng Intersection From Ratchaprarop Intersection",
+   "lat": 13.74966,
+   "lng": 100.54829,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=439"
+  },
+  {
+   "id": "1558",
+   "name": "ทางแยกนานา",
+   "name_th": "ทางแยกนานา",
+   "name_en": "-",
+   "lat": 13.74207,
+   "lng": 100.55282,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1558"
+  },
+  {
+   "id": "1563",
+   "name": "ทางแยกนานา",
+   "name_th": "ทางแยกนานา",
+   "name_en": "-",
+   "lat": 13.7422,
+   "lng": 100.55296,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1563"
+  },
+  {
+   "id": "1221",
+   "name": "ทางแยกโบสถ์แม่พระ",
+   "name_th": "ทางแยกโบสถ์แม่พระ",
+   "name_en": "-",
+   "lat": 13.76041,
+   "lng": 100.55483,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1221"
+  },
+  {
+   "id": "1222",
+   "name": "ทางแยกโบสถ์แม่พระ",
+   "name_th": "ทางแยกโบสถ์แม่พระ",
+   "name_en": "-",
+   "lat": 13.76031,
+   "lng": 100.55485,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1222"
+  },
+  {
+   "id": "1223",
+   "name": "ทางแยกโบสถ์แม่พระ",
+   "name_th": "ทางแยกโบสถ์แม่พระ",
+   "name_en": "-",
+   "lat": 13.76051,
+   "lng": 100.55512,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1223"
+  },
+  {
+   "id": "1224",
+   "name": "ทางแยกโบสถ์แม่พระ",
+   "name_th": "ทางแยกโบสถ์แม่พระ",
+   "name_en": "-",
+   "lat": 13.76065,
+   "lng": 100.55496,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1224"
+  },
+  {
+   "id": "1225",
+   "name": "ทางแยกโบสถ์แม่พระ",
+   "name_th": "ทางแยกโบสถ์แม่พระ",
+   "name_en": "-",
+   "lat": 13.76056,
+   "lng": 100.5551,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1225"
+  },
+  {
+   "id": "1755",
+   "name": "ทางแยกปทุมวัน",
+   "name_th": "ทางแยกปทุมวัน",
+   "name_en": "Pathum Wan Intersection",
+   "lat": 13.74615,
+   "lng": 100.53075,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1755"
+  },
+  {
+   "id": "1157",
+   "name": "ทางแยกประชาร่วมมิตร",
+   "name_th": "ทางแยกประชาร่วมมิตร",
+   "name_en": "-",
+   "lat": 13.76709,
+   "lng": 100.58646,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1157"
+  },
+  {
+   "id": "1255",
+   "name": "ทางแยกประตูน้ำ",
+   "name_th": "ทางแยกประตูน้ำ",
+   "name_en": "-",
+   "lat": 13.75027,
+   "lng": 100.54106,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1255"
+  },
+  {
+   "id": "1159",
+   "name": "ทางแยกผ่านฟ้า",
+   "name_th": "ทางแยกผ่านฟ้า",
+   "name_en": "-",
+   "lat": 13.75611,
+   "lng": 100.50517,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1159"
+  },
+  {
+   "id": "622",
+   "name": "ทางแยกพงษ์พระราม",
+   "name_th": "ทางแยกพงษ์พระราม",
+   "name_en": "",
+   "lat": 13.748,
+   "lng": 100.52073,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=622"
+  },
+  {
+   "id": "1795",
+   "name": "ทางแยกพงษ์พระราม",
+   "name_th": "ทางแยกพงษ์พระราม",
+   "name_en": "-",
+   "lat": 13.74789,
+   "lng": 100.52087,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1795"
+  },
+  {
+   "id": "1388",
+   "name": "ทางแยกพญาไท",
+   "name_th": "ทางแยกพญาไท",
+   "name_en": "-",
+   "lat": 13.75805,
+   "lng": 100.53457,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1388"
+  },
+  {
+   "id": "1389",
+   "name": "ทางแยกพญาไท",
+   "name_th": "ทางแยกพญาไท",
+   "name_en": "-",
+   "lat": 13.75814,
+   "lng": 100.5343,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1389"
+  },
+  {
+   "id": "1598",
+   "name": "ทางแยกพญาไท",
+   "name_th": "ทางแยกพญาไท",
+   "name_en": "-",
+   "lat": 13.75799,
+   "lng": 100.53459,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1598"
+  },
+  {
+   "id": "1600",
+   "name": "ทางแยกพญาไท",
+   "name_th": "ทางแยกพญาไท",
+   "name_en": "-",
+   "lat": 13.75786,
+   "lng": 100.53428,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1600"
+  },
+  {
+   "id": "1790",
+   "name": "ทางแยกพระราม 9",
+   "name_th": "ทางแยกพระราม 9",
+   "name_en": "-",
+   "lat": 13.75588,
+   "lng": 100.56504,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1790"
+  },
+  {
+   "id": "1570",
+   "name": "ทางแยกเพลินจิต",
+   "name_th": "ทางแยกเพลินจิต",
+   "name_en": "-",
+   "lat": 13.74335,
+   "lng": 100.54752,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1570"
+  },
+  {
+   "id": "962",
+   "name": "ทางแยกเพลินจิต",
+   "name_th": "ทางแยกเพลินจิต",
+   "name_en": "-",
+   "lat": 13.74342,
+   "lng": 100.5476,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=962"
+  },
+  {
+   "id": "500",
+   "name": "ทางแยกมิตรสัมพันธ์",
+   "name_th": "รถมุ่งหน้าไปแยกราชประสงค์",
+   "name_en": "Towards Ratchaprasong Intersection",
+   "lat": 13.75001,
+   "lng": 100.54103,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=500"
+  },
+  {
+   "id": "1601",
+   "name": "ทางแยกมิตรสัมพันธ์",
+   "name_th": "ทางแยกมิตรสัมพันธ์",
+   "name_en": "-",
+   "lat": 13.75027,
+   "lng": 100.55458,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1601"
+  },
+  {
+   "id": "1463",
+   "name": "ทางแยกมิตรสัมพันธ์",
+   "name_th": "ทางแยกมิตรสัมพันธ์",
+   "name_en": "-",
+   "lat": 13.74989,
+   "lng": 100.55457,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1463"
+  },
+  {
+   "id": "1464",
+   "name": "ทางแยกมิตรสัมพันธ์",
+   "name_th": "ทางแยกมิตรสัมพันธ์",
+   "name_en": "-",
+   "lat": 13.75001,
+   "lng": 100.55408,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1464"
+  },
+  {
+   "id": "1204",
+   "name": "ทางแยกราชเทวี",
+   "name_th": "ทางแยกราชเทวี",
+   "name_en": "-",
+   "lat": 13.75316,
+   "lng": 100.53151,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1204"
+  },
+  {
+   "id": "1604",
+   "name": "ทางแยกราชเทวี",
+   "name_th": "ทางแยกราชเทวี",
+   "name_en": "-",
+   "lat": 13.75334,
+   "lng": 100.53177,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1604"
+  },
+  {
+   "id": "1568",
+   "name": "ทางแยกสาทร-เจริญกรุง",
+   "name_th": "ทางแยกสาทร-เจริญกรุง",
+   "name_en": "-",
+   "lat": 13.71841,
+   "lng": 100.51499,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1568"
+  },
+  {
+   "id": "613",
+   "name": "ทางแยกสาทร-เจริญกรุง",
+   "name_th": "ทางแยกสาทร-เจริญกรุง",
+   "name_en": "-",
+   "lat": 13.71868,
+   "lng": 100.51515,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=613"
+  },
+  {
+   "id": "615",
+   "name": "ทางแยกสาทร-เจริญกรุง",
+   "name_th": "แยกสาทร-เจริญกรุง",
+   "name_en": "-",
+   "lat": 13.71854,
+   "lng": 100.51511,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=615"
+  },
+  {
+   "id": "642",
+   "name": "ทางแยกสามย่าน",
+   "name_th": "ทางแยกสามย่าน",
+   "name_en": "Towards Pathum Wan Intersection",
+   "lat": 13.73272,
+   "lng": 100.52857,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=642"
+  },
+  {
+   "id": "432",
+   "name": "ทางแยกสามย่าน",
+   "name_th": "ทางแยกสามย่าน",
+   "name_en": "From Ratchathewi Intersection",
+   "lat": 13.73258,
+   "lng": 100.52896,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=432"
+  },
+  {
+   "id": "1707",
+   "name": "ทางแยกสามย่าน",
+   "name_th": "ทางแยกสามย่าน",
+   "name_en": "-",
+   "lat": 13.73284,
+   "lng": 100.52914,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1707"
+  },
+  {
+   "id": "1708",
+   "name": "ทางแยกสามย่าน",
+   "name_th": "ทางแยกสามย่าน",
+   "name_en": "-",
+   "lat": 13.73281,
+   "lng": 100.52862,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1708"
+  },
+  {
+   "id": "535",
+   "name": "ทางแยกหลังสวน",
+   "name_th": "ทางแยกหลังสวน",
+   "name_en": "0",
+   "lat": 13.73425,
+   "lng": 100.5422,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=535"
+  },
+  {
+   "id": "542",
+   "name": "ทางแยกหลังสวน",
+   "name_th": "ทางแยกหลังสวน",
+   "name_en": "From Phloen Chit Intersection",
+   "lat": 13.73428,
+   "lng": 100.54219,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=542"
+  },
+  {
+   "id": "1273",
+   "name": "ทางแยกหัวลำโพง",
+   "name_th": "ทางแยกหัวลำโพง",
+   "name_en": "-",
+   "lat": 13.73791,
+   "lng": 100.51662,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1273"
+  },
+  {
+   "id": "1207",
+   "name": "ทางแยกอ.ชัยสมรภูมิ",
+   "name_th": "ทางแยกอ.ชัยสมรภูมิ",
+   "name_en": "-",
+   "lat": 13.76523,
+   "lng": 100.53885,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1207"
+  },
+  {
+   "id": "1209",
+   "name": "ทางแยกอ.ชัยสมรภูมิ",
+   "name_th": "ทางแยกอ.ชัยสมรภูมิ",
+   "name_en": "-",
+   "lat": 13.7658,
+   "lng": 100.53888,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1209"
+  },
+  {
+   "id": "277",
+   "name": "ทางแยกอ.ชัยสมรภูมิ",
+   "name_th": "รถมุ่งหน้าไปแยกพญาไท",
+   "name_en": "From Victory Monument",
+   "lat": 13.76429,
+   "lng": 100.53867,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=277"
+  },
+  {
+   "id": "1606",
+   "name": "ทางแยกอโศก-เพชร",
+   "name_th": "ทางแยกอโศก-เพชร",
+   "name_en": "-",
+   "lat": 13.74899,
+   "lng": 100.56339,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1606"
+  },
+  {
+   "id": "1791",
+   "name": "ทางแยกอโศก-เพชร",
+   "name_th": "ทางแยกอโศก-เพชร",
+   "name_en": "-",
+   "lat": 13.74894,
+   "lng": 100.56319,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1791"
+  },
+  {
+   "id": "1578",
+   "name": "ทางแยกอโศก-สุขุม",
+   "name_th": "ทางแยกอโศก-สุขุม",
+   "name_en": "-",
+   "lat": 13.73679,
+   "lng": 100.56127,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1578"
+  },
+  {
+   "id": "1756",
+   "name": "ทางแยกอโศก-สุขุม",
+   "name_th": "ทางแยกอโศก-สุขุม",
+   "name_en": "Asoke Intersection, Sukhumvit",
+   "lat": 13.73674,
+   "lng": 100.56115,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1756"
+  },
+  {
+   "id": "1582",
+   "name": "ทางแยกอังรีดูนังค์",
+   "name_th": "ทางแยกอังรีดูนังค์",
+   "name_en": "-",
+   "lat": 13.73109,
+   "lng": 100.53361,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1582"
+  },
+  {
+   "id": "536",
+   "name": "ทางแยกอังรีดูนังค์",
+   "name_th": "ทางแยกอังรีดูนังค์",
+   "name_en": "0",
+   "lat": 13.73056,
+   "lng": 100.53391,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=536"
+  },
+  {
+   "id": "619",
+   "name": "ทางแยกอังรีดูนังค์",
+   "name_th": "ทางแยกอังรีดูนังค์",
+   "name_en": "0",
+   "lat": 13.73104,
+   "lng": 100.53356,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=619"
+  },
+  {
+   "id": "527",
+   "name": "ทางลง คู่ขนานลอยฟ้าบรมราชชนนี ถนนพุทธมณฑลสาย3 ฝั่งขาออก",
+   "name_th": "ทางลง คู่ขนานลอยฟ้าบรมราชชนนี ฝั่งขาออก มุ่งหน้าถนนพุทธมณฑลสาย3",
+   "name_en": "-",
+   "lat": 13.78593,
+   "lng": 100.37939,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=527"
+  },
+  {
+   "id": "1379",
+   "name": "ทางลง ด่วนยกระดับฝั่งปิ่นเกล้า",
+   "name_th": "ทางลง ด่วนยกระดับฝั่งปิ่นเกล้า",
+   "name_en": "-",
+   "lat": 13.76993,
+   "lng": 100.48464,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1379"
+  },
+  {
+   "id": "1154",
+   "name": "ทางลง ยกระดับฝั่งปิ่นเกล้า ขาเข้า",
+   "name_th": "ช่วงทางลงถนนสมเด็จพระปิ่นเกล้า",
+   "name_en": "-",
+   "lat": 13.76692,
+   "lng": 100.48716,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1154"
+  },
+  {
+   "id": "1174",
+   "name": "ทางลงตลิ่งชันฝั่ง ขาเข้า",
+   "name_th": "ทางลงตลิ่งชันฝั่ง ขาเข้า",
+   "name_en": "-",
+   "lat": 13.7869,
+   "lng": 100.46587,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1174"
+  },
+  {
+   "id": "1178",
+   "name": "ทางลงตลิ่งชันฝั่ง ขาเข้า",
+   "name_th": "ทางลงตลิ่งชันฝั่ง ขาเข้า",
+   "name_en": "-",
+   "lat": 13.7869,
+   "lng": 100.46591,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1178"
+  },
+  {
+   "id": "1179",
+   "name": "ทางลงตลิ่งชันฝั่ง ขาออก",
+   "name_th": "ทางลงตลิ่งชันฝั่ง ขาออก",
+   "name_en": "-",
+   "lat": 13.78657,
+   "lng": 100.4652,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1179"
+  },
+  {
+   "id": "1344",
+   "name": "ทางลงตลิ่งชันฝั่ง ขาออก",
+   "name_th": "ทางลงตลิ่งชันฝั่ง ขาออก",
+   "name_en": "-",
+   "lat": 13.78657,
+   "lng": 100.46522,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1344"
+  },
+  {
+   "id": "1345",
+   "name": "ทางลงตลิ่งชันฝั่ง ขาออก",
+   "name_th": "ทางลงตลิ่งชันฝั่ง ขาออก",
+   "name_en": "-",
+   "lat": 13.78657,
+   "lng": 100.46522,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1345"
+  },
+  {
+   "id": "1479",
+   "name": "แนวถนนกรุงเกษม 1",
+   "name_th": "แนวถนนกรุงเกษม 1",
+   "name_en": "-",
+   "lat": 13.76636,
+   "lng": 100.50663,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1479"
+  },
+  {
+   "id": "1381",
+   "name": "แนวถนนนครไชยศรี 2",
+   "name_th": "แนวถนนนครไชยศรี 2",
+   "name_en": "-",
+   "lat": 13.78157,
+   "lng": 100.51858,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1381"
+  },
+  {
+   "id": "1382",
+   "name": "แนวถนนนครไชยศรี 2",
+   "name_th": "แนวถนนนครไชยศรี 2",
+   "name_en": "-",
+   "lat": 13.78406,
+   "lng": 100.51412,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1382"
+  },
+  {
+   "id": "1714",
+   "name": "แนวถนนพระราม 4/1",
+   "name_th": "แนวถนนพระราม 4/1",
+   "name_en": "-",
+   "lat": 13.72462,
+   "lng": 100.54854,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1714"
+  },
+  {
+   "id": "1715",
+   "name": "แนวถนนพระราม 4/1",
+   "name_th": "แนวถนนพระราม 4/1",
+   "name_en": "-",
+   "lat": 13.72458,
+   "lng": 100.54869,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1715"
+  },
+  {
+   "id": "1716",
+   "name": "แนวถนนพระราม 4/3",
+   "name_th": "แนวถนนพระราม 4/3",
+   "name_en": "-",
+   "lat": 13.72739,
+   "lng": 100.54204,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1716"
+  },
+  {
+   "id": "1717",
+   "name": "แนวถนนพระราม 4/3",
+   "name_th": "แนวถนนพระราม 4/3",
+   "name_en": "-",
+   "lat": 13.7274,
+   "lng": 100.54197,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1717"
+  },
+  {
+   "id": "477",
+   "name": "แนวถนนพระราม 4/3",
+   "name_th": "แนวถนนพระราม 4/3",
+   "name_en": "Sanghee Intersection",
+   "lat": 13.72728,
+   "lng": 100.54246,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=477"
+  },
+  {
+   "id": "1712",
+   "name": "แนวถนนพระราม 4/4",
+   "name_th": "แนวถนนพระราม 4/4",
+   "name_en": "-",
+   "lat": 13.73233,
+   "lng": 100.53038,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1712"
+  },
+  {
+   "id": "1710",
+   "name": "แนวถนนพระราม 4/5",
+   "name_th": "แนวถนนพระราม 4/5",
+   "name_en": "-",
+   "lat": 13.73447,
+   "lng": 100.52494,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1710"
+  },
+  {
+   "id": "1089",
+   "name": "แนวถนนพระราม 6/4",
+   "name_th": "แนวถนนพระราม 6/4",
+   "name_en": "-",
+   "lat": 13.76604,
+   "lng": 100.5276,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1089"
+  },
+  {
+   "id": "1480",
+   "name": "แนวถนนพระสุเมรุ 2",
+   "name_th": "แนวถนนพระสุเมรุ 2",
+   "name_en": "-",
+   "lat": 13.76056,
+   "lng": 100.50072,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1480"
+  },
+  {
+   "id": "411",
+   "name": "แนวถนนพระอาทิตย์ 2",
+   "name_th": "แนวถนนพระอาทิตย์ 2",
+   "name_en": "Phra Athit Road",
+   "lat": 13.76318,
+   "lng": 100.4949,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=411"
+  },
+  {
+   "id": "1482",
+   "name": "แนวถนนย่านบางลำพู 1",
+   "name_th": "แนวถนนย่านบางลำพู 1",
+   "name_en": "-",
+   "lat": 13.7605,
+   "lng": 100.4979,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1482"
+  },
+  {
+   "id": "1753",
+   "name": "แนวถนนย่านพาหุรัด 2",
+   "name_th": "แนวถนนย่านพาหุรัด 2",
+   "name_en": "-",
+   "lat": 13.7447,
+   "lng": 100.50102,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1753"
+  },
+  {
+   "id": "1754",
+   "name": "แนวถนนย่านพาหุรัด 2",
+   "name_th": "แนวถนนย่านพาหุรัด 2",
+   "name_en": "-",
+   "lat": 13.74469,
+   "lng": 100.50108,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1754"
+  },
+  {
+   "id": "1264",
+   "name": "แนวถนนโยธี",
+   "name_th": "แนวถนนโยธี",
+   "name_en": "-",
+   "lat": 13.76215,
+   "lng": 100.53572,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1264"
+  },
+  {
+   "id": "1265",
+   "name": "แนวถนนโยธี",
+   "name_th": "แนวถนนโยธี",
+   "name_en": "-",
+   "lat": 13.76247,
+   "lng": 100.53514,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1265"
+  },
+  {
+   "id": "1200",
+   "name": "แนวถนนรางน้ำ",
+   "name_th": "แนวถนนรางน้ำ",
+   "name_en": "-",
+   "lat": 13.76048,
+   "lng": 100.53857,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1200"
+  },
+  {
+   "id": "1607",
+   "name": "แนวถนนรางน้ำ",
+   "name_th": "แนวถนนรางน้ำ",
+   "name_en": "-",
+   "lat": 13.76062,
+   "lng": 100.53843,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1607"
+  },
+  {
+   "id": "1566",
+   "name": "แนวถนนสามเสน 2",
+   "name_th": "แนวถนนสามเสน 2",
+   "name_en": "-",
+   "lat": 13.76403,
+   "lng": 100.49941,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1566"
+  },
+  {
+   "id": "1502",
+   "name": "แนวถนนสามเสน 3",
+   "name_th": "แนวถนนสามเสน 3",
+   "name_en": "-",
+   "lat": 13.76963,
+   "lng": 100.50376,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1502"
+  },
+  {
+   "id": "1503",
+   "name": "แนวถนนสามเสน 4",
+   "name_th": "แนวถนนสามเสน 4",
+   "name_en": "-",
+   "lat": 13.76941,
+   "lng": 100.50355,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1503"
+  },
+  {
+   "id": "414",
+   "name": "บริเวณใต้สะพานพุทธ",
+   "name_th": "บริเวณใต้สะพานพุทธ",
+   "name_en": "Below/Under Phra Phuttha Yodfa Bridge (Memorial Bridge)",
+   "lat": 13.74018,
+   "lng": 100.49792,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=414"
+  },
+  {
+   "id": "1659",
+   "name": "บริเวณบนสะพานพระราม 8",
+   "name_th": "บริเวณบนสะพานพระราม 8 (ฝั่งขาออก)",
+   "name_en": "-",
+   "lat": 13.76972,
+   "lng": 100.49553,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1659"
+  },
+  {
+   "id": "1660",
+   "name": "บริเวณบนสะพานพระราม 8 (ฝั่งขาออก)",
+   "name_th": "บริเวณบนสะพานพระราม 8 (ฝั่งขาออก)",
+   "name_en": "-",
+   "lat": 13.76972,
+   "lng": 100.49555,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1660"
+  },
+  {
+   "id": "231",
+   "name": "ประชาราษฎร์สาย1",
+   "name_th": "ประชาราษฎร์สาย1 ซอย 3",
+   "name_en": "-",
+   "lat": 13.80123,
+   "lng": 100.52134,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=231"
+  },
+  {
+   "id": "232",
+   "name": "ประชาราษฎร์สาย1",
+   "name_th": "ประชาราษฎร์สาย1 ซอย 3",
+   "name_en": "-",
+   "lat": 13.80123,
+   "lng": 100.52131,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=232"
+  },
+  {
+   "id": "1072",
+   "name": "ปากซอยจุฬาลงกรณ์ 26 ถนนบรรทัดทอง",
+   "name_th": "รถมาจากแยกเจริญผล รถมุ่งหน้าไปแยกสะพานเหลือง",
+   "name_en": "-",
+   "lat": 13.73915,
+   "lng": 100.52223,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1072"
+  },
+  {
+   "id": "1073",
+   "name": "ปากซอยจุฬาลงกรณ์ 26 ถนนบรรทัดทอง",
+   "name_th": "รถมาจากแยกสะพานเหลือง มุ่งหน้าไปแยกเจริญผล",
+   "name_en": "From Saphan Lueang Intersection towards Cha Roen Phon Intersection",
+   "lat": 13.73904,
+   "lng": 100.52222,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1073"
+  },
+  {
+   "id": "108",
+   "name": "ปากซอยเจริญกรุง 72/1 ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกถนนตก มุ่งหน้าไปแยกตรอกจันทน์",
+   "name_en": "From Thanon Tok Intersection",
+   "lat": 13.70704,
+   "lng": 100.50791,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=108"
+  },
+  {
+   "id": "1088",
+   "name": "ปากซอยเจริญกรุง 76 ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกตรอกจันทร์",
+   "name_en": "-",
+   "lat": 13.70142,
+   "lng": 100.5018,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1088"
+  },
+  {
+   "id": "1635",
+   "name": "ปากซอยเจริญกรุง 76 ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกตรอกจันทน์",
+   "name_en": "-",
+   "lat": 13.70147,
+   "lng": 100.5018,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1635"
+  },
+  {
+   "id": "109",
+   "name": "ปากซอยเจริญกรุง 85 ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกตรอกจันทน์ มุ่งหน้าไปแยกถนนตก",
+   "name_en": "From Trok Chan Intersection",
+   "lat": 13.7049,
+   "lng": 100.50568,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=109"
+  },
+  {
+   "id": "1747",
+   "name": "ปากซอยพระรามที่ 2 ซอย 40",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.67263,
+   "lng": 100.45575,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1747"
+  },
+  {
+   "id": "1729",
+   "name": "ปากซอยพระรามที่ 2 ซอย 62",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.64978,
+   "lng": 100.42001,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1729"
+  },
+  {
+   "id": "229",
+   "name": "ปากซอยระนอง2 ถนนพระรามที่ 5",
+   "name_th": "รถมาจากแยกเกษะโกมล มุ่งหน้าไปแยกสะพานแดง",
+   "name_en": "From Gesagomon Intersection towards Saphan Daeng Intersection",
+   "lat": 13.78797,
+   "lng": 100.52693,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=229"
+  },
+  {
+   "id": "230",
+   "name": "ปากซอยระนอง2 ถนนพระรามที่ 5",
+   "name_th": "รถมาจากแยกสะพานแดง มุ่งหน้าไปแยกเกษะโกมล",
+   "name_en": "From Saphan Daeng Intersection towards Gesagomon Intersection",
+   "lat": 13.78793,
+   "lng": 100.52695,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=230"
+  },
+  {
+   "id": "1801",
+   "name": "ปากทาง ซอยเพชรเกษม 69",
+   "name_th": "ท้ายรถมุ่งหน้าปากซอยเพชรเกษม 69",
+   "name_en": "entrance of Soi Phetkasem 69.",
+   "lat": 13.70718,
+   "lng": 100.37395,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1801"
+  },
+  {
+   "id": "1261",
+   "name": "ย่านคลองถม 1",
+   "name_th": "ย่านคลองถม 1",
+   "name_en": "-",
+   "lat": 13.74739,
+   "lng": 100.50656,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1261"
+  },
+  {
+   "id": "1263",
+   "name": "ย่านคลองถม 1",
+   "name_th": "ย่านคลองถม 1",
+   "name_en": "-",
+   "lat": 13.74695,
+   "lng": 100.5065,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1263"
+  },
+  {
+   "id": "1395",
+   "name": "ย่านคลองถม 1",
+   "name_th": "ย่านคลองถม 1",
+   "name_en": "-",
+   "lat": 13.74652,
+   "lng": 100.50625,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1395"
+  },
+  {
+   "id": "1588",
+   "name": "แยกกษัตริย์ศึก",
+   "name_th": "แยกกษัตริย์ศึก",
+   "name_en": "-",
+   "lat": 13.74933,
+   "lng": 100.51663,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1588"
+  },
+  {
+   "id": "1585",
+   "name": "แยกกษัตริย์ศึก",
+   "name_th": "แยกกษัตริย์ศึก",
+   "name_en": "-",
+   "lat": 13.749,
+   "lng": 100.51674,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1585"
+  },
+  {
+   "id": "1107",
+   "name": "แยกกำแพงเพชร (ถนนพหลโยธินขาออก ใกล้ตลาดนัดจตุจักร)",
+   "name_th": "รถมาจากแยกสะพานควาย",
+   "name_en": "-",
+   "lat": 13.79795,
+   "lng": 100.55084,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1107"
+  },
+  {
+   "id": "1108",
+   "name": "แยกกำแพงเพชร (ถนนพหลโยธินขาออก ใกล้ตลาดนัดจตุจักร)",
+   "name_th": "รถมาจากแยกอ.ต.ก",
+   "name_en": "-",
+   "lat": 13.79801,
+   "lng": 100.55091,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1108"
+  },
+  {
+   "id": "63",
+   "name": "แยกกำแพงเพชร ด้านซอยพหลโยธิน 18",
+   "name_th": "รถมาจากถนนวิภาวดีรังสิต",
+   "name_en": "From Lat Phrao Intersection",
+   "lat": 13.7979,
+   "lng": 100.55129,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=63"
+  },
+  {
+   "id": "1071",
+   "name": "แยกกำแพงเพชร ด้านถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกลาดพร้าว",
+   "name_en": "From Soi Phahon Yothin 18",
+   "lat": 13.79787,
+   "lng": 100.5512,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1071"
+  },
+  {
+   "id": "1665",
+   "name": "แยกเกษตร",
+   "name_th": "TF-JJ-03แยกเกษตร",
+   "name_en": "-",
+   "lat": 13.84004,
+   "lng": 100.57529,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1665"
+  },
+  {
+   "id": "1552",
+   "name": "แยกเกษะโกมล",
+   "name_th": "แยกเกษะโกมล",
+   "name_en": "-",
+   "lat": 13.78334,
+   "lng": 100.5244,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1552"
+  },
+  {
+   "id": "1489",
+   "name": "แยกเกษะโกมล",
+   "name_th": "แยกเกษะโกมล",
+   "name_en": "-",
+   "lat": 13.78326,
+   "lng": 100.52436,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1489"
+  },
+  {
+   "id": "630",
+   "name": "แยกเกษะโกมล",
+   "name_th": "แยกเกษะโกมล ด้านถนนอำนวยสงคราม",
+   "name_en": "Towards Saphan Daeng Intersection",
+   "lat": 13.78334,
+   "lng": 100.5244,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=630"
+  },
+  {
+   "id": "309",
+   "name": "แยกขัตติยานี",
+   "name_th": "แยกขัตติยานี",
+   "name_en": "Towards Sukhothai Intersection",
+   "lat": 13.77846,
+   "lng": 100.51639,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=309"
+  },
+  {
+   "id": "310",
+   "name": "แยกขัตติยานี",
+   "name_th": "แยกขัตติยานี",
+   "name_en": "Towards Phi Chai Intersection",
+   "lat": 13.7785,
+   "lng": 100.51637,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=310"
+  },
+  {
+   "id": "1466",
+   "name": "แยกขัตติยานี",
+   "name_th": "แยกขัตติยานี",
+   "name_en": "-",
+   "lat": 13.77844,
+   "lng": 100.51637,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1466"
+  },
+  {
+   "id": "1471",
+   "name": "แยกขัตติยานี",
+   "name_th": "แยกขัตติยานี",
+   "name_en": "-",
+   "lat": 13.77838,
+   "lng": 100.51648,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1471"
+  },
+  {
+   "id": "1469",
+   "name": "แยกเขตดุสิต",
+   "name_th": "แยกเขตดุสิต",
+   "name_en": "-",
+   "lat": 13.77649,
+   "lng": 100.52071,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1469"
+  },
+  {
+   "id": "363",
+   "name": "แยกเขตดุสิต",
+   "name_th": "แยกเขตดุสิต",
+   "name_en": "From Ratchawithi Intersection",
+   "lat": 13.77652,
+   "lng": 100.52067,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=363"
+  },
+  {
+   "id": "364",
+   "name": "แยกเขตดุสิต",
+   "name_th": "แยกเขตดุสิต ด้านถนนสุโขทัย",
+   "name_en": "From Rat Cha Wat Intersection",
+   "lat": 13.77652,
+   "lng": 100.52067,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=364"
+  },
+  {
+   "id": "1720",
+   "name": "แยกคลองตัน",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.74107,
+   "lng": 100.60089,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1720"
+  },
+  {
+   "id": "1721",
+   "name": "แยกคลองตัน",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.74083,
+   "lng": 100.60076,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1721"
+  },
+  {
+   "id": "1680",
+   "name": "แยกคลองเตย",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72069,
+   "lng": 100.55771,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1680"
+  },
+  {
+   "id": "1505",
+   "name": "แยกคอกวัว",
+   "name_th": "แยกคอกวัว",
+   "name_en": "-",
+   "lat": 13.75707,
+   "lng": 100.49924,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1505"
+  },
+  {
+   "id": "1506",
+   "name": "แยกคอกวัว",
+   "name_th": "แยกคอกวัว",
+   "name_en": "-",
+   "lat": 13.75736,
+   "lng": 100.49906,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1506"
+  },
+  {
+   "id": "1421",
+   "name": "แยกคอกวัว",
+   "name_th": "แยกคอกวัว",
+   "name_en": "-",
+   "lat": 13.75747,
+   "lng": 100.49886,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1421"
+  },
+  {
+   "id": "1422",
+   "name": "แยกคอกวัว",
+   "name_th": "แยกคอกวัว",
+   "name_en": "-",
+   "lat": 13.75732,
+   "lng": 100.49894,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1422"
+  },
+  {
+   "id": "1423",
+   "name": "แยกจ.ป.ร. 1",
+   "name_th": "แยกจ.ป.ร. 1",
+   "name_en": "-",
+   "lat": 13.75997,
+   "lng": 100.50763,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1423"
+  },
+  {
+   "id": "569",
+   "name": "แยกจ.ป.ร. 1",
+   "name_th": "แยกจ.ป.ร. 1",
+   "name_en": "Jor Por Ror  Intersection",
+   "lat": 13.75996,
+   "lng": 100.50763,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=569"
+  },
+  {
+   "id": "1478",
+   "name": "แยกจ.ป.ร. 2",
+   "name_th": "แยกจ.ป.ร. 2",
+   "name_en": "-",
+   "lat": 13.75996,
+   "lng": 100.50736,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1478"
+  },
+  {
+   "id": "1497",
+   "name": "แยกจ.ป.ร. 2",
+   "name_th": "แยกจ.ป.ร. 2",
+   "name_en": "-",
+   "lat": 13.76001,
+   "lng": 100.5077,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1497"
+  },
+  {
+   "id": "1332",
+   "name": "แยกจ.ป.ร. 2",
+   "name_th": "แยกจ.ป.ร. 2",
+   "name_en": "-",
+   "lat": 13.75989,
+   "lng": 100.50775,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1332"
+  },
+  {
+   "id": "1613",
+   "name": "แยกจ.ป.ร. 2",
+   "name_th": "แยกจ.ป.ร. 2",
+   "name_en": "-",
+   "lat": 13.75994,
+   "lng": 100.5077,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1613"
+  },
+  {
+   "id": "1133",
+   "name": "แยกจันทน์-นราธิวาส(เกาะกลางถนนนราธิวาส ข้างป้อมตำรวจ)",
+   "name_th": "รถมาจากแยกนางลิ้นจี่",
+   "name_en": "-",
+   "lat": 13.70724,
+   "lng": 100.53776,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1133"
+  },
+  {
+   "id": "1134",
+   "name": "แยกจันทน์-นราธิวาส(เกาะกลางถนนนราธิวาส ข้างป้อมตำรวจ)",
+   "name_th": "รถมาจากแยกสาทร-นราธิวาส",
+   "name_en": "-",
+   "lat": 13.70731,
+   "lng": 100.5378,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1134"
+  },
+  {
+   "id": "1135",
+   "name": "แยกจันทน์-นราธิวาส(เกาะกลางถนนนราธิวาส ข้างป้อมตำรวจ)",
+   "name_th": "รถมุ่งหน้าไปแยกพระราม 3",
+   "name_en": "-",
+   "lat": 13.70728,
+   "lng": 100.53782,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1135"
+  },
+  {
+   "id": "87",
+   "name": "แยกจันทน์-นราธิวาส(ถนนจันทน์ หน้า Besmile Dentral Clinic)",
+   "name_th": "รถมาจากแยกรัชดา-นราธิวาส",
+   "name_en": "From Ratchada-Naradhiwas Intersection",
+   "lat": 13.70702,
+   "lng": 100.53749,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=87"
+  },
+  {
+   "id": "90",
+   "name": "แยกจันทน์-สาธุประดิษฐ์",
+   "name_th": "รถมาจากแยกด่วนสาธุประดิษฐ์",
+   "name_en": "From Duan Sathu Pradit Intersection",
+   "lat": 13.70582,
+   "lng": 100.52868,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=90"
+  },
+  {
+   "id": "88",
+   "name": "แยกจันทน์-สาธุประดิษฐ์ ด้านถนนจันทน์",
+   "name_th": "รถมุ่งหน้าไปแยกจันทน์-นราธิวาส",
+   "name_en": "Towards Chan-Naradhiwas Intersection",
+   "lat": 13.70591,
+   "lng": 100.52866,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=88"
+  },
+  {
+   "id": "89",
+   "name": "แยกจันทน์-สาธุประดิษฐ์ ด้านถนนจันทน์",
+   "name_th": "รถมุ่งหน้าไปแยกใต้ทางด่วนจันทน์",
+   "name_en": "Towards Intersection under Chan Expy",
+   "lat": 13.70583,
+   "lng": 100.52883,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=89"
+  },
+  {
+   "id": "1136",
+   "name": "แยกจันทน์-สาธุประดิษฐ์ ด้านถนนสาธุประดิษฐ์",
+   "name_th": "รถมุ่งหน้าไปแยกด่วนสาธุประดิษฐ์",
+   "name_en": "-",
+   "lat": 13.70583,
+   "lng": 100.5287,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1136"
+  },
+  {
+   "id": "1757",
+   "name": "แยกเฉลิมไทย",
+   "name_th": "แยกเฉลิมไทย",
+   "name_en": "Chalermthai Intersection, Ratchadamnoen Road",
+   "lat": 13.75626,
+   "lng": 100.50608,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1757"
+  },
+  {
+   "id": "1418",
+   "name": "แยกเฉลิมไทย",
+   "name_th": "แยกเฉลิมไทย",
+   "name_en": "-",
+   "lat": 13.75623,
+   "lng": 100.5048,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1418"
+  },
+  {
+   "id": "1385",
+   "name": "แยกซังฮี้",
+   "name_th": "แยกซังฮี้",
+   "name_en": "-",
+   "lat": 13.77839,
+   "lng": 100.50843,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1385"
+  },
+  {
+   "id": "1386",
+   "name": "แยกซังฮี้",
+   "name_th": "แยกซังฮี้",
+   "name_en": "-",
+   "lat": 13.77836,
+   "lng": 100.50841,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1386"
+  },
+  {
+   "id": "609",
+   "name": "แยกเดโช",
+   "name_th": "แยกเดโช",
+   "name_en": "From Surawong Road",
+   "lat": 13.72544,
+   "lng": 100.52561,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=609"
+  },
+  {
+   "id": "610",
+   "name": "แยกเดโช",
+   "name_th": "แยกเดโช",
+   "name_en": "From Surawong Road",
+   "lat": 13.72543,
+   "lng": 100.52555,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=610"
+  },
+  {
+   "id": "98",
+   "name": "แยกตรอกจันทน์ ด้านซอยเจริญกรุง 70",
+   "name_th": "รถมุ่งหน้าไปซอยเจริญกรุง 70",
+   "name_en": "Towards Charoen Krung 70",
+   "lat": 13.71003,
+   "lng": 100.51152,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=98"
+  },
+  {
+   "id": "99",
+   "name": "แยกตรอกจันทน์ ด้านถนนจันทน์",
+   "name_th": "รถมาจากแยกใต้ทางด่วนจันทน์",
+   "name_en": "From Intersection under Chan Expy",
+   "lat": 13.70997,
+   "lng": 100.51147,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=99"
+  },
+  {
+   "id": "96",
+   "name": "แยกตรอกจันทน์ ด้านถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกถนนตก",
+   "name_en": "From Thanon Tok Intersection",
+   "lat": 13.70997,
+   "lng": 100.51116,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=96"
+  },
+  {
+   "id": "97",
+   "name": "แยกตรอกจันทน์ ด้านถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกสาทร-เจริญกรุง",
+   "name_en": "From Sathon-Charoen Krung Intersection",
+   "lat": 13.71016,
+   "lng": 100.51144,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=97"
+  },
+  {
+   "id": "947",
+   "name": "แยกตึกชัย",
+   "name_th": "TF-RW-06 แยกตึกชัย",
+   "name_en": "-",
+   "lat": 13.76945,
+   "lng": 100.52864,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=947"
+  },
+  {
+   "id": "93",
+   "name": "แยกใต้ทางด่วนจันทน์ ด้านถนนจันทน์",
+   "name_th": "รถมาจากแยกจันทน์-สาธุประดิษฐ์",
+   "name_en": "From Chan-Sathu Pradit Intersection",
+   "lat": 13.70775,
+   "lng": 100.51893,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=93"
+  },
+  {
+   "id": "94",
+   "name": "แยกใต้ทางด่วนจันทน์ ด้านถนนจันทน์",
+   "name_th": "รถมาจากแยกตรอกจันทน์",
+   "name_en": "From Trok Chan Intersection",
+   "lat": 13.70779,
+   "lng": 100.51856,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=94"
+  },
+  {
+   "id": "95",
+   "name": "แยกใต้ทางด่วนจันทน์ ด้านถนนเจริญราษฎร์",
+   "name_th": "รถมาจากแยกเจริญราษฎร์",
+   "name_en": "From Charoen Rat Intersection",
+   "lat": 13.70773,
+   "lng": 100.51856,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=95"
+  },
+  {
+   "id": "92",
+   "name": "แยกใต้ทางด่วนจันทน์ ด้านถนนเจริญราษฎร์",
+   "name_th": "รถมาจากแยกสุรศักดิ์",
+   "name_en": "From Surasak Intersection",
+   "lat": 13.70783,
+   "lng": 100.51879,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=92"
+  },
+  {
+   "id": "1087",
+   "name": "แยกถนนตก",
+   "name_th": "รถมาจากแยกเจริญราษฎร์",
+   "name_en": "-",
+   "lat": 13.69533,
+   "lng": 100.49866,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1087"
+  },
+  {
+   "id": "100",
+   "name": "แยกถนนตก ด้านถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกตรอกจันทน์",
+   "name_en": "From Trok Chan Intersection",
+   "lat": 13.69726,
+   "lng": 100.4972,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=100"
+  },
+  {
+   "id": "102",
+   "name": "แยกถนนตก ด้านถนนตก",
+   "name_th": "รถมาจากถนนตก",
+   "name_en": "From Thanon Tok Intersection",
+   "lat": 13.69704,
+   "lng": 100.49691,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=102"
+  },
+  {
+   "id": "101",
+   "name": "แยกถนนตก ด้านถนนพระรามที่ 3",
+   "name_th": "รถมาจากสะพานกรุงเทพ",
+   "name_en": "From Krung Thep Bridge",
+   "lat": 13.69738,
+   "lng": 100.49706,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=101"
+  },
+  {
+   "id": "103",
+   "name": "แยกถนนตก(ถนนพระราม 3 ขาออก ข้างป้อมตำรวจ)",
+   "name_th": "รถมาจากแยกเจริญราษฎร์",
+   "name_en": "From Charoen Rat Intersection",
+   "lat": 13.69699,
+   "lng": 100.49701,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=103"
+  },
+  {
+   "id": "370",
+   "name": "แยกเทเวศน์",
+   "name_th": "แยกเทเวศน์ รถด้านซ้ายมุ่งหน้าแยกบางขุนพรหม",
+   "name_en": "Towards Pracha Kasem Intersection",
+   "lat": 13.76962,
+   "lng": 100.50368,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=370"
+  },
+  {
+   "id": "371",
+   "name": "แยกเทเวศน์",
+   "name_th": "ถนนกรุงเกษม รถฝั่งซ้ายมุ่งหน้าแยกมัฆวาน",
+   "name_en": "Towards Makkhawan Intersection",
+   "lat": 13.76951,
+   "lng": 100.50385,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=371"
+  },
+  {
+   "id": "1408",
+   "name": "แยกเทียมร่วมมิตร",
+   "name_th": "รถมุ่งไปหน้าไปเทียมร่วมมิตร",
+   "name_en": "From Huai Khwang Intersection",
+   "lat": 13.76938,
+   "lng": 100.57331,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1408"
+  },
+  {
+   "id": "113",
+   "name": "แยกเทียมร่วมมิตร ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกพระราม 9",
+   "name_en": "From Rama 9 Intersection",
+   "lat": 13.76944,
+   "lng": 100.5729,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=113"
+  },
+  {
+   "id": "111",
+   "name": "แยกเทียมร่วมมิตร ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกห้วยขวาง",
+   "name_en": "From Huai Khwang Intersection",
+   "lat": 13.76975,
+   "lng": 100.57295,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=111"
+  },
+  {
+   "id": "112",
+   "name": "แยกเทียมร่วมมิตร(ถนนเทียมร่วมมิตร ข้างป้อมตำรวจ)",
+   "name_th": "รถมุ่งหน้าไปแยกห้วยขวาง",
+   "name_en": "From Thiam Ruam Mit Road",
+   "lat": 13.76947,
+   "lng": 100.5729,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=112"
+  },
+  {
+   "id": "354",
+   "name": "แยกนครไชยศรี",
+   "name_th": "แยกนครชัยศรี",
+   "name_en": "-",
+   "lat": 13.77627,
+   "lng": 100.52818,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=354"
+  },
+  {
+   "id": "1490",
+   "name": "แยกนครไชยศรี",
+   "name_th": "แยกนครไชยศรี",
+   "name_en": "-",
+   "lat": 13.78127,
+   "lng": 100.51917,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1490"
+  },
+  {
+   "id": "1514",
+   "name": "แยกนครไชยศรี",
+   "name_th": "แยกนครไชยศรี",
+   "name_en": "-",
+   "lat": 13.77617,
+   "lng": 100.52838,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1514"
+  },
+  {
+   "id": "1523",
+   "name": "แยกนครไชยศรี",
+   "name_th": "แยกนครไชยศรี",
+   "name_en": "-",
+   "lat": 13.77608,
+   "lng": 100.52841,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1523"
+  },
+  {
+   "id": "1458",
+   "name": "แยกนครไชยศรี",
+   "name_th": "แยกสามเสน",
+   "name_en": "-",
+   "lat": 13.77623,
+   "lng": 100.5285,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1458"
+  },
+  {
+   "id": "1759",
+   "name": "แยกนครไชยศรี",
+   "name_th": "แยกนครไชยศรี",
+   "name_en": "-",
+   "lat": 13.77613,
+   "lng": 100.52845,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1759"
+  },
+  {
+   "id": "1530",
+   "name": "แยกนางเลิ้ง",
+   "name_th": "แยกนางเลิ้ง",
+   "name_en": "-",
+   "lat": 13.76175,
+   "lng": 100.5155,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1530"
+  },
+  {
+   "id": "1467",
+   "name": "แยกนางเลิ้ง",
+   "name_th": "แยกนางเลิ้ง",
+   "name_en": "-",
+   "lat": 13.76151,
+   "lng": 100.51532,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1467"
+  },
+  {
+   "id": "1383",
+   "name": "แยกบางกระบือ",
+   "name_th": "แยกบางกระบือ",
+   "name_en": "-",
+   "lat": 13.78928,
+   "lng": 100.5147,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1383"
+  },
+  {
+   "id": "1384",
+   "name": "แยกบางกระบือ",
+   "name_th": "แยกบางกระบือ",
+   "name_en": "-",
+   "lat": 13.78937,
+   "lng": 100.51462,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1384"
+  },
+  {
+   "id": "1531",
+   "name": "แยกบางกระบือ",
+   "name_th": "แยกบางกระบือ",
+   "name_en": "-",
+   "lat": 13.78946,
+   "lng": 100.51473,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1531"
+  },
+  {
+   "id": "374",
+   "name": "แยกบางขุนพรม",
+   "name_th": "แยกบางขุนพรม",
+   "name_en": "-",
+   "lat": 13.76679,
+   "lng": 100.50099,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=374"
+  },
+  {
+   "id": "1774",
+   "name": "แยกบางนา",
+   "name_th": "รถมุ่งหน้าศรีนครินทร์",
+   "name_en": "-",
+   "lat": 13.67371,
+   "lng": 100.60714,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1774"
+  },
+  {
+   "id": "1085",
+   "name": "แยกบางยี่เรือ",
+   "name_th": "รถมุ่งหน้าไปสะพานกรุงเทพ",
+   "name_en": "Car heading to Bangkok Bridge",
+   "lat": 13.72723,
+   "lng": 100.48713,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1085"
+  },
+  {
+   "id": "32",
+   "name": "แยกบางยี่เรือ ด้านถนนเทอดไท",
+   "name_th": "รถมาจากแยกตลาดพลู",
+   "name_en": "From Thoet Thai Road",
+   "lat": 13.72726,
+   "lng": 100.48711,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=32"
+  },
+  {
+   "id": "576",
+   "name": "แยกบางลำพู",
+   "name_th": "แยกบางลำพู",
+   "name_en": "0",
+   "lat": 13.76216,
+   "lng": 100.4983,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=576"
+  },
+  {
+   "id": "595",
+   "name": "แยกบ้านแขก",
+   "name_th": "แยกบ้านแขก",
+   "name_en": "IsaraPhap Road, From PhoSamTon Intersection",
+   "lat": 13.73075,
+   "lng": 100.49476,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=595"
+  },
+  {
+   "id": "1556",
+   "name": "แยกบ้านแขก",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.73083,
+   "lng": 100.49486,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1556"
+  },
+  {
+   "id": "1094",
+   "name": "แยกบุคคโล",
+   "name_th": "แยกบุคคโล(ถนนมไหสวรรค์ขาเข้า ใกล้เป้าเล้งเภสัช)",
+   "name_en": "-",
+   "lat": 13.70287,
+   "lng": 100.48838,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1094"
+  },
+  {
+   "id": "1101",
+   "name": "แยกบุคคโล",
+   "name_th": "รถมาจากแยกมไหสวรรค์",
+   "name_en": "-",
+   "lat": 13.7032,
+   "lng": 100.48845,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1101"
+  },
+  {
+   "id": "26",
+   "name": "แยกบุคคโล ด้านถนนเจริญนคร",
+   "name_th": "รถมาจากแยกเจริญนคร",
+   "name_en": "From Rat Burana Road",
+   "lat": 13.70289,
+   "lng": 100.48853,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=26"
+  },
+  {
+   "id": "1195",
+   "name": "แยกบุคคโล(ถนนมไหสวรรค์ขาเข้า ข้างป้อมตำรวจ)",
+   "name_th": "รถมาจากถนนเจริญนคร",
+   "name_en": "From Charoen Nakhon Road",
+   "lat": 13.70319,
+   "lng": 100.48865,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1195"
+  },
+  {
+   "id": "1510",
+   "name": "แยกป้อมเผด็จ",
+   "name_th": "แยกป้อมเผด็จ",
+   "name_en": "-",
+   "lat": 13.75243,
+   "lng": 100.49363,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1510"
+  },
+  {
+   "id": "648",
+   "name": "แยกป้อมเผด็จ",
+   "name_th": "แยกป้อมเผด็จ",
+   "name_en": "Pom Pa Dad Junction",
+   "lat": 13.75258,
+   "lng": 100.49343,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=648"
+  },
+  {
+   "id": "1637",
+   "name": "แยกผ่านพิภพ",
+   "name_th": "แยกผ่านพิภพ",
+   "name_en": "-",
+   "lat": 13.75709,
+   "lng": 100.49467,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1637"
+  },
+  {
+   "id": "1768",
+   "name": "แยกผ่านพิภพ",
+   "name_th": "แยกผ่านพิภพ",
+   "name_en": "-",
+   "lat": 13.75739,
+   "lng": 100.49493,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1768"
+  },
+  {
+   "id": "1477",
+   "name": "แยกผ่านพิภพ",
+   "name_th": "แยกผ่านพิภพ",
+   "name_en": "-",
+   "lat": 13.75702,
+   "lng": 100.49529,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1477"
+  },
+  {
+   "id": "1486",
+   "name": "แยกผ่านพิภพ",
+   "name_th": "แยกผ่านพิภพ",
+   "name_en": "-",
+   "lat": 13.75695,
+   "lng": 100.49477,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1486"
+  },
+  {
+   "id": "1690",
+   "name": "แยกพระโขนง",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.71309,
+   "lng": 100.59412,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1690"
+  },
+  {
+   "id": "79",
+   "name": "แยกพระรามที่ 3 - นราธิวาส ด้านถนนพระรามที่ 3",
+   "name_th": "รถมาจากแยกพระรามที่ 3 ถนนวงแหวนอุตสาหกรรม",
+   "name_en": "From Rama 3-Bhumibol Bridge Intersection",
+   "lat": 13.69536,
+   "lng": 100.54677,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=79"
+  },
+  {
+   "id": "80",
+   "name": "แยกพระรามที่ 3-นราธิวาส ด้านถนนพระรามที่ 3",
+   "name_th": "รถมุ่งหน้าไปแยกพระรามที่ 3 ถนนวงแหวนอุตสาหกรรม",
+   "name_en": "Towards Rama 3-Bhumibol Bridge Intersection",
+   "lat": 13.6954,
+   "lng": 100.54691,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=80"
+  },
+  {
+   "id": "81",
+   "name": "แยกพระรามที่ 3-นราธิวาส ถนนพระรามที่ 3",
+   "name_th": "บนสะพานข้ามแยกมุ่งหน้าไปแยกนางลิ้นจี่",
+   "name_en": "Towards Nang Linchi Intersection",
+   "lat": 13.69544,
+   "lng": 100.54688,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=81"
+  },
+  {
+   "id": "320",
+   "name": "แยกพระรูป ร.5",
+   "name_th": "รถมาจากแยกสี่เสาเทเวศน์",
+   "name_en": "From Sisaothewet Intersection",
+   "lat": 13.76824,
+   "lng": 100.51149,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=320"
+  },
+  {
+   "id": "1508",
+   "name": "แยกพระรูป ร.5",
+   "name_th": "แยกลานพระรูป ร.5",
+   "name_en": "-",
+   "lat": 13.76767,
+   "lng": 100.51152,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1508"
+  },
+  {
+   "id": "1629",
+   "name": "แยกพหลโยธิน 2 ด้านถนนพหลโยธิน",
+   "name_th": "รถมาจากถนนวิภาวดีรังสิต",
+   "name_en": "-",
+   "lat": 13.77558,
+   "lng": 100.54325,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1629"
+  },
+  {
+   "id": "1630",
+   "name": "แยกพหลโยธิน 2 ถนนพหลโยธินขาเข้า",
+   "name_th": "รถมาจากแยกสะพานควาย",
+   "name_en": "-",
+   "lat": 13.77566,
+   "lng": 100.54328,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1630"
+  },
+  {
+   "id": "1631",
+   "name": "แยกพหลโยธิน 2 ถนนพหลโยธินขาออก",
+   "name_th": "รถมุ่งหน้าไปแยกสะพานควาย",
+   "name_en": "-",
+   "lat": 13.77562,
+   "lng": 100.54306,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1631"
+  },
+  {
+   "id": "1632",
+   "name": "แยกพหลโยธิน 2 ถนนพหลโยธินขาออก",
+   "name_th": "รถมาจากอนุสาวรีย์ชัยสมรภูมิ",
+   "name_en": "-",
+   "lat": 13.77558,
+   "lng": 100.54305,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1632"
+  },
+  {
+   "id": "1533",
+   "name": "แยกพาณิชยการ",
+   "name_th": "แยกพาณิชยการ",
+   "name_en": "-",
+   "lat": 13.76346,
+   "lng": 100.51323,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1533"
+  },
+  {
+   "id": "1368",
+   "name": "แยกพาณิชยการ",
+   "name_th": "แยกพาณิชยการ ด้านถนนพระรามที่ 5",
+   "name_en": "0",
+   "lat": 13.76317,
+   "lng": 100.51347,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1368"
+  },
+  {
+   "id": "546",
+   "name": "แยกพาณิชยการ",
+   "name_th": "แยกพาณิชยการ ด้านถนนพิษณุโลก",
+   "name_en": "0",
+   "lat": 13.76319,
+   "lng": 100.51342,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=546"
+  },
+  {
+   "id": "405",
+   "name": "แยกพาหุรัด",
+   "name_th": "แยกพาหุรัด",
+   "name_en": "Pahurat Intersection",
+   "lat": 13.74503,
+   "lng": 100.4993,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=405"
+  },
+  {
+   "id": "1460",
+   "name": "แยกพิชัย",
+   "name_th": "แยกพิชัย",
+   "name_en": "-",
+   "lat": 13.78189,
+   "lng": 100.51803,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1460"
+  },
+  {
+   "id": "1461",
+   "name": "แยกพิชัย",
+   "name_th": "แยกพิชัย",
+   "name_en": "-",
+   "lat": 13.78198,
+   "lng": 100.51797,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1461"
+  },
+  {
+   "id": "1664",
+   "name": "แยกมไหสวรรย์",
+   "name_th": "TF-TR-01แยกมไหสวรรย์",
+   "name_en": "-",
+   "lat": 13.70462,
+   "lng": 100.48558,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1664"
+  },
+  {
+   "id": "1453",
+   "name": "แยกมัฆวาน",
+   "name_th": "แยกมัฆวาน",
+   "name_en": "-",
+   "lat": 13.76038,
+   "lng": 100.50082,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1453"
+  },
+  {
+   "id": "1403",
+   "name": "แยกมัฆวาน",
+   "name_th": "แยกมัฆวาน",
+   "name_en": "-",
+   "lat": 13.76349,
+   "lng": 100.50933,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1403"
+  },
+  {
+   "id": "1589",
+   "name": "แยกแม้นศรี",
+   "name_th": "แยกแม้นศรี",
+   "name_en": "",
+   "lat": 13.75196,
+   "lng": 100.50886,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1589"
+  },
+  {
+   "id": "1590",
+   "name": "แยกแม้นศรี",
+   "name_th": "แยกแม้นศรี",
+   "name_en": "-",
+   "lat": 13.75189,
+   "lng": 100.5088,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1590"
+  },
+  {
+   "id": "75",
+   "name": "แยกรัชดา-นราธิวาส ด้านถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกด่วนสาธุประดิษฐ์",
+   "name_en": "From Duan Sathu Pradit Intersection",
+   "lat": 13.70057,
+   "lng": 100.5413,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=75"
+  },
+  {
+   "id": "73",
+   "name": "แยกรัชดา-นราธิวาส ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกด่วนนางลิ้นจี่",
+   "name_en": "From Ratchada-Nang Linchi Intersection",
+   "lat": 13.70064,
+   "lng": 100.54185,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=73"
+  },
+  {
+   "id": "1051",
+   "name": "แยกรัชดา-นราธิวาส(เกาะกลางถนนนราธิวาส )",
+   "name_th": "รถมาจากแยกจันทน์-นราธิวาส",
+   "name_en": "-",
+   "lat": 13.70097,
+   "lng": 100.54146,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1051"
+  },
+  {
+   "id": "76",
+   "name": "แยกรัชดา-นราธิวาส(ถนนนราธิวาส ใต้สะพานข้ามทางแยก)",
+   "name_th": "รถมาจากแยกพระรามที่ 3-นราธิวาส",
+   "name_en": "From Rama 3-Naradhiwas Intersection",
+   "lat": 13.70017,
+   "lng": 100.54164,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=76"
+  },
+  {
+   "id": "1691",
+   "name": "แยกรัชดา-พระราม4",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.7202,
+   "lng": 100.55908,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1691"
+  },
+  {
+   "id": "37",
+   "name": "แยกรัชดา-ราชพฤกษ์ ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกตากสิน",
+   "name_en": "From Taksin Intersection",
+   "lat": 13.71554,
+   "lng": 100.47761,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=37"
+  },
+  {
+   "id": "1103",
+   "name": "แยกรัชดา-ราชพฤกษ์ ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกท่าพระ",
+   "name_en": "The car comes from Tha Phra intersection.",
+   "lat": 13.71564,
+   "lng": 100.47907,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1103"
+  },
+  {
+   "id": "1102",
+   "name": "แยกรัชดา-ราชพฤกษ์ ด้านถนนราชพฤกษ์",
+   "name_th": "รถมาจากแยกวุฒากาศ",
+   "name_en": "-",
+   "lat": 13.71605,
+   "lng": 100.47879,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1102"
+  },
+  {
+   "id": "36",
+   "name": "แยกรัชดา-ราชพฤกษ์ ด้านถนนราชพฤกษ์",
+   "name_th": "รถมาจากแยกตากสิน",
+   "name_en": "From Mahai Sawan Intersection",
+   "lat": 13.71497,
+   "lng": 100.47785,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=36"
+  },
+  {
+   "id": "123",
+   "name": "แยกรัชดา-ลาดพร้าว ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-สุทธิสาร",
+   "name_en": "From Ratchayothin Intersection",
+   "lat": 13.80536,
+   "lng": 100.575,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=123"
+  },
+  {
+   "id": "124",
+   "name": "แยกรัชดา-ลาดพร้าว ด้านถนนลาดพร้าว",
+   "name_th": "รถมาจากแยกโชคชัย 4",
+   "name_en": "From Lat Phrao",
+   "lat": 13.80558,
+   "lng": 100.57475,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=124"
+  },
+  {
+   "id": "125",
+   "name": "แยกรัชดา-ลาดพร้าว ด้านถนนลาดพร้าว",
+   "name_th": "รถมาจากแยกรัชโยธินมุ่งหน้าแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Sutthisan Intersection",
+   "lat": 13.80547,
+   "lng": 100.5751,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=125"
+  },
+  {
+   "id": "119",
+   "name": "แยกรัชดา-สุทธิสาร ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกห้วยขวาง",
+   "name_en": "From Huai Khwang Intersection",
+   "lat": 13.78971,
+   "lng": 100.5741,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=119"
+  },
+  {
+   "id": "121",
+   "name": "แยกรัชดา-สุทธิสาร ด้านถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Ratchada-Lat Phrao Intersection",
+   "lat": 13.78978,
+   "lng": 100.57434,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=121"
+  },
+  {
+   "id": "118",
+   "name": "แยกรัชดา-สุทธิสาร ด้านถนนสุทธิสารวินิจฉัย",
+   "name_th": "รถมาจากแยกสุทธิสาร",
+   "name_en": "From Sutthisan-Vibhavadi Rangsit Intersection",
+   "lat": 13.78979,
+   "lng": 100.57395,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=118"
+  },
+  {
+   "id": "120",
+   "name": "แยกรัชดา-สุทธิสาร ด้านถนนสุทธิสารวินิจฉัย",
+   "name_th": "รถมาจากซอยลาดพร้าว 64",
+   "name_en": "From Lat Phrao 64",
+   "lat": 13.78968,
+   "lng": 100.57441,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=120"
+  },
+  {
+   "id": "1681",
+   "name": "แยกรัชพระราม",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72023,
+   "lng": 100.55865,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1681"
+  },
+  {
+   "id": "1796",
+   "name": "แยกรัชพระราม",
+   "name_th": "แยกรัชพระราม",
+   "name_en": "-",
+   "lat": 13.72012,
+   "lng": 100.55899,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1796"
+  },
+  {
+   "id": "1797",
+   "name": "แยกรัชพระราม",
+   "name_th": "แยกรัชพระราม",
+   "name_en": "-",
+   "lat": 13.72035,
+   "lng": 100.55893,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1797"
+  },
+  {
+   "id": "1043",
+   "name": "แยกรัชโยธิน",
+   "name_th": "รถมาจากแยกรัชวิภา",
+   "name_en": "-",
+   "lat": 13.82693,
+   "lng": 100.568,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1043"
+  },
+  {
+   "id": "1058",
+   "name": "แยกรัชโยธิน (เกาะกลางถนนรัชดาภิเษก หน้า สน.พหลโยธิน)",
+   "name_th": "รถจากแยกรัชโยธินมุ่งหน้าไปแยกรัชดาลาดพร้าว",
+   "name_en": "from Ratchayothin intersection",
+   "lat": 13.8271,
+   "lng": 100.56825,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1058"
+  },
+  {
+   "id": "1622",
+   "name": "แยกรัชโยธิน (เกาะกลางถนนรัชดาภิเษก)",
+   "name_th": "แยกรัชโยธิน",
+   "name_en": "-",
+   "lat": 13.82699,
+   "lng": 100.56803,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1622"
+  },
+  {
+   "id": "1447",
+   "name": "แยกรัชโยธิน (ถนนพหลโยธินขาออก ข้างป้อมตำรวจ)",
+   "name_th": "แยกรัชโยธิน (ถนนพหลโยธินขาออก ข้างป้อมตำรวจ)",
+   "name_en": "-",
+   "lat": 13.82658,
+   "lng": 100.56802,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1447"
+  },
+  {
+   "id": "1626",
+   "name": "แยกรัชโยธิน(ถนนพหลโยธินขาออก ข้างป้อมตำรวจ)",
+   "name_th": "แยกรัชโยธิน(ถนนพหลโยธินขาออก ข้างป้อมตำรวจ)",
+   "name_en": "-",
+   "lat": 13.82687,
+   "lng": 100.56816,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1626"
+  },
+  {
+   "id": "1534",
+   "name": "แยกราชวัตร",
+   "name_th": "แยกราชวัตร",
+   "name_en": "-",
+   "lat": 13.77947,
+   "lng": 100.52232,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1534"
+  },
+  {
+   "id": "1535",
+   "name": "แยกราชวัตร",
+   "name_th": "แยกราชวัตร",
+   "name_en": "-",
+   "lat": 13.77959,
+   "lng": 100.52244,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1535"
+  },
+  {
+   "id": "332",
+   "name": "แยกราชวัตร",
+   "name_th": "รถมุ่งหน้าแยกพิชัย",
+   "name_en": "Towards Phi Chai Intersection",
+   "lat": 13.77951,
+   "lng": 100.52231,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=332"
+  },
+  {
+   "id": "562",
+   "name": "แยกราชวิถี",
+   "name_th": "รถมุ่งหน้าแยกอู่ทองใน",
+   "name_en": "Towards Sukhothai Intersection",
+   "lat": 13.77357,
+   "lng": 100.51907,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=562"
+  },
+  {
+   "id": "1536",
+   "name": "แยกราชวิถี",
+   "name_th": "แยกราชวิถี",
+   "name_en": "-",
+   "lat": 13.77352,
+   "lng": 100.51899,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1536"
+  },
+  {
+   "id": "1537",
+   "name": "แยกวชิระ",
+   "name_th": "แยกวชิระ",
+   "name_en": "-",
+   "lat": 13.78122,
+   "lng": 100.50976,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1537"
+  },
+  {
+   "id": "1539",
+   "name": "แยกวชิระ",
+   "name_th": "แยกวชิระ",
+   "name_en": "-",
+   "lat": 13.78139,
+   "lng": 100.50987,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1539"
+  },
+  {
+   "id": "556",
+   "name": "แยกวชิระ",
+   "name_th": "แยกวชิระ",
+   "name_en": "From Krung Thon Bridge (See Yellow)",
+   "lat": 13.78123,
+   "lng": 100.50988,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=556"
+  },
+  {
+   "id": "1591",
+   "name": "แยกวรจักร",
+   "name_th": "แยกวรจักร",
+   "name_en": "-",
+   "lat": 13.74814,
+   "lng": 100.50699,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1591"
+  },
+  {
+   "id": "1592",
+   "name": "แยกวรจักร",
+   "name_th": "แยกวรจักร",
+   "name_en": "-",
+   "lat": 13.74814,
+   "lng": 100.50699,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1592"
+  },
+  {
+   "id": "1509",
+   "name": "แยกวังแดง",
+   "name_th": "แยกวังแดง",
+   "name_en": "-",
+   "lat": 13.76823,
+   "lng": 100.50775,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1509"
+  },
+  {
+   "id": "1541",
+   "name": "แยกวัดเบญจฯ",
+   "name_th": "แยกวัดเบญจฯ",
+   "name_en": "-",
+   "lat": 13.76642,
+   "lng": 100.51506,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1541"
+  },
+  {
+   "id": "1542",
+   "name": "แยกวัดเบญจฯ",
+   "name_th": "แยกวัดเบญจฯ",
+   "name_en": "-",
+   "lat": 13.76637,
+   "lng": 100.51552,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1542"
+  },
+  {
+   "id": "1543",
+   "name": "แยกวัดเบญจฯ",
+   "name_th": "แยกวัดเบญจฯ",
+   "name_en": "-",
+   "lat": 13.7665,
+   "lng": 100.51524,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1543"
+  },
+  {
+   "id": "1472",
+   "name": "แยกวัดเบญจฯ",
+   "name_th": "แยกวัดเบญจฯ",
+   "name_en": "-",
+   "lat": 13.76656,
+   "lng": 100.51515,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1472"
+  },
+  {
+   "id": "1474",
+   "name": "แยกวัดเบญจฯ",
+   "name_th": "แยกวัดเบญจฯ",
+   "name_en": "-",
+   "lat": 13.76681,
+   "lng": 100.51542,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1474"
+  },
+  {
+   "id": "1684",
+   "name": "แยกวิทยุ",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72644,
+   "lng": 100.54472,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1684"
+  },
+  {
+   "id": "389",
+   "name": "แยกวิสุทธิกษัตริย์",
+   "name_th": "แยกวิสุทธิกษัตริย์",
+   "name_en": "Wisutkasat Intersection",
+   "lat": 13.76238,
+   "lng": 100.50424,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=389"
+  },
+  {
+   "id": "1081",
+   "name": "แยกศรีย่าน",
+   "name_th": "แยกศรีย่าน",
+   "name_en": "-",
+   "lat": 13.78538,
+   "lng": 100.51188,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1081"
+  },
+  {
+   "id": "1123",
+   "name": "แยกศรีย่าน",
+   "name_th": "แยกศรีย่าน",
+   "name_en": "-",
+   "lat": 13.78529,
+   "lng": 100.51169,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1123"
+  },
+  {
+   "id": "1554",
+   "name": "แยกเศรษฐศิริ",
+   "name_th": "แยกเศรษฐศิริ",
+   "name_en": "-",
+   "lat": 13.78156,
+   "lng": 100.53047,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1554"
+  },
+  {
+   "id": "1475",
+   "name": "แยกเศรษฐศิริ",
+   "name_th": "แยกเศรษฐศิริ",
+   "name_en": "-",
+   "lat": 13.7815,
+   "lng": 100.53052,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1475"
+  },
+  {
+   "id": "1544",
+   "name": "แยกสวนมิสกวัน",
+   "name_th": "แยกสวนมิสกวัน",
+   "name_en": "-",
+   "lat": 13.76585,
+   "lng": 100.51049,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1544"
+  },
+  {
+   "id": "1545",
+   "name": "แยกสวนมิสกวัน",
+   "name_th": "แยกสวนมิสกวัน",
+   "name_en": "-",
+   "lat": 13.76588,
+   "lng": 100.51043,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1545"
+  },
+  {
+   "id": "1546",
+   "name": "แยกสวนมิสกวัน",
+   "name_th": "แยกสวนมิสกวัน",
+   "name_en": "-",
+   "lat": 13.76588,
+   "lng": 100.51043,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1546"
+  },
+  {
+   "id": "1547",
+   "name": "แยกสวนมิสกวัน",
+   "name_th": "แยกสวนมิสกวัน",
+   "name_en": "-",
+   "lat": 13.76593,
+   "lng": 100.51041,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1547"
+  },
+  {
+   "id": "1548",
+   "name": "แยกสวรรคโลก",
+   "name_th": "แยกสวรรคโลก",
+   "name_en": "-",
+   "lat": 13.77367,
+   "lng": 100.52712,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1548"
+  },
+  {
+   "id": "1549",
+   "name": "แยกสวรรคโลก",
+   "name_th": "แยกสวรรคโลก",
+   "name_en": "-",
+   "lat": 13.7737,
+   "lng": 100.52715,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1549"
+  },
+  {
+   "id": "1555",
+   "name": "แยกสวรรคโลก",
+   "name_th": "แยกสวรรคโลก",
+   "name_en": "-",
+   "lat": 13.77361,
+   "lng": 100.52724,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1555"
+  },
+  {
+   "id": "1360",
+   "name": "แยกสะพานควาย",
+   "name_th": "รถมาจากแยกสุทธิสาร ถนนพหลโยธินขาเข้า",
+   "name_en": "From Sutthisan Intersection",
+   "lat": 13.78967,
+   "lng": 100.54841,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1360"
+  },
+  {
+   "id": "1082",
+   "name": "แยกสะพานควาย ด้านถนนประดิพัทธ์",
+   "name_th": "รถมาจากแยกประดิพัทธ์",
+   "name_en": "From Kamphaeng Phet Intersection",
+   "lat": 13.78982,
+   "lng": 100.54807,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1082"
+  },
+  {
+   "id": "1083",
+   "name": "แยกสะพานควาย ด้านถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกกำแพงเพชร",
+   "name_en": "From Pradiphat Intersection",
+   "lat": 13.78985,
+   "lng": 100.54838,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1083"
+  },
+  {
+   "id": "1359",
+   "name": "แยกสะพานควาย ด้านถนนพหลโยธิน",
+   "name_th": "รถมาจากอนุสาวรีย์ชัยสมรภูมิ",
+   "name_en": "From Victory Monument",
+   "lat": 13.78959,
+   "lng": 100.54816,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1359"
+  },
+  {
+   "id": "1668",
+   "name": "แยกสะพานช้างโรงสี",
+   "name_th": "แยกสะพานช้างโรงสี",
+   "name_en": "-",
+   "lat": 13.75257,
+   "lng": 100.49542,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1668"
+  },
+  {
+   "id": "926",
+   "name": "แยกสะพานแดง",
+   "name_th": "แยกสะพานแดง",
+   "name_en": "connect BMAcctv",
+   "lat": 13.79347,
+   "lng": 100.53007,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=926"
+  },
+  {
+   "id": "1028",
+   "name": "แยกสะพานแดง",
+   "name_th": "แยกสะพานแดง",
+   "name_en": "Red Bridge Intersection",
+   "lat": 13.79343,
+   "lng": 100.52996,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1028"
+  },
+  {
+   "id": "20",
+   "name": "แยกสะพานแดง ด้านถนนทหาร",
+   "name_th": "รถมาจากแยกเกียกกาย",
+   "name_en": "From Keakkai Intersection",
+   "lat": 13.79343,
+   "lng": 100.52992,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=20"
+  },
+  {
+   "id": "18",
+   "name": "แยกสะพานแดง ด้านถนนทหาร",
+   "name_th": "รถมุ่งหน้าไปแยกเกียกกาย",
+   "name_en": "Towards Keakkai Intersection",
+   "lat": 13.79339,
+   "lng": 100.52995,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=18"
+  },
+  {
+   "id": "19",
+   "name": "แยกสะพานแดง ด้านถนนพระรามที่ 5",
+   "name_th": "รถมาจากถนนพระรามที่ 5",
+   "name_en": "Towards Tao Pun Intersection",
+   "lat": 13.79339,
+   "lng": 100.52991,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=19"
+  },
+  {
+   "id": "1120",
+   "name": "แยกสะพานเหลือง ด้านถนนพระรามที่ 4",
+   "name_th": "รถมาจากแยกสามย่าน",
+   "name_en": "-",
+   "lat": 13.73587,
+   "lng": 100.52158,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1120"
+  },
+  {
+   "id": "1121",
+   "name": "แยกสะพานเหลือง ด้านถนนพระรามที่ 4",
+   "name_th": "รถมุ่งหน้าไปแยกหัวลำโพง",
+   "name_en": "-",
+   "lat": 13.73579,
+   "lng": 100.52131,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1121"
+  },
+  {
+   "id": "1131",
+   "name": "แยกสะพานเหลือง ด้านถนนพระรามที่ 4",
+   "name_th": "รถมาจากแยกมหานคร",
+   "name_en": "-",
+   "lat": 13.73572,
+   "lng": 100.52136,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1131"
+  },
+  {
+   "id": "1748",
+   "name": "แยกสาทร-นราธิวาส(ใกล้อาคารบางกอกซิตี้ ทาวเวอร์)",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72187,
+   "lng": 100.53065,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1748"
+  },
+  {
+   "id": "1749",
+   "name": "แยกสาทร-นราธิวาส(ใกล้อาคารเอ็มไพร์ ทาวเวอร์)",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72166,
+   "lng": 100.52998,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1749"
+  },
+  {
+   "id": "1686",
+   "name": "แยกสาทร-สุรศักดิ์",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.71849,
+   "lng": 100.51966,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1686"
+  },
+  {
+   "id": "1387",
+   "name": "แยกสามเสน",
+   "name_th": "แยกสามเสน",
+   "name_en": "-",
+   "lat": 13.77448,
+   "lng": 100.50652,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1387"
+  },
+  {
+   "id": "1498",
+   "name": "แยกสี่กั๊กเสาชิงช้า",
+   "name_th": "แยกสี่กั๊กเสาชิงช้า",
+   "name_en": "-",
+   "lat": 13.75147,
+   "lng": 100.49819,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1498"
+  },
+  {
+   "id": "584",
+   "name": "แยกสี่กั๊กเสาชิงช้า",
+   "name_th": "แยกสี่กั๊กเสาชิงช้า",
+   "name_en": "",
+   "lat": 13.7515,
+   "lng": 100.49819,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=584"
+  },
+  {
+   "id": "602",
+   "name": "แยกสีลม-นราธิวาส",
+   "name_th": "แยกสีลม-นราธิวาส",
+   "name_en": "Towards Sathon-Naradhiwas Intersection",
+   "lat": 13.7264,
+   "lng": 100.52825,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=602"
+  },
+  {
+   "id": "1525",
+   "name": "แยกสี่เสาเทเวศน์",
+   "name_th": "แยกสี่เสาเทเวศน์",
+   "name_en": "-",
+   "lat": 13.76961,
+   "lng": 100.50366,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1525"
+  },
+  {
+   "id": "1550",
+   "name": "แยกสี่เสาเทเวศน์",
+   "name_th": "แยกสี่เสาเทเวศน์",
+   "name_en": "-",
+   "lat": 13.77105,
+   "lng": 100.50506,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1550"
+  },
+  {
+   "id": "1092",
+   "name": "แยกสุทธิสาร (เกาะกลางถนนวิภาวดีรังสิต ข้างป้อมตำรวจ)",
+   "name_th": "แยกสุทธิสาร รถมาจากดินแดง",
+   "name_en": "Sutthisan Intersection",
+   "lat": 13.78926,
+   "lng": 100.56129,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1092"
+  },
+  {
+   "id": "7",
+   "name": "แยกสุทธิสาร ด้านถนนสุทธิสารวินิจฉัย",
+   "name_th": "รถมาจากแยกสะพานควาย",
+   "name_en": "From Saphan Khwai Intersection",
+   "lat": 13.78927,
+   "lng": 100.56119,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=7"
+  },
+  {
+   "id": "1122",
+   "name": "แยกสุทธิสาร ถนนวิภาวดีรังสิต ขาเข้า",
+   "name_th": "รถมาจากดอนเมือง",
+   "name_en": "-",
+   "lat": 13.78927,
+   "lng": 100.56183,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1122"
+  },
+  {
+   "id": "1112",
+   "name": "แยกสุทธิสาร(ถนนวิภาวดีรังสิต ขาเข้า)",
+   "name_th": "รถมาจากแยกรัชดา - สุทธิสาร",
+   "name_en": "from Ratchada-Sutthisan intersection.",
+   "lat": 13.78924,
+   "lng": 100.56173,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1112"
+  },
+  {
+   "id": "599",
+   "name": "แยกสุรศักดิ์",
+   "name_th": "แยกสุรศักดิ์",
+   "name_en": "Towards Sathon-Surasak Intersection",
+   "lat": 13.72309,
+   "lng": 100.51926,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=599"
+  },
+  {
+   "id": "395",
+   "name": "แยกเสาชิงช้า",
+   "name_th": "แยกเสาชิงช้า",
+   "name_en": "Sao Chingcha Intersection",
+   "lat": 13.7517,
+   "lng": 100.50174,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=395"
+  },
+  {
+   "id": "1397",
+   "name": "แยกเสาชิงช้า",
+   "name_th": "แยกเสาชิงช้า",
+   "name_en": "-",
+   "lat": 13.75179,
+   "lng": 100.50045,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1397"
+  },
+  {
+   "id": "1398",
+   "name": "แยกเสาชิงช้า",
+   "name_th": "แยกเสาชิงช้า",
+   "name_en": "-",
+   "lat": 13.75171,
+   "lng": 100.50191,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1398"
+  },
+  {
+   "id": "1470",
+   "name": "แยกเสาวณี",
+   "name_th": "แยกเสาวณี",
+   "name_en": "-",
+   "lat": 13.76294,
+   "lng": 100.52297,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1470"
+  },
+  {
+   "id": "116",
+   "name": "แยกห้วยขวาง",
+   "name_th": "รถมาจากแยกเทียมร่วมมิตร",
+   "name_en": "From Thiam Ruam Mit Intersection",
+   "lat": 13.7783,
+   "lng": 100.57353,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=116"
+  },
+  {
+   "id": "117",
+   "name": "แยกห้วยขวาง",
+   "name_th": "รถมาจากถนนประชาสงเคราะห์",
+   "name_en": "From Pracha Songkhro Road",
+   "lat": 13.77839,
+   "lng": 100.57336,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=117"
+  },
+  {
+   "id": "304",
+   "name": "แยกหอประชุมทบ.",
+   "name_th": "รถมุ่งหน้าแยกสี่เสาเทเวศน์",
+   "name_en": "Towards Sisaothewet Intersection",
+   "lat": 13.76962,
+   "lng": 100.50819,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=304"
+  },
+  {
+   "id": "1587",
+   "name": "แยกอนามัย",
+   "name_th": "แยกอนามัย",
+   "name_en": "-",
+   "lat": 13.74991,
+   "lng": 100.51453,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1587"
+  },
+  {
+   "id": "1593",
+   "name": "แยกอนามัย",
+   "name_th": "แยกอนามัย",
+   "name_en": "-",
+   "lat": 13.7498,
+   "lng": 100.51451,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1593"
+  },
+  {
+   "id": "1594",
+   "name": "แยกอนามัย",
+   "name_th": "แยกอนามัย",
+   "name_en": "-",
+   "lat": 13.74988,
+   "lng": 100.51448,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1594"
+  },
+  {
+   "id": "1736",
+   "name": "แยกอรุณอมรินทร์",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.76883,
+   "lng": 100.48581,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1736"
+  },
+  {
+   "id": "1737",
+   "name": "แยกอรุณอมรินทร์",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.7684,
+   "lng": 100.48571,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1737"
+  },
+  {
+   "id": "1226",
+   "name": "แยกอุภัย",
+   "name_th": "แยกอุภัย",
+   "name_en": "-",
+   "lat": 13.77044,
+   "lng": 100.52589,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1226"
+  },
+  {
+   "id": "1228",
+   "name": "แยกอุภัย",
+   "name_th": "แยกอุภัย",
+   "name_en": "-",
+   "lat": 13.77025,
+   "lng": 100.52632,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1228"
+  },
+  {
+   "id": "1230",
+   "name": "แยกอุภัย",
+   "name_th": "แยกอุภัย",
+   "name_en": "-",
+   "lat": 13.77044,
+   "lng": 100.52612,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1230"
+  },
+  {
+   "id": "1231",
+   "name": "แยกอุภัย",
+   "name_th": "แยกอุภัย",
+   "name_en": "-",
+   "lat": 13.77062,
+   "lng": 100.526,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1231"
+  },
+  {
+   "id": "1232",
+   "name": "แยกอุภัย",
+   "name_th": "แยกอุภัย",
+   "name_en": "-",
+   "lat": 13.77022,
+   "lng": 100.52634,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1232"
+  },
+  {
+   "id": "47",
+   "name": "แยกอุรุพงษ์ ด้านถนนเพรชบุรี",
+   "name_th": "รถมุ่งหน้าไปแยกยมราช",
+   "name_en": "From Si Ayutthaya Intersection",
+   "lat": 13.7564,
+   "lng": 100.52383,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=47"
+  },
+  {
+   "id": "1194",
+   "name": "แยกอุรุพงษ์ ถนนเพชรบุรี ขาเข้า",
+   "name_th": "แยกอุรุพงษ์(ถนนเพชรบุรี ขาเข้า ใกล้ซอยพระรามที่ 6 ซอย 18)",
+   "name_en": "-",
+   "lat": 13.75631,
+   "lng": 100.52311,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1194"
+  },
+  {
+   "id": "1526",
+   "name": "แยกอู่ทองนอก",
+   "name_th": "แยกอู่ทองนอก",
+   "name_en": "-",
+   "lat": 13.77211,
+   "lng": 100.5093,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1526"
+  },
+  {
+   "id": "301",
+   "name": "แยกอู่ทองนอก",
+   "name_th": "รถมุ่งหน้าแยกการเรือน",
+   "name_en": "Towards Kanruean Intersection",
+   "lat": 13.77215,
+   "lng": 100.50944,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=301"
+  },
+  {
+   "id": "318",
+   "name": "แยกอู่ทองใน",
+   "name_th": "แยกอู่ทองใน",
+   "name_en": "Towards Kanruen Intersection",
+   "lat": 13.77549,
+   "lng": 100.5148,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=318"
+  },
+  {
+   "id": "1527",
+   "name": "แยกอู่ทองใน",
+   "name_th": "แยกอู่ทองใน",
+   "name_en": "-",
+   "lat": 13.77547,
+   "lng": 100.51483,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1527"
+  },
+  {
+   "id": "1528",
+   "name": "แยกอู่ทองใน",
+   "name_th": "แยกอู่ทองใน",
+   "name_en": "-",
+   "lat": 13.7755,
+   "lng": 100.51493,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1528"
+  },
+  {
+   "id": "1529",
+   "name": "แยกอู่ทองใน",
+   "name_th": "แยกอู่ทองใน",
+   "name_en": "-",
+   "lat": 13.77541,
+   "lng": 100.51491,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1529"
+  },
+  {
+   "id": "1730",
+   "name": "รัชดา-พระรามที่ 6",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.72,
+   "lng": 100.55902,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1730"
+  },
+  {
+   "id": "1220",
+   "name": "วิชูทิศ",
+   "name_th": "วิชูทิศ",
+   "name_en": "-",
+   "lat": 13.76733,
+   "lng": 100.55764,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1220"
+  },
+  {
+   "id": "1219",
+   "name": "วิชูทิส",
+   "name_th": "วิชูทิส",
+   "name_en": "-",
+   "lat": 13.76733,
+   "lng": 100.55766,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1219"
+  },
+  {
+   "id": "1037",
+   "name": "สถานีรถไฟฟ้าช่องนนทรี ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกสีลม-นราธิวาส มุ่งหน้าไปแยกสาทร-นราธิวาส",
+   "name_en": "From Silom-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection",
+   "lat": 13.72356,
+   "lng": 100.52966,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1037"
+  },
+  {
+   "id": "1038",
+   "name": "สถานีรถไฟฟ้าช่องนนทรี ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไปแยกสีลม-นราธิวาส",
+   "name_en": "From Silom-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection",
+   "lat": 13.72373,
+   "lng": 100.52937,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1038"
+  },
+  {
+   "id": "147",
+   "name": "สะพานลอยใกล้ มหาวิทยาลัยหอการค้าไทย ปากซอยวิภาวดีรังสิต 2 ถนนวิภาวดีรังสิต",
+   "name_th": "รถมาจากแยกใต้ด่วนดินแดง มุ่งหน้าไปแยกสุทธิสาร",
+   "name_en": "From Sutthisan Intersection towards Intersection under Din Daeng Expy",
+   "lat": 13.77947,
+   "lng": 100.55642,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=147"
+  },
+  {
+   "id": "239",
+   "name": "สะพานลอยใกล้ รร.เตรียมอุดมศึกษา ถนนพญาไท",
+   "name_th": "รถมาจากแยกปทุมวัน มุ่งหน้าไปแยกสามย่าน",
+   "name_en": "From Pathum Wan Intersection towards Samyan Intersection",
+   "lat": 13.73985,
+   "lng": 100.52987,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=239"
+  },
+  {
+   "id": "240",
+   "name": "สะพานลอยใกล้ รร.เตรียมอุดมศึกษา ถนนพญาไท",
+   "name_th": "รถมาจากแยกสามย่าน มุ่งหน้าไปแยกปทุมวัน",
+   "name_en": "From Samyan Intersection towards Pathum Wan Intersection",
+   "lat": 13.73986,
+   "lng": 100.52975,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=240"
+  },
+  {
+   "id": "148",
+   "name": "สะพานลอยใกล้ โรงผลิตน้ำสามเสน ถนนพระรามที่ 6",
+   "name_th": "รถมาจากแยกตึกชัย มุ่งหน้าไปแยกโรงกรองน้ำ",
+   "name_en": "From Tuek Chai Intersection towards Rong Krong Nam Intersection",
+   "lat": 13.77367,
+   "lng": 100.53052,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=148"
+  },
+  {
+   "id": "149",
+   "name": "สะพานลอยใกล้ โรงผลิตน้ำสามเสน ถนนพระรามที่ 6",
+   "name_th": "รถมาจากแยกโรงกรองน้ำ มุ่งหน้าไปแยกตึกชัย",
+   "name_en": "From Rong Krong Nam Intersection towards Tuek Chai Intersection",
+   "lat": 13.77368,
+   "lng": 100.53056,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=149"
+  },
+  {
+   "id": "150",
+   "name": "สะพานลอยใกล้ โรงเรียนสามเสนวิทยาลัย ถนนพระรามที่ 6",
+   "name_th": "รถมาจากแยกอารีย์สัมพันธ์ มุ่งหน้าไปแยกประดิพัทธ์",
+   "name_en": "From Ari Samphan Intersection towards Pradiphat Intersection",
+   "lat": 13.78381,
+   "lng": 100.5346,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=150"
+  },
+  {
+   "id": "151",
+   "name": "สะพานลอยใกล้ โรงเรียนสามเสนวิทยาลัย ถนนพระรามที่ 6",
+   "name_th": "รถมาจากแยกประดิพัทธ์ มุ่งหน้าไปแยกอารีย์สัมพันธ์",
+   "name_en": "From Pradiphat Intersection towards Ari Samphan Intersection",
+   "lat": 13.7838,
+   "lng": 100.53462,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=151"
+  },
+  {
+   "id": "1065",
+   "name": "สะพานลอยใกล้ซอยจรัญสนิทวงศ์ 75 ถนนจรัญ",
+   "name_th": "รถมาจากสะพานพระราม 7 มุ่งหน้าไปแยกบางพลัด",
+   "name_en": "From Rama 7 Bridge towards Bang Phlat Intersection",
+   "lat": 13.78833,
+   "lng": 100.50071,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1065"
+  },
+  {
+   "id": "1066",
+   "name": "สะพานลอยใกล้ซอยจรัญสนิทวงศ์ 75 ถนนจรัญสนิทวงศ์",
+   "name_th": "รถมาจากแยกบางพลัด มุ่งหน้าไปสะพานพระราม 7",
+   "name_en": "From Bang Phlat Intersection towards Rama 7 Bridge",
+   "lat": 13.78844,
+   "lng": 100.50054,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1066"
+  },
+  {
+   "id": "1068",
+   "name": "สะพานลอยใกล้ซอยจรัญสนิทวงศ์ 94 ถนนจรัญ",
+   "name_th": "รถมาจากสะพานพระราม 7 มุ่งหน้าไปแยกบางพลัด",
+   "name_en": "From Rama 7 Bridge towards Bang Phlat Intersection",
+   "lat": 13.80337,
+   "lng": 100.51199,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1068"
+  },
+  {
+   "id": "1067",
+   "name": "สะพานลอยใกล้ซอยจรัญสนิทวงศ์ 94 ถนนจรัญสนิทวงศ์",
+   "name_th": "รถมาจากแยกบางพลัด มุ่งหน้าไปสะพานพระราม 7",
+   "name_en": "From Bang Phlat Intersection towards Rama 7 Bridge",
+   "lat": 13.80336,
+   "lng": 100.51185,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1067"
+  },
+  {
+   "id": "1064",
+   "name": "สะพานลอยใกล้ซอยเจริญนคร 46 ถนนเจริญนคร",
+   "name_th": "แยกบุคคโล มุ่งหน้าไปแยกกรุงธนบุรี",
+   "name_en": "-",
+   "lat": 13.70976,
+   "lng": 100.49656,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1064"
+  },
+  {
+   "id": "156",
+   "name": "สะพานลอยใกล้ซอยเจริญนคร 46 ถนนเจริญนคร",
+   "name_th": "จากแยกกรุงธนบุรีมุ่งหน้าไปแยกบุคคโล",
+   "name_en": "From Buk Ka Lo Intersection towards Charoen Nakhon Charoen Na Khon Tai Intersection",
+   "lat": 13.70976,
+   "lng": 100.49642,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=156"
+  },
+  {
+   "id": "1076",
+   "name": "สะพานลอยใกล้ซอยเทอดไท 21 ถนนราชพฤกษ์",
+   "name_th": "รถมาจากแยกตากสิน มุ่งหน้าไปแยกรัชดา-ราชพฤกษ์",
+   "name_en": "From Taksin Intersection towards Ratchada-Ratchaphruek Intersection",
+   "lat": 13.71838,
+   "lng": 100.48378,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1076"
+  },
+  {
+   "id": "1125",
+   "name": "สะพานลอยใกล้ซอยเทอดไท 21 ถนนราชพฤกษ์",
+   "name_th": "รถมาจากแยกรัชดา-ราชพฤกษ์ มุ่งหน้าไปแยกตากสิน",
+   "name_en": "-",
+   "lat": 13.71864,
+   "lng": 100.48352,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1125"
+  },
+  {
+   "id": "191",
+   "name": "สะพานลอยใกล้ซอยนราธิวาส 9 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกสาทร-นราธิวาส",
+   "name_en": "From Chan-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection",
+   "lat": 13.71799,
+   "lng": 100.53205,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=191"
+  },
+  {
+   "id": "206",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 20 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกจันทน์-นราธิวาส",
+   "name_en": "From Ratchada-Naradhiwas Intersection towards Chan-Naradhiwas Intersection",
+   "lat": 13.70545,
+   "lng": 100.53835,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=206"
+  },
+  {
+   "id": "207",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 20 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส",
+   "name_en": "From Chan-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection",
+   "lat": 13.70572,
+   "lng": 100.53861,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=207"
+  },
+  {
+   "id": "180",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 24 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส",
+   "name_en": "From Chan-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection",
+   "lat": 13.70236,
+   "lng": 100.54051,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=180"
+  },
+  {
+   "id": "181",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 24 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกจันทน์-นราธิวาส",
+   "name_en": "From Ratchada-Naradhiwas Intersection towards Chan-Naradhiwas Intersection",
+   "lat": 13.70212,
+   "lng": 100.54031,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=181"
+  },
+  {
+   "id": "182",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 26 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกพระรามที่ 3-นราธิวาส มุ่งหน้าไปแยกรัชดา-นราธิวาส",
+   "name_en": "From Rama 3-Naradhiwas Intersection towards Ratchada-Naradhiwas Intersection",
+   "lat": 13.69905,
+   "lng": 100.54249,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=182"
+  },
+  {
+   "id": "1061",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 26 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกพระราม3",
+   "name_en": "From Ratchada",
+   "lat": 13.69927,
+   "lng": 100.54275,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1061"
+  },
+  {
+   "id": "190",
+   "name": "สะพานลอยใกล้ซอยนราธิวาสราชนครินทร์ 9 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไปแยกจันทน์-นราธิวาส",
+   "name_en": "From Sathon-Naradhiwas Intersection towards Chan-Naradhiwas Intersection",
+   "lat": 13.71822,
+   "lng": 100.5323,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=190"
+  },
+  {
+   "id": "188",
+   "name": "สะพานลอยใกล้ซอยพระรามที่ 3 ซอย 68 ถนนพระรามที่ 3",
+   "name_th": "รถมาจากแยก ณ ระนอง มุ่งหน้าไปแยกนางลิ้นจี่",
+   "name_en": "From Na Ranong Intersection towards Nang Linchi Intersection",
+   "lat": 13.7031,
+   "lng": 100.54591,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=188"
+  },
+  {
+   "id": "189",
+   "name": "สะพานลอยใกล้ซอยพระรามที่ 3 ซอย 68 ถนนพระรามที่ 3",
+   "name_th": "รถมาจากแยกนางลิ้นจี่ มุ่งหน้าไปแยก ณ ระนอง",
+   "name_en": "From Nang Linchi Intersection towards Na Ranong Intersection",
+   "lat": 13.70302,
+   "lng": 100.54573,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=189"
+  },
+  {
+   "id": "173",
+   "name": "สะพานลอยใกล้ซอยพหลโยธิน 15 ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกกำแพงเพชร มุ่งหน้าไปแยกสะพานควาย",
+   "name_en": "From Kamphaeng Phet Intersection towards Saphan Khwai Intersection",
+   "lat": 13.79539,
+   "lng": 100.55039,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=173"
+  },
+  {
+   "id": "1805",
+   "name": "สะพานลอยใกล้ซอยพหลโยธิน 15 ถนนพหลโยธิน",
+   "name_th": "สะพานลอยใกล้ซอยพหลโยธิน 15 ถนนพหลโยธิน",
+   "name_en": "-",
+   "lat": 13.79532,
+   "lng": 100.5502,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1805"
+  },
+  {
+   "id": "1070",
+   "name": "สะพานลอยใกล้ซอยพหลโยธิน 18/2 ถนนพหลโย",
+   "name_th": "รถมาจากกำแพงเพชร มุ่งหน้าไปแยกลาดพร้าว",
+   "name_en": "From Kamphaeng Phet Intersection towards Lat Phrao Intersection",
+   "lat": 13.8085,
+   "lng": 100.55705,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1070"
+  },
+  {
+   "id": "1069",
+   "name": "สะพานลอยใกล้ซอยพหลโยธิน 18/2 ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกกำแพงเพชร",
+   "name_en": "From Lat Phrao Intersection towards Kamphaeng Phet Intersection",
+   "lat": 13.80852,
+   "lng": 100.55739,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1069"
+  },
+  {
+   "id": "256",
+   "name": "สะพานลอยใกล้ซอยเพชรบุรี 27 ถนนเพชรบุรี",
+   "name_th": "รถมาจากแยกประตูน้ำ มุ่งหน้าไปแยกใต้ด่วนเพชรบุรี",
+   "name_en": "From Pratu Nam Intersection towards Intersection under Phetchaburi Expy",
+   "lat": 13.74953,
+   "lng": 100.54403,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=256"
+  },
+  {
+   "id": "257",
+   "name": "สะพานลอยใกล้ซอยเพชรบุรี 27 ถนนเพชรบุรี",
+   "name_th": "รถมาจากแยกใต้ด่วนเพชรบุรี มุ่งหน้าไปแยกประตูน้ำ",
+   "name_en": "From Intersection under Phetchaburi Expy towards Pratu Nam Intersection",
+   "lat": 13.74949,
+   "lng": 100.54416,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=257"
+  },
+  {
+   "id": "250",
+   "name": "สะพานลอยใกล้ซอยเพชรบุรี 38 ถนนเพชรบุรี",
+   "name_th": "รถมาจากแยกพร้อมพงษ์ มุ่งหน้าไปแยกอโศกเพชร",
+   "name_en": "From Prompan Intersection towards Asok-Phetchaburi Intersection",
+   "lat": 13.74854,
+   "lng": 100.56598,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=250"
+  },
+  {
+   "id": "218",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 14 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกห้วยขวาง มุ่งหน้าไปแยกรัชดา-สุทธิสาร",
+   "name_en": "From Huai Khwang Intersection towards Ratchada-Sutthisan Intersection",
+   "lat": 13.78186,
+   "lng": 100.57372,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=218"
+  },
+  {
+   "id": "219",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 14 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-สุทธิสาร มุ่งหน้าไปแยกห้วยขวาง",
+   "name_en": "From Ratchada-Sutthisan Intersection towards Huai Khwang Intersection",
+   "lat": 13.78194,
+   "lng": 100.57389,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=219"
+  },
+  {
+   "id": "222",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 22 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-สุทธิสาร มุ่งหน้าไปแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Ratchada-Sutthisan Intersection towards Ratchada-Lat Phrao Intersection",
+   "lat": 13.79703,
+   "lng": 100.57444,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=222"
+  },
+  {
+   "id": "223",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 22 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชดา-สุทธิสาร",
+   "name_en": "From Ratchada-Lat Phrao Intersection Towards Ratchada-Sutthisan Intersection",
+   "lat": 13.79702,
+   "lng": 100.57464,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=223"
+  },
+  {
+   "id": "1110",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 3",
+   "name_th": "รถมาจากแยกเทียมร่วมมิตรมุ่งหน้าแยกพระราม 9",
+   "name_en": "-",
+   "lat": 13.76166,
+   "lng": 100.56685,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1110"
+  },
+  {
+   "id": "211",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 3 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกพระราม 9 มุ่งหน้าไปแยกเทียมร่วมมิตร",
+   "name_en": "From Rama 9 Intersection towards Thiam Ruam Mit Intersection",
+   "lat": 13.76174,
+   "lng": 100.56672,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=211"
+  },
+  {
+   "id": "215",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 7 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกเทียมร่วมมิตร มุ่งหน้าไปแยกห้วยขวาง",
+   "name_en": "From Thiam Ruam Mit Intersection towards Huai Khwang Intersection",
+   "lat": 13.77275,
+   "lng": 100.57328,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=215"
+  },
+  {
+   "id": "162",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 9 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากรัชดา-ราชพฤกษ์ มุ่งหน้าไปแยกมไหสวรรย์",
+   "name_en": "From Ratchada-Ratchaphruek Intersection towards Mahai Sawan Intersection",
+   "lat": 13.70918,
+   "lng": 100.48021,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=162"
+  },
+  {
+   "id": "163",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก 9 ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกมไหสวรรย์ มุ่งหน้าไปแยกรัชดา-ราชพฤกษ์",
+   "name_en": "From Mahai Sawan Intersection towards Ratchada-Ratchaphruek Intersection",
+   "lat": 13.70902,
+   "lng": 100.48008,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=163"
+  },
+  {
+   "id": "1766",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก21",
+   "name_th": "รถมาจากแยกท่าพระ",
+   "name_en": "-",
+   "lat": 13.72882,
+   "lng": 100.4745,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1766"
+  },
+  {
+   "id": "1767",
+   "name": "สะพานลอยใกล้ซอยรัชดาภิเษก21",
+   "name_th": "รถมาจากแยกท่าพระ มุ่งหน้าแยกรัชดา",
+   "name_en": "-",
+   "lat": 13.73002,
+   "lng": 100.47387,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1767"
+  },
+  {
+   "id": "1434",
+   "name": "สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท",
+   "name_th": "สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท",
+   "name_en": "-",
+   "lat": 13.76172,
+   "lng": 100.53642,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1434"
+  },
+  {
+   "id": "1435",
+   "name": "สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท",
+   "name_th": "สะพานลอยใกล้ซอยรางน้ำ ถนนพญาไท",
+   "name_en": "-",
+   "lat": 13.76167,
+   "lng": 100.53655,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1435"
+  },
+  {
+   "id": "82",
+   "name": "สะพานลอยใกล้ซอยราชปรารภ 3 ถนนราชปรารภ",
+   "name_th": "รถมาจากแยกหมอเหล็ง มุ่งหน้าไปแยกประตูน้ำ",
+   "name_en": "From Si Ayutthaya Road",
+   "lat": 13.75352,
+   "lng": 100.54185,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=82"
+  },
+  {
+   "id": "83",
+   "name": "สะพานลอยใกล้ซอยราชปรารภ 3 ถนนราชปรารภ",
+   "name_th": "รถมากจากแยกประตูน้ำ มุ่งไปแยกหมอเหล็ง",
+   "name_en": "From Phetchaburi Road",
+   "lat": 13.75344,
+   "lng": 100.54183,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=83"
+  },
+  {
+   "id": "39",
+   "name": "สะพานลอยใกล้ซอยวงศ์สว่าง 21 ถนนวงศ์สว่าง",
+   "name_th": "รถมาจากสะพานพระราม 7",
+   "name_en": "From Rama 7 Bridge",
+   "lat": 13.82447,
+   "lng": 100.52438,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=39"
+  },
+  {
+   "id": "258",
+   "name": "สะพานลอยใกล้ซอยศรีอยุธยา 5 ถนนศรีอยุธยา",
+   "name_th": "รถมาจากแยกศรีอยุธยา มุ่งหน้าไปแยกพญาไท",
+   "name_en": "From Si Ayutthaya Intersection towards Payathai Intersection",
+   "lat": 13.75958,
+   "lng": 100.53083,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=258"
+  },
+  {
+   "id": "259",
+   "name": "สะพานลอยใกล้ซอยศรีอยุธยา 5 ถนนศรีอยุธยา",
+   "name_th": "รถมาจากแยกพญาไท มุ่งหน้าไปแยกศรีอยุธยา",
+   "name_en": "From Payathai Intersection towards Si Ayutthaya Intersection",
+   "lat": 13.75941,
+   "lng": 100.53089,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=259"
+  },
+  {
+   "id": "1143",
+   "name": "สะพานลอยใกล้ซอยสาทร 12 ถนนสาทร",
+   "name_th": "รถมาจากแยกสาทร-สุรศักดิ์ มุ่งหน้าไปแยกสาทร-นราธิวาส",
+   "name_en": "-",
+   "lat": 13.72073,
+   "lng": 100.52608,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1143"
+  },
+  {
+   "id": "996",
+   "name": "สะพานลอยใกล้ซอยสาทร 12 ถนนสาทรใต้",
+   "name_th": "รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไป แยกสาทร-สุรศักดิ์",
+   "name_en": "-",
+   "lat": 13.72049,
+   "lng": 100.52599,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=996"
+  },
+  {
+   "id": "132",
+   "name": "สะพานลอยใกล้บริษัทการบินไทย จำกัด(มหาชน) ปากซอยวิภาวดีรังสิต 20 ถนนวิภาวดีรังสิต",
+   "name_th": "รถมาจากแยกสุทธิสาร มุ่งหน้าไปแยกลาดพร้าว",
+   "name_en": "From Sutthisan Intersection towards Lat Phrao Intersection",
+   "lat": 13.80306,
+   "lng": 100.56021,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=132"
+  },
+  {
+   "id": "133",
+   "name": "สะพานลอยใกล้บริษัทการบินไทย จำกัด(มหาชน) ปากซอยวิภาวดีรังสิต 20 ถนนวิภาวดีรังสิต",
+   "name_th": "รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกสุทธิสาร",
+   "name_en": "From Lat Phrao Intersection towards Sutthisan Intersection",
+   "lat": 13.80319,
+   "lng": 100.56054,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=133"
+  },
+  {
+   "id": "212",
+   "name": "สะพานลอยใกล้บิ๊กซีรัชดา ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกเทียมร่วมมิตร มุ่งหน้าไปแยกพระราม 9",
+   "name_en": "From Thiam Ruam Mit Intersection towards Rama 9 Intersection",
+   "lat": 13.76772,
+   "lng": 100.57165,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=212"
+  },
+  {
+   "id": "1793",
+   "name": "สะพานลอยใกล้บิ๊กซีรัชดา ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกพระราม 9 มุ่งหน้าไปแยกเทียมร่วมมิตร",
+   "name_en": "-",
+   "lat": 13.76784,
+   "lng": 100.57146,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1793"
+  },
+  {
+   "id": "136",
+   "name": "สะพานลอยใกล้บิ๊กซีเอ็กซ์ตร้า ปากซอยลาดพร้าว 7 ถนนลาดพร้าว",
+   "name_th": "รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกรัชดา-ลาดพร้าว",
+   "name_en": "From Lat Phrao Intersection towards Ratchada-Lat Phrao Intersection",
+   "lat": 13.80954,
+   "lng": 100.56756,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=136"
+  },
+  {
+   "id": "137",
+   "name": "สะพานลอยใกล้บิ๊กซีเอ็กซ์ตร้า ปากซอยลาดพร้าว 7 ถนนลาดพร้าว",
+   "name_th": "รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกลาดพร้าว",
+   "name_en": "From Ratchada-Lat Phrao Intersection towards Lat Phrao Intersection",
+   "lat": 13.8094,
+   "lng": 100.56754,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=137"
+  },
+  {
+   "id": "195",
+   "name": "สะพานลอยใกล้ปากซอยคอนแวนต์ ถนนสาทรใต้",
+   "name_th": "รถมาจากแยกวิทยุ มุ่งหน้าไปแยกสาทร-นราธิวาส",
+   "name_en": "From Witthayu Intersection towards Sathon-Naradhiwas Intersection",
+   "lat": 13.72348,
+   "lng": 100.53611,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=195"
+  },
+  {
+   "id": "194",
+   "name": "สะพานลอยใกล้ปากซอยคอนแวนต์ ถนนสาทรเหนือ",
+   "name_th": "รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไปแยกวิทยุ",
+   "name_en": "From Sathon-Naradhiwas Intersection towards Witthayu Intersection",
+   "lat": 13.72369,
+   "lng": 100.53598,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=194"
+  },
+  {
+   "id": "170",
+   "name": "สะพานลอยใกล้โรงพยาบาลวุฒิสมเด็จย่า ถนนพหลโยธิน",
+   "name_th": "รถมาจากอนุสาวรีย์ชัยสมรภูมิ มุ่งหน้าไปแยกสะพานควาย",
+   "name_en": "From Victory Monument towards Saphan Khwai Intersection",
+   "lat": 13.78402,
+   "lng": 100.54611,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=170"
+  },
+  {
+   "id": "171",
+   "name": "สะพานลอยใกล้โรงพยาบาลวุฒิสมเด็จย่า ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกสะพานควาย มุ่งหน้าไปอนุสาวรีย์ชัยสมรภูมิ",
+   "name_en": "From Saphan Khwai Intersection towards Victory Monument",
+   "lat": 13.78407,
+   "lng": 100.5463,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=171"
+  },
+  {
+   "id": "251",
+   "name": "สะพานลอยใกล้วัดดิสหงษาราม ถนนเพชรบุรี",
+   "name_th": "รถมาจากแยกใต้ด่วนเพชรบรี มุ่งหน้าไปแยกมิตรสัมพันธ์",
+   "name_en": "From Intersection under Phetchaburi Expy towards Mit Samphan Intersection",
+   "lat": 13.74985,
+   "lng": 100.55148,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=251"
+  },
+  {
+   "id": "252",
+   "name": "สะพานลอยใกล้วัดดิสหงษาราม ถนนเพชรบุรี",
+   "name_th": "รถมาจากแยกมิตรสัมพันธ์ มุ่งหน้าไปแยกใต่ด่วนเพชรบุรี",
+   "name_en": "From Mit Samphan Intersection towards  Intersection under Phetchaburi Expy",
+   "lat": 13.74981,
+   "lng": 100.55158,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=252"
+  },
+  {
+   "id": "225",
+   "name": "สะพานลอยใกล้ศาลอาญา ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชโยธิน",
+   "name_en": "From Ratchada-Lat Phrao Intersection towards Ratchayothin Intersection",
+   "lat": 13.81523,
+   "lng": 100.57533,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=225"
+  },
+  {
+   "id": "128",
+   "name": "สะพานลอยใกล้สถานีรถไฟฟ้ากรุงธนบุรี ถนนกรุงธนบุรี",
+   "name_th": "รถมาจากสะพานตากสิน มุ่งหน้าไปแยกตากสิน",
+   "name_en": "From Saphan Taksin towards Taksin Intersection",
+   "lat": 13.72077,
+   "lng": 100.50375,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=128"
+  },
+  {
+   "id": "129",
+   "name": "สะพานลอยใกล้สถานีรถไฟฟ้ากรุงธนบุรี ถนนกรุงธนบุรี",
+   "name_th": "รถมาจากแยกตากสิน มุ่งหน้าไปสะพานตากสิน",
+   "name_en": "From Taksin Intersection towards Saphan Taksin",
+   "lat": 13.72101,
+   "lng": 100.50363,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=129"
+  },
+  {
+   "id": "130",
+   "name": "สะพานลอยใกล้สถานีรถไฟฟ้าวงเวียนใหญ่ ถนนกรุงธนบุรี",
+   "name_th": "รถมาจากสะพานตากสิน มุ่งหน้าไปแยกตากสิน",
+   "name_en": "From Saphan Taksin  towards Taksin Intersection",
+   "lat": 13.72116,
+   "lng": 100.49695,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=130"
+  },
+  {
+   "id": "131",
+   "name": "สะพานลอยใกล้สถานีรถไฟฟ้าวงเวียนใหญ่ ถนนกรุงธนบุรี",
+   "name_th": "รถมาจากแยกตากสิน มุ่งหน้าไปสะพานตากสิน",
+   "name_en": "From Taksin Intersection towards Saphan Taksin",
+   "lat": 13.72092,
+   "lng": 100.49681,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=131"
+  },
+  {
+   "id": "51",
+   "name": "สะพานลอยใกล้ห้องอาหารราชตฤณมัยสมาคม ถนนพิษณุโลก",
+   "name_th": "รถมาจากแยกยมราช",
+   "name_en": "From Yommarat Intersection",
+   "lat": 13.76062,
+   "lng": 100.51684,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=51"
+  },
+  {
+   "id": "1124",
+   "name": "สะพานลอยใกล้ห้องอาหารราชตฤณมัยสมาคม ถนนพิษณุโลก",
+   "name_th": "รถมุ่งหน้าแยกนางเลิ้ง",
+   "name_en": "-",
+   "lat": 13.76053,
+   "lng": 100.51674,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1124"
+  },
+  {
+   "id": "997",
+   "name": "สะพานลอยใกล้ห้องอาหารราชตฤณมัยสมาคม ปากซอยพิษณุโลก 1 ถนนพิษณุโลก",
+   "name_th": "รถมาจากแยกนางเลิ้ง มุ่งหน้าไปแยกยมราช",
+   "name_en": "From Nang Loeng Intersection",
+   "lat": 13.7606,
+   "lng": 100.51682,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=997"
+  },
+  {
+   "id": "255",
+   "name": "สะพานลอยซอยเพชรบุรี 35",
+   "name_th": "สะพานลอยซอยเพชรบุรี 35",
+   "name_en": "From Pratu Nam Intersection towards Ratchathewi Intersection",
+   "lat": 13.74954,
+   "lng": 100.54669,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=255"
+  },
+  {
+   "id": "127",
+   "name": "สะพานลอยซอยรัชดาภิเษก 30 ใกล้แยกรัชดา-ลาดพร้าว ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชดา-ลาดพร้าว มุ่งหน้าไปแยกรัชโยธิน",
+   "name_en": "From Ratchada-Lat Phrao Intersection towards Ratchayothin Intersection",
+   "lat": 13.81001,
+   "lng": 100.57511,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=127"
+  },
+  {
+   "id": "254",
+   "name": "สะพานลอยเพชรบุรี 35",
+   "name_th": "สะพานลอยเพชรบุรี 35",
+   "name_en": "From Payathai Intersection towards Pratu Nam Intersection",
+   "lat": 13.74959,
+   "lng": 100.54667,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=254"
+  },
+  {
+   "id": "1627",
+   "name": "สะพานลอยวิภาวดีรังสิต 8",
+   "name_th": "สะพานลอยวิภาวดีรังสิต 8",
+   "name_en": "-",
+   "lat": 13.78637,
+   "lng": 100.56084,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1627"
+  },
+  {
+   "id": "185",
+   "name": "สะพานลอยสถานี BRT พระราม 3 ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกรัชดา-นราธิวาส มุ่งหน้าไปแยกพระรามที่ 3-นราธิวาส",
+   "name_en": "From Ratchada-Naradhiwas Intersection towards Rama3-Naradhiwas Intersection",
+   "lat": 13.69656,
+   "lng": 100.54538,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=185"
+  },
+  {
+   "id": "1444",
+   "name": "สะพานลอยหน้า Big C ราชดำริ",
+   "name_th": "สะพานลอยหน้า Big C ราชดำริ",
+   "name_en": "-",
+   "lat": 13.74783,
+   "lng": 100.54074,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1444"
+  },
+  {
+   "id": "253",
+   "name": "สะพานลอยหน้า Big C ราชดำริ ถนนราชดำริ",
+   "name_th": "รถมาจากแยกราชประสงค์ มุ่งหน้าไปแยกประตูน้ำ",
+   "name_en": "From Pratu Nam Intersection towards Ratchaprasong Intersection",
+   "lat": 13.74786,
+   "lng": 100.54078,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=253"
+  },
+  {
+   "id": "1445",
+   "name": "สะพานลอยหน้า ม.ราชภัฏวไลยอลงกรณ์ ใกล้ซอยเพชรบุรี 5 ถนนเพชรบุรี",
+   "name_th": "สะพานลอยหน้า ม.ราชภัฏวไลยอลงกรณ์ ใกล้ซอยเพชรบุรี 5 ถนนเพชรบุรี",
+   "name_en": "-",
+   "lat": 13.75455,
+   "lng": 100.52806,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1445"
+  },
+  {
+   "id": "1446",
+   "name": "สะพานลอยหน้า ม.ราชภัฏวไลยอลงกรณ์ ใกล้ซอยเพชรบุรี 5 ถนนเพชรบุรี",
+   "name_th": "รถมาจากแยกราชเทวีมุ่งหน้าไปอุรุพงษ์",
+   "name_en": "-",
+   "lat": 13.75459,
+   "lng": 100.52806,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1446"
+  },
+  {
+   "id": "1128",
+   "name": "สะพานลอยหน้า รร.วัดพระยายัง ใกล้ซอยพระรามที่ 6",
+   "name_th": "สะพานลอยหน้า รร.วัดพระยายัง",
+   "name_en": "-",
+   "lat": 13.75242,
+   "lng": 100.52223,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1128"
+  },
+  {
+   "id": "178",
+   "name": "สะพานลอยหน้า โรงพยาบาลพญาไท 2 ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกสะพานควาย มุ่งหน้าไปอนุสาวรีย์ชัยสมรภูมิ",
+   "name_en": "From Saphan Khwai Intersection towards Victory Monument",
+   "lat": 13.76938,
+   "lng": 100.54086,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=178"
+  },
+  {
+   "id": "179",
+   "name": "สะพานลอยหน้า โรงพยาบาลพญาไท 2 ถนนพหลโยธิน",
+   "name_th": "รถมาจากอนุสาวรีย์ชัยสมรภูมิ มุ่งหน้าไปแยกสะพานควาย",
+   "name_en": "From Victory Monument towards Saphan Khwai Intersection",
+   "lat": 13.76937,
+   "lng": 100.5407,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=179"
+  },
+  {
+   "id": "1430",
+   "name": "สะพานลอยหน้า โรงเรียนเซนต์คาเบรียล ถนนสามเสน",
+   "name_th": "สะพานลอยหน้า โรงเรียนเซนต์คาเบรียล  ถนนสามเสน",
+   "name_en": "-",
+   "lat": 13.77562,
+   "lng": 100.50722,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1430"
+  },
+  {
+   "id": "1127",
+   "name": "สะพานลอยหน้า วชิรพยาบาล ถนนสามเสน",
+   "name_th": "รถมาจากแยกแยกซังฮี้ มุ่งหน้าไปแยกเทเวศรนฤมิตร",
+   "name_en": "-",
+   "lat": 13.77559,
+   "lng": 100.50708,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1127"
+  },
+  {
+   "id": "135",
+   "name": "สะพานลอยหน้าโตโยต้าชัวร์ ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกรัชดา-  ลาดพร้าว",
+   "name_en": "From Ratchayothin Intersection towards Ratchada-Lat Phrao Intersection",
+   "lat": 13.82394,
+   "lng": 100.57316,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=135"
+  },
+  {
+   "id": "1406",
+   "name": "สะพานลอยหน้าโตโยต้าชัวร์ ถนนรัชดาภิเษก",
+   "name_th": "แยกรัชดา-ลาดพร้าวมุ่งหน้าแยกรัชโยธิน",
+   "name_en": "-",
+   "lat": 13.82377,
+   "lng": 100.57305,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1406"
+  },
+  {
+   "id": "140",
+   "name": "สะพานลอยหน้าบริษัท ปตท. จำกัด(มหาชน) ใกล้ซอยวิภาวดีรังสิต 11 ถนนวิภาวดีรังสิต",
+   "name_th": "รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกต่างระดับรัชวิภา",
+   "name_en": "From Lat Phrao Intersection towards Ratchawipha Interchange",
+   "lat": 13.81832,
+   "lng": 100.55863,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=140"
+  },
+  {
+   "id": "141",
+   "name": "สะพานลอยหน้าบริษัท ปตท. จำกัด(มหาชน) ใกล้ซอยวิภาวดีรังสิต 11 ถนนวิภาวดีรังสิต",
+   "name_th": "รถมาจากแยกต่างระดับรัชวิภา มุ่งหน้าไปแยกลาดพร้าว",
+   "name_en": "From Ratchawipha Interchange towards Lat Phrao Intersection",
+   "lat": 13.81844,
+   "lng": 100.5589,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=141"
+  },
+  {
+   "id": "197",
+   "name": "สะพานลอยหน้าแมคโคร ถนนนราธิวาสราชนครนทร์",
+   "name_th": "รถมาจากแยกจันทน์-นราธิวาส มุ่งหน้าไปแยกสาทร-นราธิวาส",
+   "name_en": "From Chan-Naradhiwas Intersection towards Sathon-Naradhiwas Intersection",
+   "lat": 13.70958,
+   "lng": 100.53621,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=197"
+  },
+  {
+   "id": "196",
+   "name": "สะพานลอยหน้าแมคโคร ถนนนราธิวาสราชนครินทร์",
+   "name_th": "รถมาจากแยกสาทร-นราธิวาส มุ่งหน้าไปแยกจันทน์-นราธิวาส",
+   "name_en": "From Sathon-Naradhiwas Intersection towards Chan-Naradhiwas Intersection",
+   "lat": 13.70981,
+   "lng": 100.53647,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=196"
+  },
+  {
+   "id": "1437",
+   "name": "สะพานลอยหน้าโรงพยาบาลรามาธิบดี",
+   "name_th": "สะพานลอยหน้าโรงพยาบาลรามาธิบดี",
+   "name_en": "-",
+   "lat": 13.76675,
+   "lng": 100.52786,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1437"
+  },
+  {
+   "id": "1438",
+   "name": "สะพานลอยหน้าโรงพยาบาลรามาธิบดี",
+   "name_th": "สะพานลอยหน้าโรงพยาบาลรามาธิบดี",
+   "name_en": "-",
+   "lat": 13.7664,
+   "lng": 100.5275,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1438"
+  },
+  {
+   "id": "138",
+   "name": "สะพานลอยหน้าโรงเรียนหอวัง ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกรัชโยธิน",
+   "name_en": "From Lat Phrao Intersection  towards Ratchayothin Intersection",
+   "lat": 13.81817,
+   "lng": 100.56284,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=138"
+  },
+  {
+   "id": "139",
+   "name": "สะพานลอยหน้าโรงเรียนหอวัง ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกรัชโยธิน มุ่งหน้าไปแยกลาดพร้าว",
+   "name_en": "From Ratchayothin Intersection  towards Lat Phrao Intersection",
+   "lat": 13.81817,
+   "lng": 100.56304,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=139"
+  },
+  {
+   "id": "226",
+   "name": "สะพานลอยหน้าวัดเทพศิรินทร์ ถนนหลวง",
+   "name_th": "รถมาจากแยกนพวงศ์ มุ่งหน้าไปแยกพลับพลาไชย",
+   "name_en": "From Nopphawong Intersection towards Klang Hospital",
+   "lat": 13.746,
+   "lng": 100.51323,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=226"
+  },
+  {
+   "id": "1132",
+   "name": "สะพานลอยหน้าวัดสุวรรณ ตรงข้ามซอยเจริญนคร 9 ถนนเจริญนคร",
+   "name_th": "รถมาจากแยกเจริญนครใต้",
+   "name_en": "from Charoen Nakhon South junction.",
+   "lat": 13.72395,
+   "lng": 100.50916,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1132"
+  },
+  {
+   "id": "1078",
+   "name": "สะพานลอยหน้าวัดสุวรรณ ตรงข้ามซอยเจริญนคร 9 ถนนเจริญนคร",
+   "name_th": "รถมาจากแยกคลองสาน มุ่งหน้าไปแยกเจริญนคร",
+   "name_en": "from Khlong San Intersection",
+   "lat": 13.72394,
+   "lng": 100.50904,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1078"
+  },
+  {
+   "id": "168",
+   "name": "สะพานลอยหน้าวัดเสาหิน ใกล้ซอยวงศ์สว่าง 3 ถนนวงศ์สว่าง",
+   "name_th": "รถมาจากแยกวงศ์สว่าง มุ่งหน้าไปสะพานพระราม 7",
+   "name_en": "From Wongsawang Intersection towards Rama 7 Bridge",
+   "lat": 13.81861,
+   "lng": 100.5179,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=168"
+  },
+  {
+   "id": "169",
+   "name": "สะพานลอยหน้าวัดเสาหิน ใกล้ซอยวงศ์สว่าง 3 ถนนวงศ์สว่าง",
+   "name_th": "รถมาจากสะพานพระราม 7 มุ่งหน้าไปแยกวงศ์สว่าง",
+   "name_en": "From Rama7 Bridge towards Wongsawang Intersection",
+   "lat": 13.81863,
+   "lng": 100.51776,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=169"
+  },
+  {
+   "id": "1074",
+   "name": "สะพานลอยหน้าสนามกีฬาศุภชลาศัย ถนนพระรามที่ 1",
+   "name_th": "รถมาจากแยกปทุมวัน มุ่งหน้าไปแยกเจริญผล",
+   "name_en": "From Pathum Wan Intersection towards Cha Roen Phon Intersection",
+   "lat": 13.74687,
+   "lng": 100.52666,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1074"
+  },
+  {
+   "id": "1075",
+   "name": "สะพานลอยหน้าสนามกีฬาศุภชลาศัย ถนนพระรามที่ 1",
+   "name_th": "รถมาจากแยกเจริญผล มุ่งหน้าไปแยกปทุมวัน",
+   "name_en": "From Cha Roen Phon Intersection towards Pathum Wan Intersection",
+   "lat": 13.74699,
+   "lng": 100.52661,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1075"
+  },
+  {
+   "id": "176",
+   "name": "สะพานลอยหน้าสวนจตุจักร ถนนพหลโยธิน",
+   "name_th": "รถมาจากแยกลาดพร้าว มุ่งหน้าไปแยกกำแพงเพชร",
+   "name_en": "From Lat Phrao Intersection towards Kamphaeng Phet Intersection",
+   "lat": 13.80161,
+   "lng": 100.55333,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=176"
+  },
+  {
+   "id": "177",
+   "name": "สะพานลอยหน้าสวนจตุจักร ถนนพหลโยธิน",
+   "name_th": "รถมาจากกำแพงเพชร มุ่งหน้าไปแยกลาดพร้าว",
+   "name_en": "From Kamphaeng Phet Intersection towards Lat Phrao Intersection",
+   "lat": 13.80162,
+   "lng": 100.553,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=177"
+  },
+  {
+   "id": "220",
+   "name": "สะพานลอยหน้าอาคารเมืองไทย - ภัทร คอมเพล็กซ์ ถนนรัชดาภิเษก",
+   "name_th": "รถมาจากแยกห้วยขวาง มุ่งหน้าไปแยกรัชดา-สุทธิสาร",
+   "name_en": "From Huai Khwang Intersection towards Ratchada-Sutthisan Intersection",
+   "lat": 13.7875,
+   "lng": 100.57398,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=220"
+  },
+  {
+   "id": "1429",
+   "name": "เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน",
+   "name_th": "เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน 2",
+   "name_en": "-",
+   "lat": 13.78413,
+   "lng": 100.51402,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1429"
+  },
+  {
+   "id": "1432",
+   "name": "เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน",
+   "name_th": "เสาป้ายหน้าศรีย่านทันตแพทย์ เยื้องซอยศรีย่าน 2 ถนนนครไชยศรี",
+   "name_en": "-",
+   "lat": 13.78409,
+   "lng": 100.51404,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1432"
+  },
+  {
+   "id": "228",
+   "name": "หน้า รพ.กลาง ถนนหลวง",
+   "name_th": "รถมาจากแยกโรงพยาบาลกลาง มุ่งหน้าไปแยกวรจักร",
+   "name_en": "From Klang Hospital  towards Worachak Intersection",
+   "lat": 13.74709,
+   "lng": 100.50944,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=228"
+  },
+  {
+   "id": "1426",
+   "name": "หน้ากรมชลประทาน ถนนสามเสน",
+   "name_th": "หน้ากรมชลประทาน ถนนสามเสน",
+   "name_en": "-",
+   "lat": 13.7867,
+   "lng": 100.51268,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1426"
+  },
+  {
+   "id": "1427",
+   "name": "หน้ากรมชลประทาน ถนนสามเสน",
+   "name_th": "หน้ากรมชลประทาน ถนนสามเสน",
+   "name_en": "-",
+   "lat": 13.78671,
+   "lng": 100.51272,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1427"
+  },
+  {
+   "id": "152",
+   "name": "หน้ากรมทหารม้าที่ 3 รักษาพระองค์ ถนนทหาร",
+   "name_th": "รถมาจากแยกเกียกกาย มุ่งหน้าไปแยกสะพานแดง",
+   "name_en": "From Kiak Kai Intersection towards Saphan Daeng Bridge Intersection",
+   "lat": 13.79617,
+   "lng": 100.52417,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=152"
+  },
+  {
+   "id": "153",
+   "name": "หน้ากรมทหารม้าที่ 3 รักษาพระองค์ ถนนทหาร",
+   "name_th": "รถมาจากแยกสะพานแดง มุ่งหน้าไปแยกเกียกกาย",
+   "name_en": "From Saphan Daeng Bridge Intersection towards Kiak Kai Intersection",
+   "lat": 13.79624,
+   "lng": 100.52423,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=153"
+  },
+  {
+   "id": "1168",
+   "name": "หน้ากระทรวงวัฒนธรรม",
+   "name_th": "หน้ากระทรวงวัฒนธรรม",
+   "name_en": "-",
+   "lat": 13.78182,
+   "lng": 100.4739,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1168"
+  },
+  {
+   "id": "1169",
+   "name": "หน้ากระทรวงวัฒนธรรม",
+   "name_th": "หน้ากระทรวงวัฒนธรรม",
+   "name_en": "-",
+   "lat": 13.78396,
+   "lng": 100.47186,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1169"
+  },
+  {
+   "id": "154",
+   "name": "หน้ากองพันทหารปืนใหญ่ที่ 1 รักษาพระองค์ ถนนประดิพัทธ์",
+   "name_th": "รถมาจากแยกสะพานแดง มุ่งหน้าไปแยกเทอดดำริ",
+   "name_en": "From Saphan Daeng Bridge Intersection towards Pradiphat Intersection",
+   "lat": 13.79282,
+   "lng": 100.5336,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=154"
+  },
+  {
+   "id": "155",
+   "name": "หน้ากองพันทหารปืนใหญ่ที่ 1 รักษาพระองค์ ถนนประดิพัทธ์",
+   "name_th": "รถมาจากแยกเทอดดำริ มุ่งหน้าไปแยกสะพานแดง",
+   "name_en": "From Pradiphat Intersection towards Saphan Daeng Bridge Intersection",
+   "lat": 13.79273,
+   "lng": 100.53358,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=155"
+  },
+  {
+   "id": "227",
+   "name": "หน้าตลาดคลองถม ถนนเจริญกรุง",
+   "name_th": "รถมาจากแยกเอส เอ บี มุ่งหน้าไปแยกเสือป่า",
+   "name_en": "From S.A.B. Intersection towards Suea Pa Intersection",
+   "lat": 13.74473,
+   "lng": 100.50662,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=227"
+  },
+  {
+   "id": "68",
+   "name": "หน้าธนาคารกรุงเทพ สาขาวรจักร ถนนวรจักร",
+   "name_th": "รถมาจากแยกแม้นศรี มุ่งหน้าไปแยกวรจักร",
+   "name_en": "From Worachak Intersection",
+   "lat": 13.74928,
+   "lng": 100.50754,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=68"
+  },
+  {
+   "id": "70",
+   "name": "หน้าธนาคารแห่งประเทศไทย ถนนสามเสน",
+   "name_th": "รถมาจากแยกเทเวศร์มุ่งหน้าไปแยกบางขุนพรหม",
+   "name_en": "From Thewet Intersection",
+   "lat": 13.76855,
+   "lng": 100.50275,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=70"
+  },
+  {
+   "id": "1361",
+   "name": "หน้าธนาคารแห่งประเทศไทย ถนนสามเสน",
+   "name_th": "ด้านขวารถมาจากแยกบางขุนพรหมมุ่งหน้าไปแยกเทเวศร์",
+   "name_en": "From Bangkhunprom Intersection",
+   "lat": 13.76854,
+   "lng": 100.50265,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1361"
+  },
+  {
+   "id": "1439",
+   "name": "หน้าปากซอยแม้นศรี 2",
+   "name_th": "หน้าปากซอยแม้นศรี 2",
+   "name_en": "-",
+   "lat": 13.75118,
+   "lng": 100.51078,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1439"
+  },
+  {
+   "id": "1060",
+   "name": "หน้าโรงเรียนสายปัญญา ถนนกรุงเกษม",
+   "name_th": "รถมุ่งหน้าไปถนนพระรามที่1",
+   "name_en": "from Rama 1 Road",
+   "lat": 13.74295,
+   "lng": 100.51573,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1060"
+  },
+  {
+   "id": "44",
+   "name": "หน้าวัดชัยมงคล ถนนพระรามที่ 1",
+   "name_th": "รถมาจากแยกพงษ์พระราม มุ่งหน้าไปแยกเจริญผล",
+   "name_en": "From Cha Roen Phon Intersection",
+   "lat": 13.74762,
+   "lng": 100.52302,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=44"
+  },
+  {
+   "id": "45",
+   "name": "หน้าวัดชัยมงคล ถนนพระรามที่ 1",
+   "name_th": "รถมาจากแยกเจริญผล มุ่งหน้าไปแยกพงษ์พระราม",
+   "name_en": "From Cha Roen Phon Intersection",
+   "lat": 13.74752,
+   "lng": 100.523,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=45"
+  },
+  {
+   "id": "991",
+   "name": "หน้าศาลรัฐธรรมนูญ",
+   "name_th": "หน้าศาลรัฐธรรมนูญ",
+   "name_en": "Department of Special Investigation",
+   "lat": 13.89089,
+   "lng": 100.56619,
+   "pin": "pin_camera_flood.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=991"
+  },
+  {
+   "id": "1788",
+   "name": "หน้าศูนย์ฮอนด้า สาขาปทุมวัน ถนนพญาไท",
+   "name_th": "รถมาจากแยกราชเทวี มุ่งหน้าไปแยกปทุมวัน",
+   "name_en": "-",
+   "lat": 13.74722,
+   "lng": 100.53079,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1788"
+  },
+  {
+   "id": "1170",
+   "name": "หน้าห้างเซ็นทรัลปิ่นเกล้า",
+   "name_th": "หน้าห้างเซ็นทรัลปิ่นเกล้า",
+   "name_en": "-",
+   "lat": 13.77889,
+   "lng": 100.47659,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1170"
+  },
+  {
+   "id": "1206",
+   "name": "อนุสาวรีย์ชัยสมรภูมิ",
+   "name_th": "ทางแยกอ.ชัยสมรภูมิ",
+   "name_en": "-",
+   "lat": 13.76427,
+   "lng": 100.53773,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1206"
+  },
+  {
+   "id": "1703",
+   "name": "อุโมงทางออกแยกมไหสวรรย์",
+   "name_th": "-",
+   "name_en": "-",
+   "lat": 13.6995,
+   "lng": 100.4837,
+   "pin": "pin-right.png",
+   "viewer_url": "http://www.bmatraffic.com/PlayVideo.aspx?ID=1703"
+  }
+ ]
+}

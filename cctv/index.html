@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="th"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#3b7be0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="CCTV THAI">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon-192.png" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<title>CCTV THAI — กล้องสดทั่วไทย</title>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="style.css">
+<script src="vendor/leaflet.js" defer></script>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js" defer></script>
+<script src="app.js" defer></script>
+</head><body>
+<div id="map"></div>
+
+<!-- Left: search & filters -->
+<section class="card search-card">
+  <div class="brand"><span class="logo">◉</span><div><b>CCTV THAI</b><small id="status">กำลังโหลดกล้อง…</small></div></div>
+  <label class="search"><svg viewBox="0 0 24 24" width="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m20 20-4.5-4.5"/></svg>
+    <input id="search" placeholder="ค้นหาถนน แยก หรือสถานที่" autocomplete="off"></label>
+  <div id="results" class="results" hidden></div>
+  <div class="chips">
+    <button class="chip" id="goBkk">กรุงเทพฯ</button>
+    <button class="chip" id="goTh">ทั้งประเทศ</button>
+    <button class="chip toggle" id="onlyLive" aria-pressed="false">▶ วิดีโอเท่านั้น</button>
+  </div>
+  <details class="sources" id="sourcesBox"><summary>แหล่งกล้อง</summary><div id="sources"></div></details>
+</section>
+
+<!-- Top-right actions -->
+<div class="top-actions">
+  <button class="pill" id="themeBtn" aria-label="ธีมแผนที่">◐ ธีม</button>
+  <button class="pill primary" id="favBtn">★ กล้องโปรด <span id="favCount">0</span></button>
+</div>
+<section class="card theme-card" id="themeCard" hidden>
+  <div class="card-head"><span>ธีมแผนที่</span><button class="x" id="themeClose" aria-label="ปิด">×</button></div>
+  <div class="themes" id="themes"></div>
+</section>
+
+<!-- Right: collapsible camera panel -->
+<aside class="card panel" id="panel">
+  <button class="collapse" id="collapse" aria-label="พับแถบกล้อง" title="พับ / กางแถบกล้อง">›</button>
+  <div class="viewer" id="viewer" hidden>
+    <div class="viewer-media" id="viewerMedia"></div>
+    <div class="viewer-info"><div><b id="viewerTitle"></b><small id="viewerOrg"></small></div>
+      <div class="viewer-btns"><button class="icon" id="viewerMax" aria-label="ขยายเต็มจอ" title="ขยายเต็มจอ">⤢</button><button class="icon star" id="viewerFav" aria-label="เพิ่มกล้องโปรด">☆</button><button class="icon" id="viewerClose" aria-label="ปิด">×</button></div></div>
+  </div>
+  <div class="panel-head"><div><small>กล้องในบริเวณนี้</small><h2 id="listTitle">—</h2></div></div>
+  <div class="list" id="list"></div>
+</aside>
+<button class="pill reopen" id="reopen" hidden>‹ กล้อง</button>
+
+<!-- Favourites multi-view -->
+<section class="wall" id="wall" hidden>
+  <header class="wall-bar">
+    <b>★ กล้องโปรด</b>
+    <div class="seg" id="layout"><button data-n="1">1</button><button data-n="4" class="on">4</button><button data-n="9">9</button><button data-n="16">16</button></div>
+    <span class="grow" id="wallMore"></span>
+    <button class="pill" id="wallClose">กลับแผนที่</button>
+  </header>
+  <div class="wall-grid" id="wallGrid"></div>
+  <p class="wall-empty" id="wallEmpty">ยังไม่มีกล้องโปรด — กด ☆ ที่การ์ดกล้องเพื่อเพิ่ม</p>
+</section>
+
+<footer class="credit">ภาพจาก iTIC / Longdo · กรมทางหลวง · กรมทรัพยากรน้ำ · Hat Yai City Climate · GISTDA · กทม. · เมืองพัทยา · แผนที่ © Esri, OpenStreetMap · ใช้ส่วนตัว</footer>
+</body></html>

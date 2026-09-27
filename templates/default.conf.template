@@ -1,0 +1,33 @@
+server {
+    listen 5455;
+    root /usr/share/nginx/html;
+    index index.html;
+    types { application/manifest+json webmanifest; }
+    include /etc/nginx/mime.types;
+
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+
+    # Written every 30 min by the "checker" service (shared volume).
+    location /status/ {
+        alias /srv/status/;
+        add_header Cache-Control "no-cache";
+    }
+
+    # DOH streaming server sends an incomplete TLS chain, which some browsers reject.
+    # Relay it through here so the page always talks to a same-origin URL.
+    location /proxy/doh/ {
+        resolver ${NGINX_LOCAL_RESOLVERS} valid=300s ipv6=off;
+        set $doh streaming1.highwaytraffic.go.th;
+        rewrite ^/proxy/doh/(.*)$ /$1 break;
+        proxy_pass https://$doh;
+        proxy_ssl_server_name on;
+        proxy_ssl_name $doh;
+        proxy_ssl_verify off;
+        proxy_set_header Host $doh;
+        proxy_buffering off;
+        proxy_connect_timeout 10s;
+        proxy_read_timeout 30s;
+    }
+}
